@@ -1,12 +1,12 @@
 - name: About
   path: about.html
   section_id: about
-- name: Portfolio
+- name: Project
   path: portfolio.html
   section_id: portfolio
 - name: Contact
   path: contact.html
   section_id: contact
-- name: Post
+- name: News
   path: blog/
   section_id: blog
