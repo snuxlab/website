@@ -1,16 +1,49 @@
 ---
 layout: post
-title:  Make some sketches
+title: 유우엑스 랩의 바쁘고 알찬 하루
 date:   2015-05-04 10:20:05
 categories:
-  - Logo Design
-  - Tricks and Tips
+  - 랩미팅
 tags:
-  - design
-  - photography
+  - 랩미팅
 author: admin
 images:
   - images/@stock/blog-3.jpg
 excerpt:
-  Qui eaque voluptatem sunt dicta vel aut. aut aut molestiae distinctio. laborum iure molestiae aut aut incidunt aliquid qui ea nemo consequatur animi delectus perspiciatis quas. porro consequatur rerum quis commodi et ipsum error quia aspernatur. nisi incidunt dolores tenetur ut mollitia quia ipsam aut. sit ut eius ut quae mollitia dolorum praesentium labore deleniti similique alias tempora quod. a ratione velit ut repudiandae dolor eaque dignissimos nobis
+  무더운 날씨 관악 캠퍼스에서 랩미팅을 가지고,이어 판교로 이동하여 챗봇 회의를 가진 유우엑스랩.비록 정말 바쁜 하루였지만 오늘도 사용자에게 좋은 서비스를 제공하기 위해 연구하고 논의를 멈추지 않습니다. 서울대학교 사용자 경험 연구원들은 오늘 서울대학교 관악 캠퍼스 18동 아이디어스 랩에서 랩 미팅을 가졌습니다.오프닝은 밀크티를 마시며 오손도손 인사를 나누는 것 부터 시작을 합니다. 모두 더운 날씨 어렵게 캠퍼스 안 랩미팅 장소를 찾아 아침 일찍 모인 랩원들에게 격려의 말 한마디씩 건넵니다.
 ---
+무더운 날씨 관악 캠퍼스에서 랩미팅을 가지고, 
+이어 판교로 이동하여 챗봇 회의를 가진 유우엑스랩.
+비록 정말 바쁜 하루였지만 오늘도 사용자에게 좋은 서비스를 제공하기 위해 연구하고 논의를 멈추지 않습니다.
+
+서울대학교 사용자 경험 연구원들은 오늘
+서울대학교 관악 캠퍼스 18동 아이디어스 랩에서 랩 미팅을 가졌습니다.
+
+오프닝은 밀크티를 마시며 오손도손 인사를 나누는 것 부터 시작을 합니다. 모두 더운 날씨 어렵게 캠퍼스 안 랩미팅 장소를 찾아 아침 일찍 모인 랩원들에게 격려의 말 한마디씩 건넵니다.
+
+
+관심주제 발제
+1.  한수교 > A Multi-method Approach to Activities of ‘Photaku’: Photo-taking Fans in the Korean Entertainment Industry를 발표 하였습니다. 스페인 바르셀로나에서 있을 ASONAM학회 발표 연습과 더불어 개인연구 진행방향을 공유하였습니다.
+2.  윤수경 > Personal Tracking of Screen Time on Digital Devices 라는 주제로 개인연구 진행방향 공유하였습니다.
+3.  이정복 > All Work and No Play? Conversations with a Question-and-Answer Chatbot in the Wild 라는 주제로 논문 발제를 진행했습니다.
+
+이 후 사용자 경험 연구실은 문화콘텐츠진흥원과 공동으로 진행하는 공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 서비스 기술 개발 회의가 진행되었습니다.
+해당 회의는 RYSE 호텔에서 4시부터 진행이 되었습니다.
+이 날은 서울대학교 사용자 경험 연구실 이중식 교수님과 C.IB팀 C.Data 팀, 박남호 선생님과 크레디아, 머니 브레인, 서울대학교 언론 정보학과 연구실 교수님과 랩원들이 모여 함께 챗봇 서비스 개발 방향에 대해 논의했습니다.
+
+해당 회의에서는 각 팀이 맡은 Process에 대한 Report가 있었습니다
+
+C.IB 팀의 파일럿 실험결과를 통해 문화 컨시어지 챗봇을 사용하는 사용자의 행동 분석 결과를 볼 수 있었습니다.
+Wizard of OZ를 활용하여 사용자에게 직접 챗봇이 되어 공연 추천을 해주는 실험을 통해 사용자의 needs와 발화를 조사할 수 있었습니다.
+
+다음으로는 C.Data 팀의 챗봇/Voice  Assistants 의 smart solutions / Knowledge base와 Ontology에 대해서 조사한 바를 발표 했습니다.
+앞으로 1년 간은 챗봇 개발에 집중할 예정이며, Sales 부분은 추후에 논의하기로 결론을 지었습니다.
+
+앞으로 어떤 발전을 이룩해낼 지 기대가 됩니다.
+
+
+< 회의를 마치고 >
+회의를 마치고 회의를 한 호텔의 루프탑에서 회의에 참가한 모든 팀이 즐거운 여유 시간을 가졌습니다.
+옥상에서 보는 서울 시내의 야경은 말로 다할 수가 없이 아름다웠습니다.
+
+아름다운 옥상 사진과 함께 긴 하루를 마무리 하겠습니다.
