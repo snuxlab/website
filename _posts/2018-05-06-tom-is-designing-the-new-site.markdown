@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 청소년 융합스쿨 준비
-date: 2018-05-06 
+date: 2018-08-06 
 categories: 융합스쿨 일상
 author: admin
 images:
