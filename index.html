@@ -18,7 +18,7 @@ works:
   - image: images/pj_trial.png
     title: 인공지능 기반 임상시험자원통합정보시스템 개발
     desc: 2018
-    title: 정혜란, 정혜영, 이지훈, 전하영
+    people: 정혜란, 정혜영, 이지훈, 전하영
     company: 보건복지부
   - image: images/pj_oven.png
     title: 오븐 VUI의 새로운 유즈 케이스 발굴
@@ -122,13 +122,13 @@ clients:
             <img alt="" src="{{work.image}}" />
             <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
               <div class='thumb-info'>
-                <h3>{{work.people}} <br>
-                {{work.company}}</h3>
+                <h3>{{work.people}} </h3>
+                <h4>{{work.company}}</h4>
               </div>
             </div>
           </a>
         <p>{{work.desc}} <br>
-        <p>{{work.title}}</p>
+        {{work.title}}</p>
         </li>
 
       {% endfor %}
