@@ -146,7 +146,6 @@ clients:
       {% break %}
     {% endif %}
 
-
     <div class='large-4 medium-4 columns'>
       <div class='mod modBlogPost no_bg simple'>
         {% for image in post.images %}
@@ -157,7 +156,7 @@ clients:
         {% endfor %}
         <div class='content'>
           <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-          <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+          <h4><a href="{{site.url}}}{post.url}}">{{post.title}}</a></h4>
           <p>{{post.excerpt | truncatewords: 25 }}</p>
         </div>
       </div>
