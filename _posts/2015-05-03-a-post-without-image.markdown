@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A post without image
+title:  연구실 이모저
 date:   2015-05-03 07:20:05
 categories:
   - Web Design
@@ -10,5 +10,12 @@ tags:
 author: admin
 images:
 excerpt:
-  Exercitationem et eum aliquid consequatur et sed cum eos qui praesentium id odit. architecto quas sapiente quia. culpa id aspernatur impedit quos laborum eius quo rerum excepturi quia incidunt nesciunt qui quia. culpa assumenda molestias et mollitia. voluptatem cum ut sequi aspernatur ullam architecto et tenetur libero aut labore nesciunt quia. aliquam voluptate cumque amet eos nulla error esse corporis molestias
+UX lab의 이곳저곳에는 재미있는 것이 많습니다. 어제 올라간 글에도 보셨겠지만, UX lab에는 밥보드와 같이 곳곳에 포스트잇과 종이로 만들어진 구조도(?)들이 있습니다. 일상의 문제들, 트렌드한 기술들을 UX Lab에서는 어떻게 분석하고 바라보는지 살펴볼 수 있는 좋은 기회가 될 것 같습니다. 연구실에 처음 인턴으로 들어와서 선생님께 들었던 말 중 가장 인상 깊었던 말이 "잘못된 요약은 crime이다." 였습니다. 일어난 사태에 대해서 잘 쪼개어 분석하고, 그리고 이러한 쪼개진 것들을 한눈에 모아서 보여줄 수 있는 요약, Key Message를 뽑아내는 것의 중요성에 대해서 상기시켜주는 문구라고 할 수 있습니다. "데이터 수집 전까지 상상금지"라는 문구도 굉장히 인상깊었는데요, 이것 역시도 UX랩에서 자주 나오고, 계속해서 강조되는 부분 중 하나입니다. 데이터가 나오기 전에 자신의 선입견으로 사태를 미리 파악하지 말것, 해석을 집어 넣지 말 것. 쉽게 들리지만 사실 굉장히 어려운 작업이라는 생각이 들었어요.
 ---
+UX lab의 이곳저곳에는 재미있는 것이 많습니다. 어제 올라간 글에도 보셨겠지만, UX lab에는 밥보드와 같이 곳곳에 포스트잇과 종이로 만들어진 구조도(?)들이 있습니다. 
+일상의 문제들, 트렌드한 기술들을 UX Lab에서는 어떻게 분석하고 바라보는지 살펴볼 수 있는 좋은 기회가 될 것 같습니다. 
+
+연구실에 처음 인턴으로 들어와서 선생님께 들었던 말 중 가장 인상 깊었던 말이 "잘못된 요약은 crime이다." 였습니다. 일어난 사태에 대해서 잘 쪼개어 분석하고, 그리고 이러한 쪼개진 것들을 한눈에 모아서 보여줄 수 있는 요약, Key Message를 뽑아내는 것의 중요성에 대해서 상기시켜주는 문구라고 할 수 있습니다.
+
+"데이터 수집 전까지 상상금지"라는 문구도 굉장히 인상깊었는데요, 이것 역시도 UX랩에서 자주 나오고, 계속해서 강조되는 부분 중 하나입니다. 데이터가 나오기 전에 자신의 선입견으로 사태를 미리 파악하지 말것, 해석을 집어 넣지 말 것. 쉽게 들리지만 사실 굉장히 어려운 작업이라는 생각이 들었어요.
+
