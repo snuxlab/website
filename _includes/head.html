@@ -4,9 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ "/css/foundation.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
@@ -15,7 +14,6 @@
   <script src="{{ "/javascripts/imagesloaded.pkgd.min.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/jquery-2.1.0.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/jquery.appear.js" | prepend: site.url }}" type="text/javascript"></script>
-  <script src="{{ "/javascripts/app.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/foundation.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/jquery.cookie.js" | prepend: site.url }}" type="text/javascript"></script>
   <script src="{{ "/javascripts/jquery.countTo.js" | prepend: site.url }}" type="text/javascript"></script>
@@ -51,4 +49,6 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url | prepend: site.url }}" />
+  <script src="{{ "/javascripts/app.js" | prepend: site.url }}" type="text/javascript"></script>
+
 </head>
