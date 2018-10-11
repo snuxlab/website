@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 연구실 이모저모
-date: 2018-08-08 07:20:05
+date: 2018-08-08
 categories: daily
 author: admin
 images:
