@@ -1,10 +1,8 @@
 # Site settings
 title: Meuse
-email: your-email@domain.com
+email: snuxlab@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  서울대학교 융합과학기술대학원 사용자 경험 연구실
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
