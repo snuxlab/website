@@ -2,10 +2,7 @@
 layout: post
 title: 유우엑스 랩의 바쁘고 알찬 하루
 date: 2018-08-04
-categories:
-  - 랩미팅
-tags:
-  - 랩미팅
+categories: daily
 author: admin
 images:
   - images/@stock/blog-3.jpg
