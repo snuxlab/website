@@ -1,11 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-05-02 10:20:05
-categories: jekyll update
-tags:
-  - logo
-  - development
+date:   2018-05-02 10:20:05
+categories: daiily
 author: admin
 images:
 ---
