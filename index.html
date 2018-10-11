@@ -25,52 +25,6 @@ works:
     desc: 2018
     people: 윤종묵, 김준한, 강슬기, 김병준
     company: 삼성전자
-
-services:
-  - icon_class: fa fa-paper-plane-o
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-  - icon_class: fa fa-tablet
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-  - icon_class: fa fa-comments-o
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-  - icon_class: fa fa-flask
-    title: Creative design
-    desc: Est aperiam ex sint maiores aliquam delectus minima rerum et natus rerum sit quae nostrum.
-
-bars:
-  - title: Web Design
-    percent: 84
-  - title: Web Development
-    percent: 95
-  - title: Site Management
-    percent: 70
-  - title: Branding
-    percent: 61
-
-testimonials:
-  - text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-    author: David White
-    position: Designer at Huglab
-    avatar: images/@stock/author-avatar-1.png
-  - text: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing."
-    author: David White
-    position: Designer at Huglab
-    avatar: images/@stock/author-avatar-2.png
-  - text: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
-    author: David White
-    position: Designer at Huglab
-    avatar: images/@stock/author-avatar-3.png
-
-clients:
-  - images/@stock/client-grey-1.png
-  - images/@stock/client-grey-2.png
-  - images/@stock/client-grey-3.png
-  - images/@stock/client-grey-4.png
-  - images/@stock/client-grey-5.png
-  - images/@stock/client-grey-6.png
 ---
 
 <div class='full no-padding'>
@@ -123,7 +77,7 @@ clients:
             <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
               <div class='thumb-info'>
                 <h3>{{work.people}} </h3>
-                <h4>{{work.company}}</h4>
+                <h4 style="color:white">{{work.company}}</h4>
               </div>
             </div>
           </a>
@@ -135,6 +89,7 @@ clients:
     </ul>
   </div>
 </div>
+<hr>
 <div class='two spacing'></div>
 <div class='two spacing'></div>
 <div class='two spacing'></div>
@@ -160,7 +115,7 @@ clients:
           {% if forloop.index > 1 %}
             {% break %}
           {% endif %}
-          <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
+          <a href="{{site.url}}{{post.url}}"><img alt="" src="{{image}}" /></a>
         {% endfor %}
         <div class='content'>
           <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
