@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Oct 2018 02:38:13 +0900</pubDate>
-    <lastBuildDate>Fri, 12 Oct 2018 02:38:13 +0900</lastBuildDate>
+    <pubDate>Fri, 12 Oct 2018 02:42:28 +0900</pubDate>
+    <lastBuildDate>Fri, 12 Oct 2018 02:42:28 +0900</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title></title>
+        <title>연구실 이모저모</title>
         <description>&lt;p&gt;UX lab의 이곳저곳에는 재미있는 것이 많습니다. 어제 올라간 글에도 보셨겠지만, UX lab에는 밥보드와 같이 곳곳에 포스트잇과 종이로 만들어진 구조도(?)들이 있습니다. 
 일상의 문제들, 트렌드한 기술들을 UX Lab에서는 어떻게 분석하고 바라보는지 살펴볼 수 있는 좋은 기회가 될 것 같습니다.&lt;/p&gt;
 
@@ -20,10 +20,12 @@
 &lt;p&gt;“데이터 수집 전까지 상상금지”라는 문구도 굉장히 인상깊었는데요, 이것 역시도 UX랩에서 자주 나오고, 계속해서 강조되는 부분 중 하나입니다. 데이터가 나오기 전에 자신의 선입견으로 사태를 미리 파악하지 말것, 해석을 집어 넣지 말 것. 쉽게 들리지만 사실 굉장히 어려운 작업이라는 생각이 들었어요.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Oct 2018 02:38:13 +0900</pubDate>
-        <link>http://localhost:4000//2018/10/12/2018-08-08-a-post-without-image.html</link>
-        <guid isPermaLink="true">http://localhost:4000//2018/10/12/2018-08-08-a-post-without-image.html</guid>
+        <pubDate>Wed, 08 Aug 2018 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000//daily/2018/08/08/a-post-without-image.html</link>
+        <guid isPermaLink="true">http://localhost:4000//daily/2018/08/08/a-post-without-image.html</guid>
         
+        
+        <category>daily</category>
         
       </item>
     
@@ -92,34 +94,6 @@ Wizard of OZ를 활용하여 사용자에게 직접 챗봇이 되어 공연 추�
         
         
         <category>daily</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 02 May 2018 19:20:05 +0900</pubDate>
-        <link>http://localhost:4000//daiily/2018/05/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000//daiily/2018/05/02/welcome-to-jekyll.html</guid>
-        
-        
-        <category>daiily</category>
         
       </item>
     
