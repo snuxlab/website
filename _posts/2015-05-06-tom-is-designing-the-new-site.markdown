@@ -1,33 +1,22 @@
 ---
 layout: post
-title:  Tom is designing the new site
-date:   2015-05-06 10:20:05
-categories: design
+title:  청소년 융합스쿨 준비
+date:   2018-05-06 10:20:05
+categories: 융합스쿨 일상
 author: admin
 images:
   - images/@stock/blog-1.jpg
   - images/@stock/blog-2.jpg
 excerpt:
-  Nemo similique numquam asperiores ex quisquam in necessitatibus atque sunt nam assumenda aut. est voluptate necessitatibus et quaerat quo adipisci aliquid dicta maxime rerum quia. sit velit sit aut culpa qui et est repellendus sunt et qui blanditiis illo. quia non odit rerum dolorum nesciunt totam labore et quis aut nesciunt. eius dolorem autem aut aliquam eos dolor corrupti earum blanditiis ab. quia rerum aperiam voluptatem facilis voluptas quis eligendi sit
+  오늘도 UX랩의 하루는 분주합니다! 특히나 내일 있을 청소년 대상 융합스쿨때문에 다들 이곳저곳에서 준비를 하고 있습니다. 융합과학 청소년 스쿨은 경기도 내 고등학생들을 대상으로 융합과학 기술에 대한 이해와 이공계분야 관심 고취를 위해서 만들어진 제도입니다. 각 연구실별로 연구실을 찾아오는 학생들을 위해서 이런저런 프로그램을 만드는데요. UX랩에서는 이번 청소년 융합과학스쿨을 위해서 요즘 한창 뜨거운 VUI 기기, 스마트 스피커를 준비했습니다. 
 ---
 
-Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
+오늘도 UX랩의 하루는 분주합니다! 특히나 내일 있을 청소년 대상 융합스쿨때문에 다들 이곳저곳에서 준비를 하고 있습니다. 
+융합과학 청소년 스쿨은 경기도 내 고등학생들을 대상으로 융합과학 기술에 대한 이해와 이공계분야 관심 고취를 위해서 만들어진 제도입니다. 
+각 연구실별로 연구실을 찾아오는 학생들을 위해서 이런저런 프로그램을 만드는데요. 
+UX랩에서는 이번 청소년 융합과학스쿨을 위해서 요즘 한창 뜨거운 VUI 기기, 스마트 스피커를 준비했습니다. 
 
-Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
+스마트 스피커를 청소년들이 직접 체험해보고, 그 이후에 각각의 스마트 스피커의 기기의 퍼소나와 특성, 기능을 찾아보는 프로그램을 준비하였습니다. 
+이걸로 끝내기는 아쉬우니, 거기에 조금 더해서 청소년들이 직접 간단한 VUI를 짜보면서 VUI를 구성하는 인텐트와 엔티티에 대한 개념에 대해서 배워볼 수 있는 시간을 마련하고자 준비하고 있습니다.
 
-
-Esse labore voluptate [nam dolorum veniam](#) numquam et reiciendis qui itaque voluptas odit dicta et. est ullam et omnis repellat qui aliquam delectus quod aperiam quam tenetur odit illo voluptatem. optio tenetur occaecati autem vel occaecati voluptas iste sunt libero quo est ex eum. aut molestiae ea est inventore aut quia ab voluptatem hic iste
-
-> "Provident nihil sint ducimus quasi dignissimos vero esse quisquam Asperiores beatae facere eos corrupti ut autem natus quis cumque dolor."
-
-#### This is a sub-heading
-
-Aut ea rem repudiandae tempore perferendis. consequuntur doloribus tempora cupiditate commodi similique doloremque porro labore deleniti. magni est minus atque accusantium dicta consequatur praesentium qui quia non. eum possimus placeat facilis aut qui architecto qui et autem voluptas excepturi nemo. consequatur possimus a accusamus sit consequatur aspernatur aut totam. laudantium odit a praesentium laborum magni autem facere quidem aperiam commodi est. dolore debitis doloremque ea impedit
-
-* Tempora commodi quia deserunt porro excepturi
-* Placeat in quae tempore pariatur sit aut qui nemo
-* Rem quod sequi nobis possimus sequi dolorem est ab
-
-##### This is a small title
-
-Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate
+설레는 마음으로 내일 찾아올 학생들을 기다리며! 스마트 스피커 사진과 함께 오늘의 블로그는 이만 마치도록 하겠습니다.
