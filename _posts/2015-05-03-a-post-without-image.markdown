@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  연구실 이모저
-date:   2015-05-03 07:20:05
+title:  연구실 이모저모
+date:   2015-05-07 07:20:05
 categories:
-  - Web Design
-  - Web Development
+  - 데이터중심
+  - 연구실의 관점
 tags:
   - javascript
 author: admin
