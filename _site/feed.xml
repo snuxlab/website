@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meuse</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Seoul National University UX Lab</title>
+    <description>서울대학교 융합과학기술대학원 사용자 경험 연구실
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Oct 2018 16:18:34 +0900</pubDate>
-    <lastBuildDate>Thu, 11 Oct 2018 16:18:34 +0900</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 11 Oct 2018 19:13:12 +0900</pubDate>
+    <lastBuildDate>Thu, 11 Oct 2018 19:13:12 +0900</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -37,8 +37,8 @@
 &lt;p&gt;Dolorem laudantium possimus esse tenetur voluptates nam. corrupti pariatur commodi est omnis excepturi dignissimos. commodi qui cum tempora ipsa porro quasi quis labore ea cum quod sapiente debitis asperiores. ut qui est ipsa enim numquam odit mollitia. velit earum unde qui animi quod earum repellendus facere aperiam nemo. ipsa praesentium aut quam aperiam qui voluptate&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 May 2015 19:20:05 +0900</pubDate>
-        <link>http://localhost:4000/design/2015/05/06/tom-is-designing-the-new-site.html</link>
-        <guid isPermaLink="true">http://localhost:4000/design/2015/05/06/tom-is-designing-the-new-site.html</guid>
+        <link>http://localhost:4000//design/2015/05/06/tom-is-designing-the-new-site.html</link>
+        <guid isPermaLink="true">http://localhost:4000//design/2015/05/06/tom-is-designing-the-new-site.html</guid>
         
         
         <category>design</category>
@@ -50,8 +50,8 @@
         <description>
 </description>
         <pubDate>Mon, 04 May 2015 19:20:05 +0900</pubDate>
-        <link>http://localhost:4000/logo%20design/tricks%20and%20tips/2015/05/04/make-some-sketches.html</link>
-        <guid isPermaLink="true">http://localhost:4000/logo%20design/tricks%20and%20tips/2015/05/04/make-some-sketches.html</guid>
+        <link>http://localhost:4000//logo%20design/tricks%20and%20tips/2015/05/04/make-some-sketches.html</link>
+        <guid isPermaLink="true">http://localhost:4000//logo%20design/tricks%20and%20tips/2015/05/04/make-some-sketches.html</guid>
         
         <category>design</category>
         
@@ -69,8 +69,8 @@
         <description>
 </description>
         <pubDate>Sun, 03 May 2015 19:20:05 +0900</pubDate>
-        <link>http://localhost:4000/illustrations/photography/2015/05/03/look-what-we-have-done.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustrations/photography/2015/05/03/look-what-we-have-done.html</guid>
+        <link>http://localhost:4000//illustrations/photography/2015/05/03/look-what-we-have-done.html</link>
+        <guid isPermaLink="true">http://localhost:4000//illustrations/photography/2015/05/03/look-what-we-have-done.html</guid>
         
         <category>news</category>
         
@@ -86,8 +86,8 @@
         <description>
 </description>
         <pubDate>Sun, 03 May 2015 16:20:05 +0900</pubDate>
-        <link>http://localhost:4000/web%20design/web%20development/2015/05/03/a-post-without-image.html</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20design/web%20development/2015/05/03/a-post-without-image.html</guid>
+        <link>http://localhost:4000//web%20design/web%20development/2015/05/03/a-post-without-image.html</link>
+        <guid isPermaLink="true">http://localhost:4000//web%20design/web%20development/2015/05/03/a-post-without-image.html</guid>
         
         <category>javascript</category>
         
@@ -118,8 +118,8 @@
 
 </description>
         <pubDate>Sat, 02 May 2015 19:20:05 +0900</pubDate>
-        <link>http://localhost:4000/jekyll/update/2015/05/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2015/05/02/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000//jekyll/update/2015/05/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000//jekyll/update/2015/05/02/welcome-to-jekyll.html</guid>
         
         <category>logo</category>
         
