@@ -6,17 +6,25 @@ slides:
   - title: Seoul National Unviersity UXLAB
 works:
   - image: images/pj_home_ai.png
-    title: 김준한, 강슬기, 고병휘
-    desc: LG전자
+    title: 공간 특화 Home Entertainment AI 컨셉 발굴
+    desc: 2018
+    people: 김준한, 강슬기, 고병휘
+    company: LG전자
   - image: images/pj_retail.jpg
-    title: 김병준, 이정복
-    desc: 삼성전자
+    title: AI기반 B2B 플랫폼을 위한 UX/서비스 디자인 시나리오 발굴
+    desc: 2018
+    people: 김병준, 이정복
+    company: 삼성전자
   - image: images/pj_trial.png
-    title: 정혜란, 정혜영, 이지훈
-    desc: 보건복지부
+    title: 인공지능 기반 임상시험자원통합정보시스템 개발
+    desc: 2018
+    title: 정혜란, 정혜영, 이지훈, 전하영
+    company: 보건복지부
   - image: images/pj_oven.png
-    title: 윤종묵, 김준한, 강슬기, 김병준
-    desc: 삼성전자
+    title: 오븐 VUI의 새로운 유즈 케이스 발굴
+    desc: 2018
+    people: 윤종묵, 김준한, 강슬기, 김병준
+    company: 삼성전자
 
 services:
   - icon_class: fa fa-paper-plane-o
@@ -106,7 +114,7 @@ clients:
     </h3>
     <div class='spacing'></div>
   </div>
-  <div class='mod modGallery'>
+  <div class='mod modGallery' style="text-align: center">
     <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
       {% for work in page.works %}
         <li class='{{work.class}}'>
@@ -114,13 +122,13 @@ clients:
             <img alt="" src="{{work.image}}" />
             <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
               <div class='thumb-info'>
-                <h4 style="color:white">{{work.title}}</h4>
-                <p>{{work.desc}}</p>
+                <h3>{{work.people}} <br>
+                {{work.company}}</h3>
               </div>
             </div>
           </a>
         <p>{{work.desc}} <br>
-        {{work.title}}</p>
+        <p>{{work.title}}</p>
         </li>
 
       {% endfor %}
