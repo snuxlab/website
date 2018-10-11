@@ -107,7 +107,7 @@ clients:
     </h3>
     <div class='spacing'></div>
   </div>
-  <div class='mod modGallery'>
+  <div class='mod modGallery' style="text-align: center">
     <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
       {% for work in page.works %}
         <li class='{{work.class}}'>
@@ -120,8 +120,8 @@ clients:
               </div>
             </div>
           </a>
-        <p>{{work.title}}</p>
-        <p>{{work.desc}}</p>
+        <p>{{work.desc}} <br>
+        {{work.title}}</p>
         </li>
 
       {% endfor %}
