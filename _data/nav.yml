@@ -8,7 +8,7 @@
   path: contact.html
   section_id: contact
 - name: FAQ
-  path: services/
+  path: services.html
   section_id: services    
 - name: News
   path: blog/
