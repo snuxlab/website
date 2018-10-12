@@ -132,3 +132,43 @@ works:
   {% endfor %}
   <div class='two spacing'></div>
 </div>
+
+
+<button id="modalButton" type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" style="visibility: : hidden;">
+  Open modal
+</button>
+
+<!-- The Modal -->
+<div class="modal" id="myModal">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">랩미팅 안내</h4>
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        저희 연구실은 매주 금요일 오전 10시에 <br>
+        서울대학교 관악캠퍼스 18동 120호에서 오픈 랩미팅을 합니다. <br>  
+        대학원 입학을 준비중이시거나, UX에 관심이 있으신 분들은 참여하실 수 있습니다.<br>
+        랩미팅 이후 지도교수와 면담 시간이 있습니다.
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function(){
+    $("#modalButton").click();
+  })
+</script>
+
