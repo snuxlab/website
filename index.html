@@ -64,7 +64,6 @@ works:
   </div>
   <hr>
 </div>
-
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
@@ -96,23 +95,45 @@ works:
     </ul>
   </div>
 </div>
+<hr>
+<div class='two spacing'></div>
+<div class='row'>
+  <div class='large-12 columns'>
+    <h3>
+      Our recent posts
+      /
+      <a href='{{site.url}}blog'>View more posts</a>
+    </h3>
+    <div class='spacing'></div>
+  </div>
+</div>
+<div class='row'>
+  {% for post in site.posts %}
+    {% if forloop.index > 3 %}
+      {% break %}
+    {% endif %}
 
+    <div class='large-4 medium-4 columns'>
+      <div class='mod modBlogPost no_bg simple'>
+        {% for image in post.images %}
+          {% if forloop.index > 1 %}
+            {% break %}
+          {% endif %}
+          <a href="{{site.url}}{{post.url}}"><img alt="" src="{{image}}" /></a>
+        {% endfor %}
+        <div class='content'>
+          <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+          <h4><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h4>
+          <p>{{post.excerpt | truncatewords: 25 }}</p>
+        </div>
+      </div>
+    </div>
 
-<a href="#" data-reveal-id="firstModal"  style="display: none;" class="radius button" id="modalButton">Modal in a modal&hellip;</a>
-
-<div id="firstModal" class="reveal-modal" data-reveal aria-labelledby="firstModalTitle" aria-hidden="true" role="dialog">
-  <h2 id="firstModalTitle">랩미팅 안내.</h2>
-  <p>매주 금요일 오전 10시에 서울대학교 18동 2층에서 오픈 랩미팅이 있습니다 <br>
-  대학원 입학을 준비 중이시거나, UX에 관심이 있으신 분들은 참여하실 수 있습니다. <br>
-  참여를 원하시는 분은 snuxlab@gmail.com으로 메일주시기 바랍니다.
-  </p>
-  <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+  {% endfor %}
+  <div class='two spacing'></div>
 </div>
 
-<script>
-document.getElementById("modalButton").click();
-</script>
 
-<!-- The Modal -->
+
 
 
