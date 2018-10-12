@@ -61,63 +61,23 @@ members:
 <div class='full'>
   <div class='row'>
     <div class='medium-6 columns'>
-      <h3>Our history</h3>
+      <h3>거시적 정보세계와 미시적 사용자 환경에 대한 연구</h3>
       <div class='spacing'></div>
-      <p>Consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.</p>
-    </div>
-    <div class='medium-6 columns'>
-      <h3>Our skills</h3>
-      <div class='spacing'></div>
-      <div class='mod modBarGraph'>
-        <ul class="bars">
-          {% for skill in page.skills %}
-            <li>
-              <h4 style=''>
-                {{skill.title}}
-                <strong>{{skill.percent}}%</strong>
-              </h4>
-              <p class='highlighted' data-percent='{{skill.percent}}'></p>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
+      사용자 경험 연구실에서는 크게 두 가지의 연구를 수행합니다.
+첫째, 정보 사회에서 발생하는 다양한 문제를 정의하고 그에 대한 새로운 방향성을 제시하여 미래 환경을 예측합니다. 둘째, 모바일 환경, 웹 환경 등 미시적 일상 속에서 사용자가 경험하는 크고 작은 문제들을 고찰하고, 이를 해결하기 위한 솔루션을 제안합니다. 경험 분석과 패턴 도출을 중심으로 이 같은 연구를 통해 우리는 '뷰(View)-인지적 인터페이스(Cognitive Interface)' 만들기 위한 프론트 엔드 드리븐 방법론 (Front-end-driven-method)을 만들어가고 있습니다.
+    </div>   
   </div>
+
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <h3>창조적이고 순발력있는 앞으로의 접근</h3>
+      <div class='spacing'></div>
+      사용자 경험 연구실은 전토적인 컴퓨터공학과 정보학의 기술기반적 접근에서 벗어나 사회문화적 접근을 추구합니다. 이를 위해 우리는 새로우면서도 창의적인 연구 방법을 유연하게 활용하고 있습니다. 다양한 정보 미디어와 기술에 둘러싸인 사용자를 관찰하기 위해서는 특정 이론과 분야에 국한되지 않는, 창조적이고 순발력있는 연구 방법의 발명이 요구되기 때문입니다. 당면한 문제의 성격에 따라 인터뷰와 행동관찰, 실험과 설문, 미시적 로그 분석과 데이터마이닝 등을 창의적으로 활용하는 새로운 연구 방식을 통해, 우리는 보다 통찰력있는 이용 경험 관찰 및 행동 패턴 분석, 사용자 니즈 도출을 수행하고 있습니다. 
+    </div>   
+  </div>
+
+
 </div>
 <div class='two spacing'></div>
 <hr>
 <div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>The team</h3>
-    <div class='spacing'></div>
-  </div>
-</div>
-<div class='row'>
-  {% for member in page.members %}
-    <div class='small-6 medium-3 large-3 columns'>
-      <div class='mod modTeamMember style-2'>
-        <div class='member'>
-          <img class="avatar" alt="" src="{{site.url}}/{{member.avatar}}" />
-          <div class='overlay'>
-            <ul class='socials'>
-              {% for social in member.socials %}
-                <li>
-                  <a href='{{social.url}}'>
-                    <i class='{{social.icon_class}}'></i>
-                  </a>
-                </li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-        <h3>{{member.name}}</h3>
-        <p class='position'>{{member.position}}</p>
-        <p>{{member.desc}}</p>
-        <div class='two spacing'></div>
-      </div>
-    </div>
-  {% endfor %}
-</div>
-<div class='three spacing'></div>
