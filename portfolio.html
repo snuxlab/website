@@ -2,61 +2,74 @@
 layout: default
 section_id: portfolio
 works:
-  - image: images/@stock/one-page-work-1.jpg
-    title: Beautiful Girl
+  - image: images/pj_home_ai.png
+    title: 공간 특화 Home Entertainment AI 컨셉 발굴
     link_to: portfolio-item.html
-    class: graphic-design
-    desc: Design &amp; Development
+    class: 2018
+    desc: 2018
+    people: 김준한, 강슬기, 고병휘
+    company: LG전자
+
   - image: images/@stock/one-page-work-2.jpg
     title: Look at me
     link_to: portfolio-item.html
     class: web-design print
     desc: Design &amp; Development
+    
   - image: images/@stock/one-page-work-3.jpg
     title: Am I cute
     link_to: portfolio-item.html
     class: brand
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-4.jpg
     title: Umbrella
     link_to: portfolio-item.html
     class: development
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-5.jpg
     title: Canned Bros
     link_to: portfolio-item.html
     class: print brand
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-6.jpg
     title: Hale
     link_to: portfolio-item.html
     class: web-design
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-7.jpg
     title: A beautiful day
     link_to: portfolio-item.html
     class: web-design
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-8.jpg
     title: Flower Book
     link_to: portfolio-item.html
     class: graphic-design
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-2.jpg
     title: Beautiful Girl
     link_to: portfolio-item.html
     class: graphic-design
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-4.jpg
     title: Look at me
     link_to: portfolio-item.html
     class: web-design print
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-1.jpg
     title: Am I cute
     link_to: portfolio-item.html
     class: brand
     desc: Design &amp; Development
+
   - image: images/@stock/one-page-work-6.jpg
     title: Umbrella
     link_to: portfolio-item.html
@@ -74,19 +87,19 @@ works:
             <a data-cat='all' href='#'>All</a>
           </li>
           <li>
-            <a data-cat='graphic-design' href='#'>Graphic Design</a>
+            <a data-cat='2018' href='#'>2018</a>
           </li>
           <li>
-            <a data-cat='web-design' href='#'>Web Design</a>
+            <a data-cat='2017' href='#'>2017</a>
           </li>
           <li>
-            <a data-cat='brand' href='#'>Brand</a>
+            <a data-cat='2016' href='#'>2016</a>
           </li>
           <li>
-            <a data-cat='development' href='#'>Development</a>
+            <a data-cat='2015' href='#'>2015</a>
           </li>
           <li>
-            <a data-cat='print' href='#'>Print</a>
+            <a data-cat='2014' href='#'>Before 2014</a>
           </li>
         </ul>
       </div>
@@ -97,11 +110,13 @@ works:
               <img alt="" src="{{site.url}}/{{work.image}}" />
               <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
                 <div class='thumb-info'>
-                  <h3>{{work.title}}</h3>
-                  <p>{{work.desc}}</p>
+                  <h3>{{work.people}}</h3>
+                  <p>{{work.company}}</p>
                 </div>
               </div>
             </a>
+            <p>{{work.title}}</p>
+            <p>{{work.desc}}</p>
           </li>
         {% endfor %}
       </ul>
