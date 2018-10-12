@@ -4,12 +4,6 @@
 - name: Project
   path: portfolio.html
   section_id: portfolio
-- name: Contact
-  path: contact.html
-  section_id: contact
-- name: FAQ
-  path: services.html
-  section_id: services    
 - name: News
   path: blog/
   section_id: blog

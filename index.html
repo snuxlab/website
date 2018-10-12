@@ -64,6 +64,7 @@ works:
   </div>
   <hr>
 </div>
+
 <div class='two spacing'></div>
 <div class='row'>
   <div class='large-12 columns'>
@@ -95,43 +96,7 @@ works:
     </ul>
   </div>
 </div>
-<hr>
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Our recent posts
-      /
-      <a href='{{site.url}}blog'>View more posts</a>
-    </h3>
-    <div class='spacing'></div>
-  </div>
-</div>
-<div class='row'>
-  {% for post in site.posts %}
-    {% if forloop.index > 3 %}
-      {% break %}
-    {% endif %}
 
-    <div class='large-4 medium-4 columns'>
-      <div class='mod modBlogPost no_bg simple'>
-        {% for image in post.images %}
-          {% if forloop.index > 1 %}
-            {% break %}
-          {% endif %}
-          <a href="{{site.url}}{{post.url}}"><img alt="" src="{{image}}" /></a>
-        {% endfor %}
-        <div class='content'>
-          <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-          <h4><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h4>
-          <p>{{post.excerpt | truncatewords: 25 }}</p>
-        </div>
-      </div>
-    </div>
-
-  {% endfor %}
-  <div class='two spacing'></div>
-</div>
 
 <a href="#" data-reveal-id="firstModal"  style="display: none;" class="radius button" id="modalButton">Modal in a modal&hellip;</a>
 
