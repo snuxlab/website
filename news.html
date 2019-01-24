@@ -1,0 +1,12 @@
+---
+layout: page
+title: News
+---
+ <ul>
+  {% for post in site.posts %}
+    {% unless post.featured == true %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <img src="{{ post.image }}"></a>
+     {% endunless %}
+  {% endfor %}
+ </ul>

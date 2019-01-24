@@ -1,132 +1,133 @@
 ---
 layout: default
-section_id: home
-slides:
-  - bg: images/jumbotron.png
-    title: Seoul National Unviersity UXLAB
-    tagline: 09.24 Labmeeting
-
-  - bg: images/jumbotron2.png
-    title: Seoul National Unviersity UXLAB
-    tagline: 09.20 workshop
-
-works:
-  - image: images/pj_home_ai.png
-    title: 공간 특화 Home Entertainment AI 컨셉 발굴
-    desc: 2018
-    people: 김준한, 강슬기, 고병휘
-    company: LG전자
-  - image: images/pj_retail.jpg
-    title: AI기반 B2B 플랫폼을 위한 UX/서비스 디자인 시나리오 발굴
-    desc: 2018
-    people: 김병준, 이정복
-    company: 삼성전자
-  - image: images/pj_trial.png
-    title: 인공지능 기반 임상시험자원통합정보시스템 개발
-    desc: 2018
-    people: 정혜란, 정혜영, 이지훈, 전하영
-    company: 보건복지부
-  - image: images/pj_oven.png
-    title: 오븐 VUI의 새로운 유즈 케이스 발굴
-    desc: 2018
-    people: 윤종묵, 김준한, 강슬기, 김병준
-    company: 삼성전자
+title: Home
 ---
 
-<div class='full no-padding'>
-  <div class='two spacing'></div>
-  <div class='row'>
-    <div class='large-12 columns'>
-      <div class='mod modBoxedSlider'>
-        <div class='slides'>
-          {% for slide in page.slides %}
-            <div class='slide'>
-              <img alt="" src="{{slide.bg}}" />
-              <div class='caption'>
-                <!-- <p>{{slide.title}}</p> -->
-                <p>{{slide.tagline}}</p>
-              </div>
+</div>
+</div>
+<!-- We've temporary closed main-content and container to have a full width intro -->    
+
+
+<!-- Home Jumbotron
+================================================== -->    
+<section class="intro">
+    <div class="wrapintro">
+        <h1>Lab Meeting</h1>
+        <h2 class="lead">우리 연구실은 2019년 1월부터 목요일 오전 10시에 랩미팅을 진행합니다. <br>연구실 입학이나 UX에 관심 있으신 분은 자유롭게 참관하실 수 있습니다.<br>
+        참관 장소: 서울대학교 관악캠퍼스 18동 214호<br>
+        참관 신청: 랩장 김민준(snuxlab@gmail.com) </h2>
+    </div>
+</section>
+
+<!-- We reopen main-content and container --> 
+
+<div class="container">
+    
+    <div class="main-content">
+        
+
+        <!-- Featured
+        ================================================== -->
+        <section class="featured-posts">
+
+            <div class="section-title">
+                <h2><span>Recent Project</span></h2>
             </div>
-          {% endfor %}
-        </div>
+
+            <div class="row listfeaturedtag">
+
+            {% for post in site.posts %}
+
+                {% if post.featured == true %}
+
+                    {% include featuredbox.html %}
+
+                {% endif %}
+
+            {% endfor %}
+
+            </div>
+
+        </section>
+
+        <!-- Posts Index
+        ================================================== -->
+         {% if paginator.previous_page %}
+                {% if paginator.previous_page > 0 %}
+                 <div id="jumptopageof"></div>
+        {% endif %}
+        {% endif %}    
+
+        <section class="recent-posts row">
+
+            <!-- <div class="col-sm-4">
+                {% include sidebar.html %}
+            </div> -->
+
+            <div class="col-sm-12">
+
+                <div class="section-title">
+                    <h2><span>Lab Stories</span></h2>    
+                </div>
+
+                <div class="masonrygrid row listrecent">
+
+                    {% for post in paginator.posts %}
+
+                    {% unless post.featured == true %}
+
+                        {% include postbox.html %}
+
+                    {% endunless %}
+
+                    {% endfor %}
+
+                </div> 
+
+                <!-- Pagination -->
+                <div class="bottompagination">
+
+                    <span class="navigation" role="navigation">
+
+                        {% include pagination.html %}
+
+                    </span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Button trigger modal -->
+<button id="modal1" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="display: none">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">웹페이지 업데이트 안내</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        우리 UXLAB은 현재 웹페이지 업데이트를 진행 중이기 때문에 <br>
+        일부 페이지를 사용할 수 없습니다.양해부탁드립니다.
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
 </div>
-<div class='full no-padding'>
-  <div class='spacing'></div>
-  <div class='row'>
-    <!-- <div class='large-12 columns'>
-      <p style='font-size: 1.5rem; font-style: italic;'>
-        This is the introduction of your team, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetuer sit amet magna adipiscing.
-      </p>
-    </div> -->
-  </div>
-  <hr>
-</div>
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Projects
-      /
-      <a href='portfolio.html'>View more</a>
-    </h3>
-    <div class='spacing'></div>
-  </div>
-  <div class='mod modGallery'>
-    <ul class='gallery large-block-grid-4 medium-block-grid-3 seperated small-block-grid-2'>
-      {% for work in page.works %}
-        <li class='{{work.class}}'>
-          <a href='portfolio-item.html'>
-            <img alt="" src="{{work.image}}" />
-            <div class='overlay' style='background: rgba(143, 221, 115, 0.8);'>
-              <div class='thumb-info'>
-                <h3><i class="fas fa-user-graduate" style="color:white"></i>{{work.people}} </h3>
-                <h4 style="color:white">{{work.company}}</h4>
-              </div>
-            </div>
-          </a>
-        <p>{{work.desc}} <br>
-        {{work.title}}</p>
-        </li>
 
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-<hr>
-<div class='two spacing'></div>
-<div class='row'>
-  <div class='large-12 columns'>
-    <h3>
-      Our recent posts
-      /
-      <a href='{{site.url}}blog'>View more posts</a>
-    </h3>
-    <div class='spacing'></div>
-  </div>
-</div>
-<div class='row'>
-  {% for post in site.posts %}
-    {% if forloop.index > 3 %}
-      {% break %}
-    {% endif %}
-
-    <div class='large-4 medium-4 columns'>
-      <div class='mod modBlogPost no_bg simple'>
-        {% for image in post.images %}
-          {% if forloop.index > 1 %}
-            {% break %}
-          {% endif %}
-          <a href="{{site.url}}{{post.url}}"><img alt="" src="{{image}}" /></a>
-        {% endfor %}
-        <div class='content'>
-          <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-          <h4><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h4>
-          <p>{{post.excerpt | truncatewords: 25 }}</p>
-        </div>
-      </div>
-    </div>
-
-  {% endfor %}
+<script>
+document.addEventListener("DOMContentLoaded", function(){
+    document.getElementById("modal1").click();
+})
+</script>

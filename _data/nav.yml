@@ -1,9 +1,0 @@
-- name: About
-  path: about.html
-  section_id: about
-- name: Project
-  path: portfolio.html
-  section_id: portfolio
-- name: News
-  path: blog/
-  section_id: blog

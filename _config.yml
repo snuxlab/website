@@ -1,14 +1,48 @@
-# Site settings
-title: Seoul National University UX Lab
-email: snuxlab@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  서울대학교 융합과학기술대학원 사용자 경험 연구실
-baseurl: "/" 
-url: "https://snuxlab.github.io/website/"
-github_username:  snuux
+# Site
+name: SNU UX LAB
+description: Seoul National University UX LAB
+meta_description: "Seoul National Universtiy UXLAB."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: 
+email: 'snuxlab@gmail.com'
+google_analytics: 'UA-46278016-1'
+disqus: 'demowebsite'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
-# Build settings
+# Authors
+authors:
+  JiHoon:
+    name: JiHoonLee 
+    display_name: UXLAB
+    gravatar: 
+    email: ljh62044217@gmail.com
+    web: 
+    twitter: 
+    description: 
+  MinJoon:
+    name: MinJoon Kim
+    display_name: UXLAB
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description: 
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
 markdown: kramdown
-
-paginate: 4
-paginate_path: "blog/page:num"
+highlighter: rouge

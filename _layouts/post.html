@@ -1,40 +1,95 @@
 ---
-layout: blog
+layout: default
+disqus: false
+archive: false
+post_class: post-template
 ---
 
+<!-- Begin Article
+================================================== -->
 
-<div class='mod modBlogPost big no_bg'>
-  <div class='images'>
-    {% for image in page.images %}
-      <div class='image'><img alt="" src="{{site.url}}/{{image}}" /></div>
-    {% endfor %}
-  </div>
-  <div class='content'>
-    <p class='info'>
-      <span>{{page.date | date: "%B %d, %Y" }}</span>
-      /
-      <span>
-        by
-        <a href="">{{page.author}}</a>
-      </span>
-      /
-      <span>
-        In
-        {% for cat in page.categories %}
-          <a href="#">{{cat}}</a>
-          {% unless forloop.last %}
-              ,
-          {% endunless %}
-        {% endfor %}
-      </span>
-      /
-      <span>
-        <a href="#">4 commetns</a>
-      </span>
-    </p>
-    <h3><a href="{{page.url}}">{{page.title}}</a></h3>
-    {{content}}
-  </div>
-</div>
+	<div class="row">
 
+		<!-- Sidebar -->
 
+		
+
+		<!-- Post -->        
+        {% assign author = site.authors[page.author] %}
+        
+		<div class="col-sm-12">
+			<div class="mainheading">              
+                
+                <!-- Post Categories -->
+                <div class="after-post-tags">
+                    <ul class="tags">
+                        {% assign sortedCategories = page.categories | sort %}
+                        {% for category in sortedCategories %}
+                        <li>
+                         <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!-- End Categories -->
+                
+                <!-- Post Title -->
+				<h1 class="posttitle">{{ page.title }}</h1> 
+                
+			</div>
+
+			<!-- Post Featured Image -->
+	
+			<!-- End Featured Image -->
+
+			<!-- Post Content -->
+			<div class="article-post">
+				{{content}}
+                <div class="clearfix"></div>
+			</div>
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                {% if page.last_modified_at %}
+                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                {% endif %}
+                </small>
+            </p>
+            
+			
+            
+            <!-- Prev/Next -->
+            <div class="row PageNavigation mt-4 prevnextlinks">
+              {% if page.previous.url %}
+                <div class="col-md-6 rightborder pl-0">
+                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
+                </div>
+              {% endif %}
+
+              {% if page.next.url %}
+                <div class="col-md-6 text-right pr-0">
+                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+                </div>
+              {% endif %}
+            </div>
+            <!-- End Prev/Next -->
+            
+        
+            
+            
+            <!-- Begin Comments
+            ================================================== -->
+            
+            
+
+		</div>
+		<!-- End Post -->
+        
+        
+
+	</div>
+
+<!-- End Article
+================================================== -->
