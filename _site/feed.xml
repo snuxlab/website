@@ -5,8 +5,8 @@
     <description>Seoul National University UX LAB</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jan 2019 19:46:48 +0900</pubDate>
-    <lastBuildDate>Thu, 24 Jan 2019 19:46:48 +0900</lastBuildDate>
+    <pubDate>Thu, 24 Jan 2019 19:48:47 +0900</pubDate>
+    <lastBuildDate>Thu, 24 Jan 2019 19:48:47 +0900</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -86,7 +86,7 @@
 &lt;p&gt;이에 기업에서는 유명 연예인의 목소리를 통해 사용자에게 친근감을 준다거나 귀여운 외형으로 호감을 불러일으키는 등의 ‘인간적인 호감을 얻을 수 있는’ 접근을 취하고 있다. 본 프로젝트는 현재의 접근 방향의 한계를 지적하고, 비기술적인 측면에서 사용자의 경험을 극대화하여 IPA가 발전할 수 있는 방향을 모색한다.&lt;/p&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;참가자: 강슬기(PM),고병휘,이지훈,송지은&lt;br /&gt;
+&lt;p&gt;참가자: 강슬기(PM), 고병휘, 이지훈, 송지은&lt;br /&gt;
 기간: 2018.09 - 2018.12 &lt;br /&gt;
 주최: 삼성전자 디자인경영센터&lt;/p&gt;
 </description>
@@ -124,6 +124,12 @@
 &lt;img src=&quot;/assets/images/project/2018/chatbot/03.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그러나 이제는 CAs를 통해 정보의 통합/추천/개인화가 가능해졌다. 이를 구현하기 위해 문화 도메인 특성을 고려한 시나리오 도출 및 엔진 개발을 하고자 한다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;참가자: 김민준(PM), 최혜영, 김병준, 김준한, 강슬기, 고병휘, 이정복, 전하영&lt;br /&gt;
+기간: 2018.03 - 2018.12 &lt;br /&gt;
+주최: 한국콘텐츠진흥원&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/project/2018/01/12/ProjectChatbot20180114.html</link>
