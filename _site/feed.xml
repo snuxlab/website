@@ -5,8 +5,8 @@
     <description>Seoul National University UX LAB</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jan 2019 19:40:16 +0900</pubDate>
-    <lastBuildDate>Thu, 24 Jan 2019 19:40:16 +0900</lastBuildDate>
+    <pubDate>Thu, 24 Jan 2019 19:45:22 +0900</pubDate>
+    <lastBuildDate>Thu, 24 Jan 2019 19:45:22 +0900</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -119,6 +119,9 @@
       <item>
         <title> 공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(1)</title>
         <description>&lt;p&gt;문화콘텐츠진흥원이 공모한 프로젝트로, 우리 연구실이 주관하며 공동연구기관 머니브레인과 위탁연구기관 크레디아와 함께 진행중인 3개년도 프로젝트. 기존 공연 관람은 탐색이 어렵고 복잡한 카탈로그 브라우징이었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/project/2018/chatbot/02.jpg&quot; /&gt;
+&lt;img src=&quot;/assets/images/project/2018/chatbot/03.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;그러나 이제는 CAs를 통해 정보의 통합/추천/개인화가 가능해졌다. 이를 구현하기 위해 문화 도메인 특성을 고려한 시나리오 도출 및 엔진 개발을 하고자 한다.&lt;/p&gt;
 </description>
