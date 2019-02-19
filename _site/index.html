@@ -62,9 +62,9 @@
                     <a class="nav-link" href="/about">About</a>
                 </li> 
                 
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a style="text-decoration: line-through;" class="nav-link" href="#">News</a>
-                </li>
+                </li> -->
 
                 <li class="nav-item">                
                     <a class="nav-link" href="/people.html">People</a>
@@ -573,7 +573,7 @@ id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-targe
 
  <form action="https://getsimpleform.com/messages?form_api_token=ddfade9e36eb7270f6b3f0887bb3656c" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <!-- <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' /> -->
   <!-- all your input fields here.... -->
   <div>
   <div class="form-row">
@@ -609,13 +609,11 @@ id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-targe
   
   </div style="margin:0px auto; text-align: center;">
   </div>
-
-
+  <input type='submit' value='submit' onclick="alertFunction()" / class="btn btn-primary">
   <!-- <div><input type='submit' value='보내기' /></div>         -->
         </form>
-<button style="border-radius: 0px"  type="submit" value="보내기" class="btn btn-primary">
-<h5>신청하기</h5>
-</button>
+
+
       </div>
     </div>
   </div>
@@ -626,6 +624,12 @@ id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-targe
 document.addEventListener("DOMContentLoaded", function(){
     document.getElementById("modal1").click();
 })
+</script>
+
+<script>
+function alertFunction() {
+  alert("참관 신청이 완료되었습니다. \n랩미팅은 3월 개강 전까지 서울대학교 18동 214호에서 목요일 오전 10시에 진행됩니다. \n희망하시는 날짜에 잊지 마시고 참여해주세요.");
+}
 </script>
     </div>
 
