@@ -50,8 +50,7 @@ comments: true
   _Yoojung Kim, Eunyoung Heo, Hyunjung Lee, Sukyoung Ji, Jueun Choi, Joongseek Lee, Sooyoung Yu_  
   Full Paper - 37th Annual CHI Conference on Human Factors in Computing Systems (CHI 2017)
   
-- **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로 -
-**  
+- **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로**  
 _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
 Full Paper - 37th Annual CHI Conference on Human Factors in Computing Systems (CHI 2017)
 
