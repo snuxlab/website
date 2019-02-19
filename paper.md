@@ -33,6 +33,11 @@ comments: true
 
 ---
 ## Conference Proceedings
+
+### 2019
+- **내가 이렇게 빠르다고? 진동 피드백을 통한 전동킥보드 속도 지각 보조**
+_이정복, 이중식_
+ HCI KOREA 2019
   
 ### 2018
 - **Can a Machine Tend to Teeneagers' Emotional Needs? A Study with Conversational Agents**  
