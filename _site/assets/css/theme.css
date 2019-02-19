@@ -13,6 +13,10 @@ body {
 	padding: 0rem 0rem 1rem 0;
 }
 
+.table td, .table th
+{
+	text-align: center ! important;
+}
 a {
 	color:#6FD350;
 }

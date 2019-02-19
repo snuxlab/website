@@ -5,9 +5,22 @@
     <description>Seoul National University UX LAB</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Feb 2019 12:50:59 +0900</pubDate>
-    <lastBuildDate>Fri, 15 Feb 2019 12:50:59 +0900</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 11:47:21 +0900</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 11:47:21 +0900</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>“얼떨결에, 구글홈”</title>
+        <description>&lt;p&gt;2주 전 금요일, 인턴 세 명은 모두 구글홈을 하나씩 손에 들고 퇴근했습니다. 저는 특별히 구글홈 미니를 골라잡았어요! 구글홈과 함께 진행되는 이번 인턴과제는 다이얼플로우를 이용해 자기소개 챗봇을 만드는 것과, 구글홈과 어시스턴트로 할 수 있는 다양한 작업들을 경험해보는 것이었습니다. 
+발화에서 intent 와 entity를 뽑아내어 챗봇을 만들어나가는 과정은 신기하고, 흥미롭고, 어려웠습니다. 나에 대한 질문에 답해줄 수 있는 챗봇을 만드려고 하니, 자연스레 저 자신을 구성하는 것들에 대해서 상당히 다양하게 들여다보는 시간을 가지게 되었어요. 저에 대한 어떤 질문을 하더라도 이 챗봇이 어느 정도 적절한 대답을 할 수 있도록 최대한 촘촘하게 만들어야지, 하고 다짐했었는데, 랩미팅에서 제가 다이얼플로우의 원리를 좀 잘못 이해했다는 걸 알고나니까 꽤나 속상하더라구요. 시간이 날 때 다시 한 번 원리에 맞는 제대로 된 챗봇을 만들고 싶다는 생각을 했습니다. 
+챗봇을 만드는 틈틈이 구글 어시스턴트와 대화도 하고, 타로점 보기나 인터랙티브 동화 듣기, 퀴즈 풀기와 같은 다양한 기능들을 써보았어요. 그런데 제가 카카오미니 대비 구글홈에게 너무 많은 기대를 했는지, 생각보다 구글홈과 할 수 있는 일들이 별로 없었습니다. 대화의 수준도 떨어지고, 그나마 매일 물어보는 오늘의 날씨마저 자꾸 틀리니까 자꾸만 사이가 조금씩 멀어져가고 있네요. 정말 괜찮은 인공지능 스피커, 좋은 대화형 에이전트란 뭘까 조금씩 더 고민해보게 되는 요즘입니다!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/02/19/soomin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/19/soomin.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>겨울 인턴들의 첫 과제: 자연 경험</title>
@@ -34,9 +47,9 @@
 재미있게 보셨나요? 유우엑스랩의 일기는 계속됩니다! 
 다음에 또 만나요~!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 24 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2018/01/24/yeeun.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/24/yeeun.html</guid>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/24/yeeun.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/24/yeeun.html</guid>
         
         
       </item>
@@ -50,9 +63,9 @@
 &lt;p&gt;그리고 드디어 떨리는 발표 시간. 다른 인턴분의 챗봇이 방학에 뭐 할 거냐는 질문에 남자친구 얘기를 할 때는 다른 사람들과 함께 웃으면서도 동시에 제 차례를 걱정했는데요, 아니나 다를까 제 챗봇도 미처 준비하지 못한 질문을 받고 엉뚱한 답을 하는 것을 보며 식은땀을 흘렸습니다. 하지만 작성해둔 것과 좀 다른 형태로 질문해도 인공지능이 적절한 답변을 찾아 할 때는 뿌듯한 동시에 신기한 마음도 들었습니다. 또 아직은 실제 사람과 대화하는 것과는 차이가 있음을 발견하고 어떻게 하면 좀 더 자연스러운 대화를 디자인할 수 있을지 많은 고민을 하게 되는 과제였습니다&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 24 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2018/01/24/soyoung.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/24/soyoung.html</guid>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/24/soyoung.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/24/soyoung.html</guid>
         
         
       </item>
@@ -69,9 +82,9 @@
 
 &lt;p&gt;간만에 18동 연구실이 아닌 다른 곳으로 출근을 하고 다른 공간에서 작업을 하니 새로웠습니다. 기분이 좋아 괜히 더 일이 잘 되는 느낌도 들었던, 특별한 하루였습니다.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 24 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2018/01/24/soomin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/24/soomin.html</guid>
+        <pubDate>Thu, 24 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/24/soomin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/24/soomin.html</guid>
         
         
       </item>
@@ -90,9 +103,9 @@
 기간: 2018.09 - 2018.12 &lt;br /&gt;
 주최: 삼성전자 디자인경영센터&lt;/p&gt;
 </description>
-        <pubDate>Sat, 13 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/project/2018/01/13/ProjectBixby.html</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2018/01/13/ProjectBixby.html</guid>
+        <pubDate>Sun, 13 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/project/2019/01/13/ProjectBixby.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2019/01/13/ProjectBixby.html</guid>
         
         
         <category>Project</category>
@@ -110,9 +123,9 @@
 
 &lt;p&gt;마침 한파가 풀려 따뜻한 햇살이 내리쬐는 풀밭에서, 옆으로는 깃발을 든 신입생들이 종종 지나가고, 느릿한 교가가 몇 번이고 울려퍼지는, 아주 평화로운 프리스비 시간을 가졌습니다. 오늘 유우엑스 랩의 점심시간은 당장이라도 학교 홍보영상에 나올 것만 같은 그런 화기애애한 오후였습니다.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2018/01/12/soomin.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/12/soomin.html</guid>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/01/12/soomin.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/12/soomin.html</guid>
         
         
       </item>
@@ -132,9 +145,9 @@
 기간: 2018.03 - 2018.12 &lt;br /&gt;
 주최: 한국콘텐츠진흥원&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/project/2018/01/12/ProjectChatbot20180114.html</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2018/01/12/ProjectChatbot20180114.html</guid>
+        <pubDate>Sat, 12 Jan 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/project/2019/01/12/ProjectChatbot20180114.html</link>
+        <guid isPermaLink="true">http://localhost:4000/project/2019/01/12/ProjectChatbot20180114.html</guid>
         
         
         <category>Project</category>
