@@ -120,8 +120,13 @@
     <div class="wrapintro">
         <h1>Lab Meeting</h1>
         <h2 class="lead">우리 연구실은 2019년 1월부터 목요일 오전 10시에 랩미팅을 진행합니다. <br>대학원 입학이나 UX에 관심 있으신 분은 자유롭게 참관하실 수 있습니다.<br>
-        <br>
-        참관 신청: 랩장 김민준(snuxlab@gmail.com) </h2>
+        참관을 희망하시는 분은 아래의 참관 신청 버튼을 눌러주세요.<br>
+      <br>
+        <!-- 참관 신청: 랩장 김민준(snuxlab@gmail.com) </h2> -->
+<button style="background-color: #675bff; border-radius:.3rem" 
+id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2Email">
+  <h5 style="color:white">참관 신청</h5>
+</button>
     </div>
 </section>
 
@@ -551,6 +556,71 @@
     </div>
   </div>
 </div>
+
+
+<div class="modal fade" id="modal2Email" tabindex="-1" role="dialog" aria-labelledby="Close" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modal2Email">랩미팅 참관신청</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+      
+
+
+ <form action="https://getsimpleform.com/messages?form_api_token=ddfade9e36eb7270f6b3f0887bb3656c" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <!-- all your input fields here.... -->
+  <div>
+  <div class="form-row">
+    
+    <div class="form-group col-md-6">
+      <label for="inputEmail4">이름</label>
+      <input type="text" class="form-control" name="name" id="inputEmail4" placeholder="">
+    </div>
+   
+    <div class="form-group col-md-6">
+      <label for="inputPassword4">이메일</label>
+      <input type="Email" name="Email" class="form-control" id="inputPassword4" placeholder="">
+    </div>
+
+    <div class="form-group col-md-6">
+      <label for="inputPassword4">전화번호</label>
+      <input type="text" name="phoneNumber" class="form-control" id="inputphoneNumbrer4" placeholder="ex)01012345678">
+    </div>
+
+    <div class="form-group col-md-6">
+      <label for="inputPassword4">참관 날짜</label>
+      <input type="text" name="phoneNumber" class="form-control" id="inputDate" placeholder="ex)2019/02/04">
+    </div>
+
+    <div class="form-group col-md-6">
+      <label for="inputPassword4">참관 이유</label>
+      <input type="text" name="reason" class="form-control"  id="inputReason" placeholder="간략히 적어주세요.">
+    </div>
+
+
+  </div>
+
+  
+  </div style="margin:0px auto; text-align: center;">
+  </div>
+
+
+  <!-- <div><input type='submit' value='보내기' /></div>         -->
+        </form>
+<button style="border-radius: 0px"  type="submit" value="보내기" class="btn btn-primary">
+<h5>신청하기</h5>
+</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <script>
 document.addEventListener("DOMContentLoaded", function(){
