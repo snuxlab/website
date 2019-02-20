@@ -11,16 +11,12 @@ _유현진, 맹욱재, 이중식_
 한국HCI학회 논문지 2016 
 
 - **챗봇 에이전트 정체성(identity)에 따른 사용자의 인식 및 행동 차이에 대한 연구**  
-  _김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_
+_김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_  
 한국HCI학회 논문지 2017 
 
 - **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로**  
 _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
 디자인융복합학회 디자인융복합연구, 16권 6호
-
-- **Prescribing 10,000 Steps like Aspirin: Designing a Novel Interface for Data-Driven Medical Consultation**  
-  _Yoojung Kim, Eunyoung Heo, Hyunjung Lee, Sukyoung Ji, Jueun Choi, Joongseek Lee, Sooyoung Yu_  
-  Full Paper - 37th Annual CHI Conference on Human Factors in Computing Systems (CHI 2017)
 
 - **인포모빌리티(Info-mobility): 새로운 이동성에 대해**  
   _이중식_  
@@ -62,6 +58,10 @@ _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_
 
 ---
 ### 2017
+
+- **Prescribing 10,000 Steps like Aspirin: Designing a Novel Interface for Data-Driven Medical Consultation**  
+  _Yoojung Kim, Eunyoung Heo, Hyunjung Lee, Sukyoung Ji, Jueun Choi, Joongseek Lee, Sooyoung Yu_  
+  Full Paper - 37th Annual CHI Conference on Human Factors in Computing Systems (CHI 2017)
 
 - **Re-intermediation in the Fashion Industry: A Qualitative Study on Brokers in the Dongdae-mun Fashion District**  
   _Minjoon Kim, Nuri Na, Joongseek Lee_  
@@ -164,7 +164,7 @@ _지현수, 이중식_
 HCI KOREA 2016
 
 - **모바일의 특수성에 따른 사진의 생애주기에 대한 연구**  
-_지현수, 이중식_
+_지현수, 이중식_  
 HCI KOREA 2016
 
 
