@@ -6,17 +6,17 @@ comments: true
 
 ## Journal Articles
 
-- **웨어러블 디바이스를 활용한 운동 중 피드백 방식 연구**  
-_유현진, 맹욱재, 이중식_  
-한국HCI학회 논문지 2016 
-
 - **챗봇 에이전트 정체성(identity)에 따른 사용자의 인식 및 행동 차이에 대한 연구**  
 _김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_  
 한국HCI학회 논문지 2017 
 
 - **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로**  
 _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
-디자인융복합학회 디자인융복합연구, 16권 6호
+디자인융복합연구, 16권 6호 2017
+
+- **웨어러블 디바이스를 활용한 운동 중 피드백 방식 연구**  
+_유현진, 맹욱재, 이중식_  
+한국HCI학회 논문지 2016 
 
 - **인포모빌리티(Info-mobility): 새로운 이동성에 대해**  
   _이중식_  
@@ -31,16 +31,20 @@ _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_
   2011 예술경영연구 제20집
   
 - **IPTV 방송 프로그램의 효율적 검색방법 연구: 온톨로지 검색기반 구축에 대한 시론적 연구 (Research on Program Search for IPTV: Based on Ontological Search Methods)**  
-  _이중식 2011_
+  _이중식_  
+  2011
   
 - **웹검색 행태 연구 – 사용자가 스스로 쿼리를 뭉치는 방법으로 (Web Search Behavior Analysis Based on the Self-bundling Query Method)**  
-  _이중식 2011_
+  _이중식_  
+  2011
   
 - **트위터 국내 헤비 유저 분석: 사용자 맥락을 중심으로 (Analysis of Korean Heavy User of Twitter: Focusing on User Context)**  
-  _정혜란, 지숙영, 이중식 2010_
+  _정혜란, 지숙영, 이중식_  
+  2010
   
 - **사회적 과학기술 발전을 위한 새로운 시민참여모형: 온라인과학상점 (Online Science Shop: An Improved Participatory Model for Social Science and Technology)**  
-  _박대민, 이중식 2010_
+  _박대민, 이중식_  
+  2010 
 
 
 ---
