@@ -10,17 +10,9 @@ title: Home
 
 <!-- Home Jumbotron
 ================================================== -->    
-<section class="intro">
-    <div class="wrapintro">
-        <h1>Lab Meeting</h1>
-        <h2 class="lead">우리 연구실은 2019년 1월부터 목요일 오전 10시에 랩미팅을 진행합니다. <br>대학원 입학이나 UX에 관심 있으신 분은 자유롭게 참관하실 수 있습니다.<br>
-      <br>
-        <!-- 참관 신청: 랩장 김민준(snuxlab@gmail.com) </h2> -->
-<button style="background-color: #675bff; border-radius:.3rem" 
-id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal2Email">
-  <h5 style="color:white">참관 신청</h5>
-</button>
-    </div>
+<section class="intro" style="height:70vh">
+<!--     <div class="wrapintro">
+    </div> -->
 </section>
 
 <!-- We reopen main-content and container --> 
@@ -100,44 +92,63 @@ id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-targe
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">HCIK 튜토리얼 발표 슬라이드 공유</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Lab Meeting 공지</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
  
-
- <div>
-     <a href="https://www.slideshare.net/joonyale/algorithm-experience-design-131861367
-">
-        2019 알고리즘 경험 디자인
-     </a>
- </div>
-
- <div>
- <a href="https://www.slideshare.net/joonyale/finding-usecase-for-voice-service-87730157">
-   2018 Wizard of Oz와 아마존 스킬로 유즈케이스 발견
- </a>
-</div>
-
 <div>
- <a href="https://www.slideshare.net/joonyale/hcik-2017">2017 인공지능을 이용한 유저리서치</a>
+
+ <p style="line-height: 180%">
+   우리 연구실은 2019년 1월부터 <b>목요일 오전 10시에</b> 랩미팅을 진행하고 있습니다. 
+<b>대학원 입학이나 UX에 관심 있으신 분</b>은 자유롭게 참관하실 수 있습니다.
+랩미팅 참관을 희망하시는 분은 아래 양식을 작성하시고 submit 버튼을 눌러주세요.
+ </p>
  </div>
 
- <div>
- <a href="https://www.slideshare.net/joonyale/beyond-post-it-snuux">2016 포스트잇을 넘어서
-</a>
- </div> 
+
+<form action="https://getsimpleform.com/messages?form_api_token=ddfade9e36eb7270f6b3f0887bb3656c" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <!-- <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' /> -->
+  <!-- all your input fields here.... -->
+  <div>
+  <div class="form-row">
+    
+    <div class="form-group col-md-12">
+      <label for="inputEmail4"><b>이름</b></label>
+      <input type="text" class="form-control" name="name" id="inputEmail4" placeholder="">
+    </div>
+   
+    <div class="form-group col-md-12">
+      <label for="inputPassword4"><b>이메일</b></label>
+      <input type="Email" name="Email" class="form-control" id="inputPassword4" placeholder="">
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="inputPassword4"><b>연락처</b></label>
+      <input type="text" name="phoneNumber" class="form-control" id="inputphoneNumbrer4">
+    </div>
+
+    <div class="form-group col-md-12">
+      <label for="inputPassword4"><b>참관 이유</b></label>
+      <textarea type="text" name="reason" class="form-control"  id="inputReason"></textarea>
+    </div>
 
 
- <div>
-     <br> 
-     <p>본 팝업은 2019년 2월 21일 이후로 블로그 포스트로 전환됩니다.</p>
- </div>      
+  </div>
+
+  
+  </div style="margin:0px auto; text-align: center;">
+  </div>
+  <input style="border-radius:0px;" type='submit' value='submit' onclick="alertFunction()" / class="btn btn-primary">
+  <!-- <div><input type='submit' value='보내기' /></div>         -->
+        </form>
+
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      <!-- <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> -->
       </div>
     </div>
   </div>
@@ -155,46 +166,6 @@ id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-targe
       </div>
       <div class="modal-body">
       
-
-
- <form action="https://getsimpleform.com/messages?form_api_token=ddfade9e36eb7270f6b3f0887bb3656c" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <!-- <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' /> -->
-  <!-- all your input fields here.... -->
-  <div>
-  <div class="form-row">
-    
-    <div class="form-group col-md-6">
-      <label for="inputEmail4">이름</label>
-      <input type="text" class="form-control" name="name" id="inputEmail4" placeholder="">
-    </div>
-   
-    <div class="form-group col-md-6">
-      <label for="inputPassword4">이메일</label>
-      <input type="Email" name="Email" class="form-control" id="inputPassword4" placeholder="">
-    </div>
-
-    <div class="form-group col-md-6">
-      <label for="inputPassword4">전화번호</label>
-      <input type="text" name="phoneNumber" class="form-control" id="inputphoneNumbrer4" placeholder="ex)01012345678">
-    </div>
-
-    <div class="form-group col-md-6">
-      <label for="inputPassword4">참관 이유</label>
-      <textarea type="text" name="reason" class="form-control"  id="inputReason"></textarea>
-    </div>
-
-
-  </div>
-
-  
-  </div style="margin:0px auto; text-align: center;">
-  </div>
-  <input style="border-radius:0px;" type='submit' value='submit' onclick="alertFunction()" / class="btn btn-primary">
-  <!-- <div><input type='submit' value='보내기' /></div>         -->
-        </form>
-
-
       </div>
     </div>
   </div>
@@ -202,13 +173,13 @@ id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-targe
 
 
 <script>
-// document.addEventListener("DOMContentLoaded", function(){
-//     document.getElementById("modal1").click();
-// })
+document.addEventListener("DOMContentLoaded", function(){
+    document.getElementById("modal1").click();
+})
 </script>
 
 <script>
 function alertFunction() {
-  alert("참관 신청이 완료되었습니다. \n랩미팅은 서울대학교 18동 214호에서 매주 목요일 오전 10시에 진행됩니다. \n희망하시는 날짜에 잊지마시고 참여해주세요:).");
+  alert("참관 신청이 완료되었습니다. \n랩미팅은 서울대학교 18동 214호에서 매주 목요일 오전 10시에 진행됩니다.");
 }
 </script>
