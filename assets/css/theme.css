@@ -340,6 +340,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-bottom:3.5rem;
     z-index: 1;
     position: relative;
+    height:70vh;
 }
 .intro .btn {
     background: #fff100;
@@ -853,6 +854,11 @@ iframe {
     .footer-widget {
         margin-bottom: 1rem;
         margin-top: 1rem;
+    }
+    .intro{
+    	height:40vh;
+    	background-position: 50% 50%; 
+    	background-size:cover;
     }
     .sidebar {max-width:100%;}
     .copyright .pull-left, .copyright .pull-right {float:none;}
