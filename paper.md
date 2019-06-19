@@ -238,7 +238,7 @@ _Soomi Kim, Heeyoung Choi_
 iConference 2014
 
 - **A Design Process based on Field Research: An Adjustable Desk for Children in Rural India**  
-_Youngchan Jung, Soomi Kim, Joongseek Lee_  
+_Youngchan Jeong, Soomi Kim, Joongseek Lee_  
 The Design Research Society 2014 (DRS 2014)
 
 - **Use Octopus Launcher Like Your Hands: Joystick-based Smartphone Control Solution for Motor Impaired People in Electric Wheelchairs**  
