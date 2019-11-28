@@ -31,7 +31,7 @@ image: assets/images/news/2019-11-22-01.jpeg
 
 아랫 `---` 밑에다가 원하는 내용을 쓰면 됩니다.  
 
-이미지 삽입 예시:  
+본문 이미지 삽입 예시:  
 `<img src="{{site.baseurl}}/assets/images/news/파일명.jpg">`  
 위에 header 부분의 `image`는 대표사진임 (메인페이지에서 보이는 미리보기)  
 
