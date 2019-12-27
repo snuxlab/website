@@ -7,44 +7,44 @@ comments: true
 ## Journal Articles
 
 - **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**
-_Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_
-ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 3(4), article 138, 2019.
-
-- **Investigating Data Accessibility of Personal Health Apps**
-_김유정, 이봉신, 최은경_  
-Journal of the American Medical Informatics Association 2019.
-
-- **Impact of Personal Health Records and Wearables on Health Outcomes and Patient Response: Three-Arm Randomized Controlled Trial**  
-_김정훈, 유보림, 조서윤, 허은영, 김유정, 이중식, 정세영, 유수영_  
-Journal of Medical Internet Research mHealth and uHealth, 7(1), e12070. 2019. 
-
-- **Effect of Lifestyle Modification Using a Smartphone Application on Obesity With Obstructive Sleep Apnea: A Short-term, Randomized Controlled Study**  
-_조성우, 위지혜, 유수영, 허은영, 유보림, 김유정, 이중식, 김정훈_  
-Clinical and experimental otorhinolaryngology 2018.
-
-- **Effect of Lifestyle Modification Using a Smartphone Application on Obesity With Obstructive Sleep Apnea: A Short-term, Randomized Controlled Study**  
-_조성우, 위지혜, 유수영, 허은영, 유보림, 김유정, 이중식, 김정훈_  
-Clinical and experimental otorhinolaryngology 2018.
+  _Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_
+  ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 3(4), article 138, 2019.
 
 - **태스크 디자인 방식이 크라우드소싱 기반의 학습데이터 수집결과에 미치는 영향 연구 - 대화형 에이전트 개발을 위한 자연어 학습데이터 수집을 중심으로 -**  
-_김병준, 이중식_  
-디자인융복합연구, 2019
+  _김병준, 이중식_  
+  디자인융복합연구, 2019
+
+- **소비자의 공연 경험에 다가가기: 온라인 게시글 분석을 통한 공연 경험의 구성요소 탐구**  
+  _고예나, 이수민, 김은미, 이중식_  
+  예술경영연구 제52집 2019
+
+- **Investigating Data Accessibility of Personal Health Apps**
+  _Yoojung Kim, Bongshin Lee, Eun Kyoung Choe_  
+  Journal of the American Medical Informatics Association 2019.
+
+- **Impact of Personal Health Records and Wearables on Health Outcomes and Patient Response: Three-Arm Randomized Controlled Trial**  
+  _김정훈, 유보림, 조서윤, 허은영, 김유정, 이중식, 정세영, 유수영_  
+  Journal of Medical Internet Research mHealth and uHealth, 7(1), e12070. 2019. 
+
+- **Effect of Lifestyle Modification Using a Smartphone Application on Obesity With Obstructive Sleep Apnea: A Short-term, Randomized Controlled Study**  
+  _조성우, 위지혜, 유수영, 허은영, 유보림, 김유정, 이중식, 김정훈_  
+  Clinical and experimental otorhinolaryngology 2018.
 
 - **Impact of an Electronic Health Record-Integrated Personal Health Record on Patient Participation in Health Care: Development and Randomized Controlled Trial of MyHealthKeeper**  
-_유보림, 김나리, 허은영, 유수영, 이기혁, 황희, 김정훈, 김유정, 이중식, 정세영_  
-Journal of Medical Internet Research 19(12). 2017. 
+  _유보림, 김나리, 허은영, 유수영, 이기혁, 황희, 김정훈, 김유정, 이중식, 정세영_  
+  Journal of Medical Internet Research 19(12). 2017. 
 
 - **챗봇 에이전트 정체성(identity)에 따른 사용자의 인식 및 행동 차이에 대한 연구**  
-_김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_  
-한국HCI학회 논문지 2017 Vol.12 No.4 
+  _김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_  
+  한국HCI학회 논문지 2017 Vol.12 No.4 
 
 - **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로**  
-_한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
-디자인융복합연구, 16권 6호 2017
+  _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
+  디자인융복합연구, 16권 6호 2017
 
 - **웨어러블 디바이스를 활용한 운동 중 피드백 방식 연구**  
-_유현진, 맹욱재, 이중식_  
-한국HCI학회 논문지 2016 
+  _유현진, 맹욱재, 이중식_  
+  한국HCI학회 논문지 2016 
 
 - **인포모빌리티(Info-mobility): 새로운 이동성에 대해**  
   _이중식_  
@@ -98,6 +98,11 @@ _유현진, 맹욱재, 이중식_
 
 ---
 ### 2019
+
+- **ANALYZING EXPERIENCES IN PERFORMING ARTS USING ONLINE DATA**  
+  _이수민, 고예나, 김은미, 이중식_
+  AP-iSchool 2019
+
 - **내가 이렇게 빠르다고? 진동 피드백을 통한 전동킥보드 속도 지각 보조**  
   _이정복, 이중식_
   HCI KOREA 2019
@@ -121,6 +126,11 @@ _유현진, 맹욱재, 이중식_
 
 ---
 ### 2018
+
+- **A Multi-Method Approach to Activities of ‘Photaku’: Photo-Taking Fans in the Korean Entertainment Industry**  
+  _Sugyo Han, Zongmuk Yoon, Joongseek Lee_  
+  IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018
+
 - **Can a Machine Tend to Teeneagers' Emotional Needs? A Study with Conversational Agents**  
   _Junhan Kim, Yoojung Kim, Byungjoon Kim, Sukyung Yun, Minjoon Kim, Joongseek Lee_  
   Extended Abstract - 38th Annual CHI Conference on Human Factors in Computing Systems (CHI 2018)
