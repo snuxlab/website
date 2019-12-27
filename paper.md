@@ -127,7 +127,7 @@ comments: true
   _이정복, 이중식_  
   HCI KOREA 2019
 
-- **메시지를 잡아라! 메시지 노티피케이션 즉각 대응을 위한 Quick Action 연구**
+- **메시지를 잡아라! 메시지 노티피케이션 즉각 대응을 위한 Quick Action 연구**  
   _전하영, 이중식_  
   HCI KOREA 2019
 
@@ -193,7 +193,7 @@ comments: true
 
 
 - **Development of Bengali Alphabet Self-Learning Device for Hearing-impaired Children based on Teaching Method in India**  
-  _Koh, Youngin, and Youngchan Jeong_  
+  _Youngin Koh, Youngchan Jeong_  
   대한인간공학회 2017
   
 - **인용문 나열을 통한 Echo Chamber 현상의 완화: 신문 기사를 중심으로**  
