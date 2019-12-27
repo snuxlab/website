@@ -6,9 +6,37 @@ comments: true
 
 ## Journal Articles
 
+- **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**
+_Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_
+ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 3(4), article 138, 2019.
+
+- **Investigating Data Accessibility of Personal Health Apps**
+_김유정, 이봉신, 최은경_  
+Journal of the American Medical Informatics Association 2019.
+
+- **Impact of Personal Health Records and Wearables on Health Outcomes and Patient Response: Three-Arm Randomized Controlled Trial**  
+_김정훈, 유보림, 조서윤, 허은영, 김유정, 이중식, 정세영, 유수영_  
+Journal of Medical Internet Research mHealth and uHealth, 7(1), e12070. 2019. 
+
+- **Effect of Lifestyle Modification Using a Smartphone Application on Obesity With Obstructive Sleep Apnea: A Short-term, Randomized Controlled Study**  
+_조성우, 위지혜, 유수영, 허은영, 유보림, 김유정, 이중식, 김정훈_  
+Clinical and experimental otorhinolaryngology 2018.
+
+- **Effect of Lifestyle Modification Using a Smartphone Application on Obesity With Obstructive Sleep Apnea: A Short-term, Randomized Controlled Study**  
+_조성우, 위지혜, 유수영, 허은영, 유보림, 김유정, 이중식, 김정훈_  
+Clinical and experimental otorhinolaryngology 2018.
+
+- **태스크 디자인 방식이 크라우드소싱 기반의 학습데이터 수집결과에 미치는 영향 연구 - 대화형 에이전트 개발을 위한 자연어 학습데이터 수집을 중심으로 -**  
+_김병준, 이중식_  
+디자인융복합연구, 2019
+
+- **Impact of an Electronic Health Record-Integrated Personal Health Record on Patient Participation in Health Care: Development and Randomized Controlled Trial of MyHealthKeeper**  
+_유보림, 김나리, 허은영, 유수영, 이기혁, 황희, 김정훈, 김유정, 이중식, 정세영_  
+Journal of Medical Internet Research 19(12). 2017. 
+
 - **챗봇 에이전트 정체성(identity)에 따른 사용자의 인식 및 행동 차이에 대한 연구**  
 _김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_  
-한국HCI학회 논문지 2017 
+한국HCI학회 논문지 2017 Vol.12 No.4 
 
 - **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로**  
 _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
@@ -49,7 +77,49 @@ _유현진, 맹욱재, 이중식_
 
 ---
 ## Conference Proceedings
-  
+
+### 2020
+- **“It Should Be a Game for Fun, Not Exercise”: Tensions in Designing Health-Related Features for Pokémon GO**  
+  _Yoojung Kim, Arpita B, Julie A. Kientz, Jin Ha Lee_  
+  Full Paper -  40th Annual CHI Conference on Human Factors in Computing Systems (CHI 2020)
+
+- **AI 스피커 멀티턴 서비스의 대화 분리감을 위한 청각큐 연구**  
+  _조수빈, 이중식_
+  HCI KOREA 2020
+
+- **스마트스피커 기반 인터랙티브 콘텐츠 사용 행태에 대한 탐색적 연구**  
+  _고병휘, 이정복, 이수민, 이중식_
+  HCI KOREA 2020
+
+- **읽고 싶진 않지만 끄고 싶지도 않아: 스마트폰 배지 알림의 의의 탐색**  
+  _이수미, 이중식_
+  HCI KOREA 2020
+
+
+---
+### 2019
+- **내가 이렇게 빠르다고? 진동 피드백을 통한 전동킥보드 속도 지각 보조**  
+  _이정복, 이중식_
+  HCI KOREA 2019
+
+- **메시지를 잡아라! 메시지 노티피케이션 즉각 대응을 위한 Quick Action 연구**
+  _전하영, 이중식_
+  HCI KOREA 2019
+
+- **맨 뒤가 특수문자였던가?**  
+  _이지훈, 이중식_
+  HCI KOREA 2019
+
+- **과유불급 : 태스크 양이 크라우드 소싱 기반 자연어처리 학습데이터 생성 결과에 미치는 영향 연구**  
+  _김병준, 이중식_
+  HCI KOREA 2019  
+
+- **“여권 사진이 어디 있더라?” 객체 인식을 활용한 사진 검색 행동에 대한 탐색적 연구**  
+  _강슬기, 이중식_
+  HCI KOREA 2019  
+
+
+---
 ### 2018
 - **Can a Machine Tend to Teeneagers' Emotional Needs? A Study with Conversational Agents**  
   _Junhan Kim, Yoojung Kim, Byungjoon Kim, Sukyung Yun, Minjoon Kim, Joongseek Lee_  
@@ -58,6 +128,22 @@ _유현진, 맹욱재, 이중식_
 - **A Data-driven Approach to Explore Television Viewing in the Household Environment**  
   _Minjoon Kim, Sugyo Han, Joongseek Lee_  
   Full Paper - 2018 International Conference on Interactive Experiences for TV and Online Video (TVX 2018)
+
+- **DTS(Dialog Trigger Scene)와 WoZ 를 사용한 차량 내 VUI 유즈 케이스 발**  
+  _윤종묵, 안아주, 이중식_
+  HCI KOREA 2018  
+
+- **자동화된 챗봇 기반 사건-연계 경험표집법(ESM)**  
+  _김준한, 김민준, 김진영, 이중식_
+  HCI KOREA 2018
+
+- **웨어러블 디바이스 데이터를 통해 분석한 요일별 활동량 패턴 유형에 대한 탐색적 연구**  
+  _김병준, 김유정, 이중식_
+  HCI KOREA 2018
+
+- **온라인으로 제공되는 의료진 조언에 대한 사용자의 수용 유형 연구**  
+  _강슬기, 김유정, 이중식_
+  HCI KOREA 2018
 
 
 ---
