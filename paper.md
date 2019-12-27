@@ -6,19 +6,27 @@ comments: true
 
 ## Journal Articles
 
-- **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**
-  _Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_
+- **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**  
+  _Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_  
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 3(4), article 138, 2019.
 
-- **태스크 디자인 방식이 크라우드소싱 기반의 학습데이터 수집결과에 미치는 영향 연구 - 대화형 에이전트 개발을 위한 자연어 학습데이터 수집을 중심으로 -**  
-  _김병준, 이중식_  
-  디자인융복합연구, 2019
+- **카카오톡 대화에 나타난 업무 대화와 개인 대화 간 뒤섞임 : 대화 요소 간 상관관계 및 대화 내 전환 유형 분석**  
+  _정영찬, 정혜란, 윤수경, 이중식_  
+  한국HCI학회 논문지, 14(4) 2019  
 
 - **소비자의 공연 경험에 다가가기: 온라인 게시글 분석을 통한 공연 경험의 구성요소 탐구**  
   _고예나, 이수민, 김은미, 이중식_  
   예술경영연구 제52집 2019
 
-- **Investigating Data Accessibility of Personal Health Apps**
+- **Cyberslacking or Smart Work: Smartphone Usage Log-Analysis Focused on App-Switching Behavior in Work and Leisure Conditions**  
+  _Youngchan Jeong, Hyelan Jung, Joongseek Lee_  
+  International Journal of Human–Computer Interaction (2019): 1-16.
+
+- **태스크 디자인 방식이 크라우드소싱 기반의 학습데이터 수집결과에 미치는 영향 연구 - 대화형 에이전트 개발을 위한 자연어 학습데이터 수집을 중심으로 -**  
+  _김병준, 이중식_  
+  디자인융복합연구, 2019
+
+- **Investigating Data Accessibility of Personal Health Apps**  
   _Yoojung Kim, Bongshin Lee, Eun Kyoung Choe_  
   Journal of the American Medical Informatics Association 2019.
 
@@ -34,9 +42,13 @@ comments: true
   _유보림, 김나리, 허은영, 유수영, 이기혁, 황희, 김정훈, 김유정, 이중식, 정세영_  
   Journal of Medical Internet Research 19(12). 2017. 
 
+- **Designing Localized Teaching Aids for Sustainable Use through Human-Centered Design in Rural Vietnam**  
+  _Youngchan Jeong, and Namjun Kang_  
+  International Journal of Information and Education Technology 7(11) (2017).  
+
 - **챗봇 에이전트 정체성(identity)에 따른 사용자의 인식 및 행동 차이에 대한 연구**  
   _김유정, 한상규, 윤종묵, 허은영, 김정훈, 이중식_  
-  한국HCI학회 논문지 2017 Vol.12 No.4 
+  한국HCI학회 논문지 12(4) 2017  
 
 - **스마트폰 vs 웨어러블, 실제 걸음 수 산출을 위한 보정계수의 발견 - 두 기기의 In-situ 활용 행태 비교를 바탕으로**  
   _한상규, 김유정, 안아주, 허은영, 김정훈, 이중식_  
@@ -83,16 +95,20 @@ comments: true
   _Yoojung Kim, Arpita B, Julie A. Kientz, Jin Ha Lee_  
   Full Paper -  40th Annual CHI Conference on Human Factors in Computing Systems (CHI 2020)
 
+- **Mobile instant messenger as a hub for mixed work and personal conversation: Group chat switching patterns and usage strategies of the users**  
+  _Youngchan Jeong, Hyelan Jung, Joongseek Lee_  
+  Full Paper -  iConference 2020
+
 - **AI 스피커 멀티턴 서비스의 대화 분리감을 위한 청각큐 연구**  
-  _조수빈, 이중식_
+  _조수빈, 이중식_  
   HCI KOREA 2020
 
 - **스마트스피커 기반 인터랙티브 콘텐츠 사용 행태에 대한 탐색적 연구**  
-  _고병휘, 이정복, 이수민, 이중식_
+  _고병휘, 이정복, 이수민, 이중식_  
   HCI KOREA 2020
 
 - **읽고 싶진 않지만 끄고 싶지도 않아: 스마트폰 배지 알림의 의의 탐색**  
-  _이수민, 이중식_
+  _이수민, 이중식_  
   HCI KOREA 2020
 
 
@@ -100,27 +116,31 @@ comments: true
 ### 2019
 
 - **ANALYZING EXPERIENCES IN PERFORMING ARTS USING ONLINE DATA**  
-  _이수민, 고예나, 김은미, 이중식_
+  _Soomin Lee, Yena Ko, Eunmee Kim, Joongseek Lee_  
   AP-iSchool 2019
 
+- **“How May I Help You Today?“: Designing a Concierge Chatbot for the Classical Genre through a User Study**  
+  _김민준, 최혜영, 이중식_  
+  HCI KOREA 2019
+
 - **내가 이렇게 빠르다고? 진동 피드백을 통한 전동킥보드 속도 지각 보조**  
-  _이정복, 이중식_
+  _이정복, 이중식_  
   HCI KOREA 2019
 
 - **메시지를 잡아라! 메시지 노티피케이션 즉각 대응을 위한 Quick Action 연구**
-  _전하영, 이중식_
+  _전하영, 이중식_  
   HCI KOREA 2019
 
 - **맨 뒤가 특수문자였던가?**  
-  _이지훈, 이중식_
+  _이지훈, 이중식_  
   HCI KOREA 2019
 
 - **과유불급 : 태스크 양이 크라우드 소싱 기반 자연어처리 학습데이터 생성 결과에 미치는 영향 연구**  
-  _김병준, 이중식_
+  _김병준, 이중식_  
   HCI KOREA 2019  
 
 - **“여권 사진이 어디 있더라?” 객체 인식을 활용한 사진 검색 행동에 대한 탐색적 연구**  
-  _강슬기, 이중식_
+  _강슬기, 이중식_  
   HCI KOREA 2019  
 
 
@@ -139,20 +159,20 @@ comments: true
   _Minjoon Kim, Sugyo Han, Joongseek Lee_  
   Full Paper - 2018 International Conference on Interactive Experiences for TV and Online Video (TVX 2018)
 
-- **DTS(Dialog Trigger Scene)와 WoZ 를 사용한 차량 내 VUI 유즈 케이스 발**  
-  _윤종묵, 안아주, 이중식_
+- **DTS(Dialog Trigger Scene)와 WoZ 를 사용한 차량 내 VUI 유즈 케이스 발굴**  
+  _윤종묵, 안아주, 이중식_  
   HCI KOREA 2018  
 
 - **자동화된 챗봇 기반 사건-연계 경험표집법(ESM)**  
-  _김준한, 김민준, 김진영, 이중식_
+  _김준한, 김민준, 김진영, 이중식_  
   HCI KOREA 2018
 
 - **웨어러블 디바이스 데이터를 통해 분석한 요일별 활동량 패턴 유형에 대한 탐색적 연구**  
-  _김병준, 김유정, 이중식_
+  _김병준, 김유정, 이중식_  
   HCI KOREA 2018
 
 - **온라인으로 제공되는 의료진 조언에 대한 사용자의 수용 유형 연구**  
-  _강슬기, 김유정, 이중식_
+  _강슬기, 김유정, 이중식_  
   HCI KOREA 2018
 
 
@@ -160,7 +180,7 @@ comments: true
 ### 2017
 
 - **Prescribing 10,000 Steps like Aspirin: Designing a Novel Interface for Data-Driven Medical Consultation**  
-  _Yoojung Kim, Eunyoung Heo, Hyunjung Lee, Sukyoung Ji, Jueun Choi, Joongseek Lee, Sooyoung Yu_  
+  _Yoojung Kim, Eunyoung Heo, Hyunjung Lee, Sukyoung Ji, Jueun Choi, Joongseek Lee, Sooyoung Yoo_  
   Full Paper - 37th Annual CHI Conference on Human Factors in Computing Systems (CHI 2017)
 
 - **Re-intermediation in the Fashion Industry: A Qualitative Study on Brokers in the Dongdae-mun Fashion District**  
@@ -171,8 +191,13 @@ comments: true
   _Jieun Song, Joongseek Lee_  
   2017 Asia-Pacific Forum of Information Schools (APIS 2017)
 
+
+- **Development of Bengali Alphabet Self-Learning Device for Hearing-impaired Children based on Teaching Method in India**  
+  _Koh, Youngin, and Youngchan Jeong_  
+  대한인간공학회 2017
+  
 - **인용문 나열을 통한 Echo Chamber 현상의 완화: 신문 기사를 중심으로**  
-  _김민준, 윤종묵, 맹욱재, 이중식_
+  _김민준, 윤종묵, 맹욱재, 이중식_  
   HCI KOREA 2017
   
 - **링크드 데이터의 시각화: 뉴스 도메인을 중심으로**  
