@@ -17,18 +17,42 @@ authors:
     name: JiHoonLee 
     display_name: UXLAB
     gravatar: 
-    email: ljh62044217@gmail.com
+    email:
     web: 
     twitter: 
     description: 
-  MinJoon:
-    name: MinJoon Kim
-    display_name: UXLAB
+  Minjoon:
+    name: Minjoon Kim
+    display_name: Minjoon
     gravatar: 
     email:
     web: 
     twitter: 
     description: 
+  Yoojung:
+    name: Yoojung Kim
+    display_name: Yoojung
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
+  Soomin:
+    name: Soomin Lee
+    display_name: Soomin
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
+  UXLab:
+    name: UX Lab
+    display_name: UX Lab
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
 
 # Plugins
 plugins: 
