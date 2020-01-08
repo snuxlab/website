@@ -5,9 +5,13 @@
 
 ## 이미지 올리기
 블로그 포스팅용 이미지는 한곳으로 통일합니다.  
-`snuxlab.github.io/website/assets/images/news/` 디렉토리를 이용합니다.  
+`snuxlab.github.io/website/assets/images/news/` 디렉토리를 이용합니다. 
+(디렉토리 안에 개인폴더를 만드셔도 됩니다)   
 올릴 이미지의 파일명은 날짜 + 몇번째 사진인지로 표기하기  
 ex) `2019-11-22-01.jpg` or `2019-10-23-03.jpg`  
+
+**중요: 세로로 긴 직사각형 이미지는 가로 길이를 400px로 맞춥니다! (세로는 무관)**
+**배너처럼 가로로 엄청 긴 이미지는 딱히 문제 없지만, 이미지 크기만 좀 신경써주세요**
 
 깃허브에 로그인해서 업로드하면 됩니다.  
 
@@ -16,7 +20,7 @@ ex) `2019-11-22-01.jpg` or `2019-10-23-03.jpg`
 ---
 layout: post
 title: 'UX Lab인데 사진찍기가 과제라고?'
-author: JiHoon
+author: UXLab
 categories: 
 image: assets/images/news/2019-11-22-01.jpeg
 ---
@@ -35,13 +39,18 @@ image: assets/images/news/2019-11-22-01.jpeg
 아랫 `---` 밑에다가 원하는 내용을 쓰면 됩니다.  
 
 본문 이미지 삽입 예시:  
-`<img src="{{site.baseurl}}/assets/images/news/파일명.jpg">`  
+`<img src="{{site.baseurl}}/assets/images/news/파일명.jpg" style="float: left; margin-right: 5%;">`  
+`<img src="{{site.baseurl}}/assets/images/news/개인디렉토리/파일명.jpg" style="float: left; margin-right: 5%;>`  
+
+예시의 `style` 부분은 작은 이미지를 쓰실때 저대로 꼭 써주세요. 
+css 스타일링 가능하신분은 각자 알아서 이쁘게...
+
 위에 header 부분의 `image`는 대표사진임 (메인페이지에서 보이는 미리보기)  
 
-파일 저장은: `날짜-저자.md`  
+파일 저장은: `날짜-제목.md`  
 파일명에 날짜를 써줘야 홈피에서 퍼블리쉬 날짜가 찍힘.  
 다른 날짜로 퍼블리쉬하고 싶으면 파일명의 날짜를 바꾸면 됨.  
-예시: `2019-11-22-choyi.md`  
+예시: `2019-11-22-zero-depth.md`  
 
 ## 글 업로드
 업로드 경로는  
