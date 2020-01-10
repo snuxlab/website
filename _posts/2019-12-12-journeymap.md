@@ -3,9 +3,9 @@ layout: post
 title: '리빙랩에서 집으로 가는 퇴근길 저니맵 그리기'
 author: JiHoon
 categories: 
-image: assets/images/news/2019-12-12-00.jpg
+image: assets/images/news/interns/2019-12-12-00.jpg
 ---
-<img src="{{site.baseurl}}/assets/images/news/2019-12-12-00.jpg">
+<img src="{{site.baseurl}}/assets/images/news/interns/2019-12-12-00.jpg">
 
 쉐어하우스 건물 1층의 리빙랩인 “혼자잘살기 연구소”로 출근한 지 일주일째 되는 날, 교수님께서 저를 포함한 인턴 두명과 학부생 두명에게 특별한 과제를 내주셨어요. 리빙랩에서 집까지의 퇴근길 저니맵을 만들어오라는 것이었죠! 
 
