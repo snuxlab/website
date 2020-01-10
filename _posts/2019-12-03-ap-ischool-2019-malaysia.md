@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AP-iSchool 2019 in Malaysia'
-author: Soomin
+author: JiHoon
 categories: 
 image: assets/images/news/2019-11-04-01.jpeg
 ---
