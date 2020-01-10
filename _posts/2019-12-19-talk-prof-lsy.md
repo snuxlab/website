@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UT Austin에서 오신 이수영 교수님과의 만남 “이제는 ㅋ형 교육의 시대!”
-author: Yoojung
+author: JiHoon
 categories: 
 image: assets/images/news/yoojung/01.jpg
 ---
