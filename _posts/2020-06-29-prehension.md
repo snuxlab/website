@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '공용 공간에 몇명이 있는지 알 수 있다면?'
-author: Seohyung
+author: JiHoon
 categories: 
 image: assets/images/news/2020-06-29-01.jpg
 ---
