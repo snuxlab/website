@@ -61,6 +61,14 @@ authors:
     web: 
     twitter: 
     description:
+  Interns:
+    name: Interns
+    display_name: UX Lab Intern
+    gravatar: 
+    email:
+    web: 
+    twitter: 
+    description:
 
 # Plugins
 plugins: 
