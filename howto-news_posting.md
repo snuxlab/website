@@ -30,7 +30,7 @@ image: assets/images/news/2019-11-22-01.jpeg
 `layout: post`는 이 파일이 “post” 형태인걸 알려줌  
 `title`에는 적고 싶은 제목 쓰기  
 `author`는 두가지 경로로 설정이 가능함.
-1. `UX Lab`으로 글쓰기: `author` 부분에 `UXLab`으로 적으면 됨
+1. `UX Lab`으로 글쓰기: `author` 부분에 `UX Lab`으로 적으면 됨
 2. 자기 이름으로 글쓰기: 자기가 원하는 이름을 `website/_config.yml`파일의 `# Authors` 부분에 자기 이름을 추가한다. 내어쓰기 되어있는 부분에는 스페이스 없이 만든후, `name` 및 `display_name` 을 쓰면 된다. `display_name`이 웹사이트 상에 보이는 이름이다.
 `categories`: 무시  
 
@@ -46,6 +46,9 @@ image: assets/images/news/2019-11-22-01.jpeg
 css 스타일링 가능하신분은 각자 알아서 이쁘게...
 
 위에 header 부분의 `image`는 대표사진임 (메인페이지에서 보이는 미리보기)  
+
+링크 삽입 방법
+[링크 제목 예: 슬라이드쉐어 링크입니다](https://www.google.com)
 
 파일 저장은: `날짜-제목.md`  
 파일명에 날짜를 써줘야 홈피에서 퍼블리쉬 날짜가 찍힘.  
