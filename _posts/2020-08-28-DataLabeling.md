@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '가장 단순한 데이터 라벨링조차 자동화되는 날이 올까요?'
-author: UX lab
+author: UX Lab
 categories: 
 image: assets/images/news/interns/2020-08-28-02.jpg
 ---
