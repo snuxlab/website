@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '깜짝 미션이 도착했습니다!'
-author: UXlab
+title: '따란! 깜짝 미션이 도착했습니다!'
+author: UX Lab
 categories: 
 image: assets/images/news/interns/2020-08-28-01.png
 ---
