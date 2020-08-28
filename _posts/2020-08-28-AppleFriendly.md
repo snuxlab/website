@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '우리는 사과가 좋아요: 애플-친화적 연구실'
-author: UX lab
+author: UX Lab
 categories: 
 image: assets/images/news/interns/2020-08-28-03.jpg
 ---
