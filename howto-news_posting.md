@@ -29,10 +29,11 @@ image: assets/images/news/2019-11-22-01.jpeg
 글 작성에는 항상 위 헤더가 있어야한다.  
 `layout: post`는 이 파일이 “post” 형태인걸 알려줌  
 `title`에는 적고 싶은 제목 쓰기  
-`author`는 두가지 경로로 설정이 가능함.
+`categories: 무시 `
+`author`는 두가지 경로로 설정이 가능함. 
+
 1. `UX Lab`으로 글쓰기: `author` 부분에 `UXLab`으로 적으면 됨
 2. 자기 이름으로 글쓰기: 자기가 원하는 이름을 `website/_config.yml`파일의 `# Authors` 부분에 자기 이름을 추가한다. 내어쓰기 되어있는 부분에는 스페이스 없이 만든후, `name` 및 `display_name` 을 쓰면 된다. `display_name`이 웹사이트 상에 보이는 이름이다.
-`categories`: 무시  
 
 `image`는 대표 이미지 경로로, github 디렉토리에서, `assets/images/news/파일이름.jpg` 형태로 하면된다.  
 
