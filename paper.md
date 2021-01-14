@@ -95,13 +95,13 @@ comments: true
 ## Conference Proceedings
 
 ### 2020
-- **“Not Too Much, Nor Too Less: Investigating Which Information Should Be Shared for Awareness Between Remote Workers**  
+- **Not Too Much, Nor Too Less: Investigating Which Information Should Be Shared for Awareness Between Remote Workers**  
   _Soobin Cho, Bongwon Suh, and Joongseek Lee_  
-  Extended Abstract - 23th Computer Supported Cooperative Work and Social Computing (CSCW' 20 Companion)
+  Extended Abstract - 23th Computer Supported Cooperative Work and Social Computing (CSCW 2020)
 
-- **“Utilizing Response Time to Find In-between Ratings within Likes and Dislikes**  
+- **Utilizing Response Time to Find In-between Ratings within Likes and Dislikes**  
   _Minjoon Kim, Yoojung Kim, and Joong-seek Lee_  
-  Extended Abstract - 40th Annual CHI Conference on Human Factors in Computing Systems (CHI EA '20)
+  Extended Abstract - 40th Annual CHI Conference on Human Factors in Computing Systems (CHI 2020)
 
 - **“It Should Be a Game for Fun, Not Exercise”: Tensions in Designing Health-Related Features for Pokémon GO**  
   _Yoojung Kim, Arpita B, Julie A. Kientz, Jin Ha Lee_  
