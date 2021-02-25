@@ -17,40 +17,7 @@ title: blog
 
 <div class="container">
     
-    <div class="main-content">
-        
-
-        <!-- Featured
-        ================================================== -->
-        <section class="featured-posts">
-
-            <div class="section-title">
-                <h2><span>Recent Project</span></h2>
-            </div>
-
-            <div class="row listfeaturedtag">
-
-            {% for post in site.posts %}
-
-                {% if post.featured == true %}
-
-                    {% include featuredbox.html %}
-
-                {% endif %}
-
-            {% endfor %}
-
-            </div>
-
-        </section>
-
-        <!-- Posts Index
-        ================================================== -->
-         {% if paginator.previous_page %}
-                {% if paginator.previous_page > 0 %}
-                 <div id="jumptopageof"></div>
-        {% endif %}
-        {% endif %}    
+    <div class="main-content">   
 
         <section class="recent-posts row">
 
@@ -62,15 +29,15 @@ title: blog
 
                 <div class="masonrygrid row listrecent">
 
-                    {% for post in posts %}
+                {% for post in site.posts %}
 
-                    {% unless post.featured == true %}
-
-                        {% include postbox.html %}
-
-                    {% endunless %}
-
-                    {% endfor %}
+                    {% if post.featured == true %}
+    
+                        {% include featuredbox.html %}
+    
+                    {% endif %}
+    
+                {% endfor %}
 
                 </div> 
 
@@ -80,102 +47,3 @@ title: blog
 
         </section>
 
-        <!-- Button trigger modal -->
-<button id="modal1" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="display: none">
-  Launch demo modal
-</button>
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">UX Lab 공지</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
- 
-<div style="word-break: keep-all">
-
-<!--     <h4>랩미팅 안내</h4>
-    <p style="line-height: 180%;">
-        안녕하세요, 6월 25일 목요일 랩미팅은 취소되었습니다. 참고 부탁드리겠습니다! 
-    </p><br><br> -->
-          
-<!--    <h5>리빙랩 오픈!</h5>
-    <p style="line-height: 180%;">
-        유엑스랩은 2019년 ‘1인가구와 IoT’라는 주제로 신림동에 리빙랩, <a href="https://naver.me/F64hwzzQ" target="_blank">‘혼자잘살기 연구소’</a>를 열었습니다.
-<!--         <br>매주 화요일 저녁 7시에 모두가 참여해서 문제를 풀어보는 MeetUp이 있습니다.
-             <br>관심 있는 분들의 참여를 부탁드립니다.  -->
-<!--        <br><a href="https://www.instagram.com/livinglab_snu/" target="_blank" style="color: blue; text-align: right;">📸 리빙랩 인스타그램</a>
-<!--         <br><a href="https://forms.gle/43BypNmXWSicYwEu7" target="_blank" style="color: blue; text-align: right;">🔗 MeetUp 참여 신청</a> -->
-
-<h5>인턴 모집!</h5>
-    <p style="line-height: 180%;">
-        3월 이후 인턴 희망자는 아래 양식에 따라 신청해 주세요. <br><a href="https://forms.gle/Vgza2DwZbJWwvZ1X7" target="_blank" style="color: blue; text-align: right;">🔗 인턴 안내</a>
-    </p><br><br>
-    
-<h5>HCI/UX 연구실 디렉토리!</h5>
-    <p style="line-height: 180%;">
-        국내 73개 대학, 280개의 HCI 연구실을 연구 주제 별로 살펴볼 수 있는 디렉토리 사이트를 소개합니다. <br>대학원 진학에 관심 있는 분들은 꼭 살펴봐 주세요. 
-        <br><a href="http://labs.hcikorea.org" target="_blank" style="text-decoration: underline">‘HCI 연구실 디렉토리’</a>
-    </p><br><br>      
-         
-<h5>혼자 '잘'살기 연구소!</h5>
-    <p style="line-height: 180%;">
-        유엑스랩은 2020년 '1인가구의 삶을 위한 UX 연구'를 위해 신림동에 리빙랩을 열었습니다.
-        <br><a href="https://brunch.co.kr/@lab-livingalone" target="_blank" style="text-decoration: underline">‘리빙랩 브런치’</a>
-    </p><br><br>                
-          
-<h5>서울대 UX Lab 랩미팅 참관!</h5>
-    <p style="line-height: 180%;">
-        매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다. 
-        <br>참관 가능하며 UX 대학원 연구실의 전형적인 랩미팅을 보실 수 있습니다. 대학원 진학을 위한 인턴에 관심 있으신 분들은 참관 신청서 작성 부탁드립니다.
-        <br>매주 진행되는 랩미팅의 발표 자료도 페이스북에 모아 놓았습니다.
-        <br><a href="https://forms.gle/43BypNmXWSicYwEu7" target="_blank" style="color: blue; text-align: right;">🔗 참관 신청</a>
-        <br><a href="https://www.facebook.com/userexperiencelab.pt" target="_blank" style="color: blue; text-align: right;">🔗 랩미팅 페이스북</a>
-    </p>
-<!--    <h5>유엑수다!</h5>
-    <p style="line-height: 180%;">
-        유엑스의 다양한 분야와 전문가들을 소개하는 팟캐스트입니다.<br><a href="https://www.buzzsprout.com/266562" target="_blank" style="color: blue; text-align: right;">🔗 유엑수다</a>
-    </p><br><br>
-    <h5>랩미팅 페이스북!</h5>
-    <p style="line-height: 180%;">
-        매주 진행되는 랩미팅의 발표 자료를 공유합니다.<br><a href="https://www.facebook.com/userexperiencelab.pt" target="_blank" style="color: blue; text-align: right;">🔗 랩미팅 페이스북</a>
-    </p>
- </div>
-
-
-      </div>
-      <!-- <div class="modal-footer">
-        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button> -->
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="modal fade" id="modal2Email" tabindex="-1" role="dialog" aria-labelledby="Close" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="modal2Email">랩미팅 참관 신청</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-      
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<script>
-document.addEventListener("DOMContentLoaded", function(){
-    document.getElementById("modal1").click();
-})
-</script>
