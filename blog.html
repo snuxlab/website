@@ -1,0 +1,69 @@
+---
+layout: default
+title: Home
+---
+
+</div>
+</div>
+<!-- We've temporary closed main-content and container to have a full width intro -->    
+
+
+<!-- Home Jumbotron
+================================================== -->    
+<section class="intro" style="height:70vh">
+<!--     <div class="wrapintro">
+    </div> -->
+</section>
+
+<!-- We reopen main-content and container --> 
+
+<div class="container">
+    
+    <div class="main-content">
+
+        <!-- Posts Index
+        ================================================== -->
+         {% if paginator.previous_page %}
+                {% if paginator.previous_page > 0 %}
+                 <div id="jumptopageof"></div>
+        {% endif %}
+        {% endif %}    
+
+        <section class="recent-posts row">
+
+            <div class="col-sm-12">
+
+                <div class="section-title">
+                    <h2><span>Lab Stories</span></h2>    
+                </div>
+
+                <div class="masonrygrid row listrecent">
+
+                    {% for post in paginator.posts %}
+
+                    {% unless post.featured == true %}
+
+                        {% include postbox.html %}
+
+                    {% endunless %}
+
+                    {% endfor %}
+
+                </div> 
+
+                
+
+            </div>
+
+        </section>
+
+        <!-- Button trigger modal -->
+<button id="modal1" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="display: none">
+  Launch demo modal
+</button>
+
+<script>
+document.addEventListener("DOMContentLoaded", function(){
+    document.getElementById("modal1").click();
+})
+</script>
