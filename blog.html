@@ -16,18 +16,12 @@ title: Home
 <!-- We reopen main-content and container --> 
 
 <div class="container">
-    
     <div class="main-content">
-        
-
         <section class="recent-posts row">
-
             <div class="col-sm-12">
-
                 <div class="section-title">
                     <h2><span>Lab Stories</span></h2>    
                 </div>
-
                 <div class="masonrygrid row listrecent">
 
                     {% for post in paginator.posts %}
@@ -41,25 +35,7 @@ title: Home
                     {% endfor %}
 
                 </div> 
-
-                
-
             </div>
-
         </section>
     </div>
 </div>
-
-        <!-- Button trigger modal -->
-<button id="modal1" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="display: none">
-  Launch demo modal
-</button>
-
-
- 
-
-<script>
-document.addEventListener("DOMContentLoaded", function(){
-    document.getElementById("modal1").click();
-})
-</script>
