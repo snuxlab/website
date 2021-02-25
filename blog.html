@@ -1,33 +1,24 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
-</div>
-</div>
 <!-- We've temporary closed main-content and container to have a full width intro -->    
 
 
 <!-- Home Jumbotron
 ================================================== -->    
-<section class="intro" style="height:70vh">
+<!-- <section class="intro" style="height:70vh"> -->
 <!--     <div class="wrapintro">
     </div> -->
-</section>
+<!-- </section> -->
 
 <!-- We reopen main-content and container --> 
 
 <div class="container">
     
     <div class="main-content">
-
-        <!-- Posts Index
-        ================================================== -->
-         {% if paginator.previous_page %}
-                {% if paginator.previous_page > 0 %}
-                 <div id="jumptopageof"></div>
-        {% endif %}
-        {% endif %}    
+        
 
         <section class="recent-posts row">
 
@@ -56,11 +47,16 @@ title: Home
             </div>
 
         </section>
+    </div>
+</div>
 
         <!-- Button trigger modal -->
 <button id="modal1" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="display: none">
   Launch demo modal
 </button>
+
+
+ 
 
 <script>
 document.addEventListener("DOMContentLoaded", function(){
