@@ -16,13 +16,50 @@ title: blog
 <!-- We reopen main-content and container --> 
 
 <div class="container">
+    
     <div class="main-content">
         
+
+        <!-- Featured
+        ================================================== -->
+        <section class="featured-posts">
+
+            <div class="section-title">
+                <h2><span>Recent Project</span></h2>
+            </div>
+
+            <div class="row listfeaturedtag">
+
+            {% for post in site.posts %}
+
+                {% if post.featured == true %}
+
+                    {% include featuredbox.html %}
+
+                {% endif %}
+
+            {% endfor %}
+
+            </div>
+
+        </section>
+
+        <!-- Posts Index
+        ================================================== -->
+         {% if paginator.previous_page %}
+                {% if paginator.previous_page > 0 %}
+                 <div id="jumptopageof"></div>
+        {% endif %}
+        {% endif %}    
+
         <section class="recent-posts row">
+
             <div class="col-sm-12">
+
                 <div class="section-title">
                     <h2><span>Lab Stories</span></h2>    
                 </div>
+
                 <div class="masonrygrid row listrecent">
 
                     {% for post in paginator.posts %}
@@ -36,7 +73,11 @@ title: blog
                     {% endfor %}
 
                 </div> 
+
+                
+
             </div>
+
         </section>
     </div>
 </div>
