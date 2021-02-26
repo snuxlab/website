@@ -29,15 +29,15 @@ title: blog
 
                 <div class="masonrygrid row listrecent">
 
-                {% for post in site.posts %}
+                    {% for post in site.posts %}
 
-                    {% if post.featured == true %}
+                    {% unless post.featured == true %}
     
-                        {% include featuredbox.html %}
+                        {% include postbox.html %}
     
-                    {% endif %}
+                    {% endunless %}
     
-                {% endfor %}
+                    {% endfor %}
 
                 </div> 
 
@@ -46,4 +46,6 @@ title: blog
             </div>
 
         </section>
+    </div>
+</div>
 
