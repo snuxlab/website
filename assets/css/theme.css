@@ -180,7 +180,7 @@ section.recent-posts {
 }
 .listfeaturedtag .card {
   border-radius: 2px;
-  height: 300px;
+  height: 260px;
   padding-left: 0;
   margin-bottom: 15px;
 }
@@ -194,7 +194,6 @@ section.recent-posts {
 }
 .listfeaturedtag .card-block {
   padding-left: 0;
-  height: 100%;
 }
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
@@ -218,6 +217,10 @@ section.recent-posts {
   font-size: 0.95rem;
   line-height: 1.8;
   font-weight: 400;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
 }
 .listfeaturedtag .wrapfooter {
   position: absolute;
