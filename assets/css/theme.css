@@ -194,7 +194,7 @@ section.recent-posts {
 }
 .listfeaturedtag .card-block {
   padding-left: 0;
-  height: auto;
+  height: 100%;
 }
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
