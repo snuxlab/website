@@ -93,6 +93,22 @@ comments: true
 
 ---
 ## Conference Proceedings
+### 2021
+- **스피커 속 '지식IN': 보이스 기반 지식 공유 서비스 설계**  
+  _박상아, 조수빈, 이윤영, 이중식_  
+  HCI KOREA 2021
+
+- **스마트 스피커는 1인 가구의 '심심이'가 될 수 있을까?: 1인 가구의 스마트 스피커 사용에 대한 탐구**  
+  _조수빈, 이윤영, 박상아, 이중식_  
+  HCI KOREA 2021
+
+- **나에게 맞는 HCI 연구실은?: 연구 지형 길잡이 키워드의 발견**  
+  _김소담, 류명균, 이중식_  
+  HCI KOREA 2021
+
+- **머신러닝도 UX가 필요해!: 머신러닝 서비스 개발 과정에서 UXer의 역할**  
+  _류명균, 김민준, 김소담, 이중식_  
+  HCI KOREA 2021
 
 ### 2020
 - **Not Too Much, Nor Too Less: Investigating Which Information Should Be Shared for Awareness Between Remote Workers**  
