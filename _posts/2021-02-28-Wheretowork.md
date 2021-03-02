@@ -7,9 +7,9 @@ image: assets/images/news/interns/2021-02-28_3.JPG
 ---
 
 <p style = "font-weight:bold">'연구실'하면 어떤 공간이 떠오르시나요?</p>
-<div stryle="display:flex; justify-content:space-between">
-    <img src="{{site.baseurl}}/assets/images/news/interns/2021-02-28_1.JPG" width= 40%>
-    <img src="{{site.baseurl}}/assets/images/news/interns/2021-02-28_2.JPG" width= 40%>
+<div style="display:flex; justify-content:space-between">
+    <img src="{{site.baseurl}}/assets/images/news/interns/2021-02-28_1.JPG">
+    <img src="{{site.baseurl}}/assets/images/news/interns/2021-02-28_2.JPG">
 </div>
 <p>인턴을 하기 전에 생각했던 연구실의 모습은 각진 책상들과 칸막이, 그리고 지정좌석에서 일을 하는 연구원들이었습니다. 조금은 답답하고..각이 잡혀있는 그런 느낌이 들었고, 종이 냄새 가득한 공간에서 일을 하겠구나 싶었습니다. 그런데 출근 첫날의 인상은 이 모든 틀을 깨버렸습니다. 연구실에 들어서자마자 가장 먼저 맞이해준 향긋한 커피향과 함께 마치 카페를 연상케 하는 공간에 한번 놀랐고, 아무 좌석에서나 자유롭게 일을 하던 연구원들 모습에 두 번 놀랐고, 연구실 내 여러 곳에 위치한 야외 테라스에 세 번 놀랐습니다.</p>
 <p style = "font-weight:bold">아침마다 달라지는 자리 - "오늘은 1층, 내일은 6층에서 일해요!"</p>
@@ -18,5 +18,5 @@ image: assets/images/news/interns/2021-02-28_3.JPG
 <p>연구실의 모든 공간은 트여 있어 언제든 다른 연구원들과의 소통이 쉽게 이루어집니다. 같은 프로젝트를 하지 않아도 개방된 공간 덕분에 자유로운 스몰토크가 가능했습니다. 매일같이 얼음을 드시는 연구원님께 하루에 도대체 얼음을 몇 개나 먹는지 물어보기도 하고, 영하의 추위에도 맨 살의 발목을 내놓고 다니는 연구원님을 보고 긴 발목 양말이 있는지 물어보기도 했습니다. 이처럼 서로의 tmi에 대해서도 손쉽게 포착이 가능할 정도로 연구실에는 칸막이 없이 서로 소통이 가능한 구조로 되어있었습니다.</p>
 <p style = "font-weight:bold">일하다 잘 안 풀릴 때 찾는 야외 테라스 - "피곤한데 잠깐 테라스 나갔다 와야지"</p>
 <p>연구실의 개방감에는 연구실 내 야외 테라스도 많은 영향을 주는 것 같습니다. 집중이 안 될 때에도 테라스에 나가서 시원한 공기를 마시며 기가 막힌 뷰를 보고 나면 금세 집중력을 되찾곤 했습니다. 연구실에서 내려다보는 녹두 뷰가 너무 예뻐서 나도 모르게 찍은 사진만 몇십 장은 되는 것 같습니다. 지금 돌이켜 생각해 보면, 연구실 공간이 주는 자율성과 편안함이 생각보다 많은 피로감을 덜게 했던 것 같습니다.</p>
-<img src="{{site.baseurl}}/assets/images/news/interns/2021-02-28_3.JPG" align="center" width = 80%>
+<img src="{{site.baseurl}}/assets/images/news/interns/2021-02-28_3.JPG" align="center">
 <p>저는 연구실이라는 공간 자체가 주는 자율적인 분위기와 그 속에서 서로 자연스럽게 소통하던 연구원들의 분위기가 가장 기억에 남습니다. 두 달 동안 이러한 공간에서 뛰어난 연구원분들과 교수님과 함께 연구를 진행해볼 수 있어서 정말 뜻깊었고, 새로운 경험이었습니다.</p>
