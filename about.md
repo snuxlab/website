@@ -4,15 +4,9 @@ title: About
 comments: true
 ---
 
-<style>
-    header {
-        font-size: large;
-        color: blue;
-    }
-</style>
 
-<header><b>Research Area</b></header>
- Research Area 
+<h1 style="color: blue;"><b>Research Area</b></h1>
+
 #### 거시적 정보세계와 미시적 사용자 환경에 대한 연구
 사용자 경험 연구실에서는 크게 두 가지의 연구를 수행합니다. 첫째, 정보 사회에서 발생하는 다양한 문제를 정의하고 그에 대한 새로운 방향성을 제시하여 미래 환경을 예측합니다. 둘째, 모바일 환경, 웹 환경 등 미시적 일상 속에서 사용자가 경험하는 크고 작은 문제들을 고찰하고, 이를 해결하기 위한 솔루션을 제안합니다. 경험 분석과 패턴 도출을 중심으로 이 같은 연구를 통해 우리는 '뷰(View)-인지적 인터페이스(Cognitive Interface)' 만들기 위한 프론트 엔드 드리븐 방법론 (Front-end-driven-method)을 만들어가고 있습니다.
 
@@ -21,7 +15,8 @@ comments: true
 
 <hr>
 
-<header><b>Communication</b></header>
+<h1 style="color: blue;">><b>Communication</b></h1>
+
 #### 랩미팅 참관 및 인턴 지원 <br>
 매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다. 대학원 진학과 연구 진행 사항에 관심 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
 유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다. 자세한 사항은 [신청 양식](https://docs.google.com/forms/d/e/1FAIpQLSdMxVzdUsO0bE15rotOCqhMHMJpiVLIF7DcvPu-kvFg8rkUyg/viewform)을 참고해 주세요.
