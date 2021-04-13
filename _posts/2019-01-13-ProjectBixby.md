@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bixby, Next step에 대한 고민 :UX관점에서"
+title:  "[종료] Bixby, Next step에 대한 고민 :UX관점에서"
 author: JiHoon
 categories: [ Project ]
 image: assets/images/project/2018/bixby/01.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "센서 데이터를 이용한 공용 공간 혼잡도 예측"
+title: "[종료] 센서 데이터를 이용한 공용 공간 혼잡도 예측"
 categories: [Project]
 image: assets/images/project/prehen.png
 author: snuxlab
@@ -13,4 +13,4 @@ featured: true
 
 <hr>
 참가자: 김민준, 이수민, 류명균, 김소담<br>
-기간: 2020.05 - <br>
+기간: 2020.05 - 2020.12 <br>
