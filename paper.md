@@ -94,7 +94,7 @@ comments: true
   _Ji Eun Song, Jaeyoun You, Joongseek Lee_  
   Full Paper - 41th Annual CHI Conference on Human Factors in Computing Systems (CHI 2021)
 
-- **Which HCI Lab in South Korea Fits Best for Me? : Designing an HCI Lab Browsing System to Support Prospective Students’ Decision-Making Process: Designing an HCI Lab Browsing System**  
+- **Which HCI Lab in South Korea Fits Best for Me? : Designing an HCI Lab Browsing System to Support Prospective Students’ Decision-Making Process**  
   _Sodam Kim, Myeonggyun Ryu, Joongseek Lee_  
   Extended Abstract - 41th Annual CHI Conference on Human Factors in Computing Systems (CHI 2021)
 
