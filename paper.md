@@ -90,6 +90,14 @@ comments: true
 
 ### 2021
 
+- **“I Might be Using His… But It is Also Mine!”: Ownership and Control in Accounts Designed for Sharing**  
+  _Ji Eun Song, Jaeyoun You, Joongseek Lee_  
+  Full Paper - 41th Annual CHI Conference on Human Factors in Computing Systems (CHI 2021)
+
+- **Which HCI Lab in South Korea Fits Best for Me? : Designing an HCI Lab Browsing System to Support Prospective Students’ Decision-Making Process: Designing an HCI Lab Browsing System**  
+  _Sodam Kim, Myeonggyun Ryu, Joongseek Lee_  
+  Extended Abstract - 41th Annual CHI Conference on Human Factors in Computing Systems (CHI 2021)
+
 - **스피커 속 '지식IN': 보이스 기반 지식 공유 서비스 설계**  
   _박상아, 조수빈, 이윤영, 이중식_  
   HCI KOREA 2021
