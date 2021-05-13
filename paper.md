@@ -191,6 +191,7 @@ comments: true
 - **Can a Machine Tend to Teeneagers' Emotional Needs? A Study with Conversational Agents**  
   _Junhan Kim, Yoojung Kim, Byungjoon Kim, Sukyung Yun, Minjoon Kim, Joongseek Lee_  
   Extended Abstract - 38th Annual CHI Conference on Human Factors in Computing Systems (CHI 2018)
+  
 - **A Data-driven Approach to Explore Television Viewing in the Household Environment**  
   _Minjoon Kim, Sugyo Han, Joongseek Lee_  
   Full Paper - 2018 International Conference on Interactive Experiences for TV and Online Video (TVX 2018)
