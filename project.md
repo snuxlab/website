@@ -12,21 +12,21 @@ comment: true
 
 ## 2020
 
-- **공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(3)**  
-- **센서 데이터를 이용한 공용 공간 혼잡도 예측**
+- **<a href="https://ux.snu.ac.kr/project/2020/11/02/chatbot3.html" target="_blank" style="text-decoration: underline">공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(3)</a>**  
+- **<a href="https://ux.snu.ac.kr/project/2020/11/02/prehension.html" target="_blank" style="text-decoration: underline">센서 데이터를 이용한 공용 공간 혼잡도 예측</a>**
 
 ---
 
 ## 2019
 
-- **공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(2)**  
-- **Bixby, Next step에 대한 고민 :UX관점에서**
+- **<a href="https://ux.snu.ac.kr/project/2020/11/02/chatbot2.html" target="_blank" style="text-decoration: underline">공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(2)</a>**  
+- **<a href="https://ux.snu.ac.kr/project/2019/01/13/ProjectBixby.html" target="_blank" style="text-decoration: underline">Bixby, Next step에 대한 고민 :UX관점에서</a>**
 
 --- 
 
 ## 2018
 
-- **공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(1)**
+- **<a href="https://ux.snu.ac.kr/project/2019/01/12/ProjectChatbot20180114.html" target="_blank" style="text-decoration: underline">공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발(1)</a>**  
 - **LG 스마트홈 프로젝트**
 - **임상시험자원 통합시스템 연구개발** 
 - **AI기반 B2B 플랫폼을 위한 UX/서비스 디자인 시나리오 발굴 연구**
