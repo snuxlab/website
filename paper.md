@@ -90,6 +90,10 @@ comments: true
 
 ### 2021
 
+- **“Knock Knock, Here Is an Answer from Next Door”: Designing a Knowledge Sharing Chatbot to Connect Residents**  
+  _SangAh Park, YoonYoung Lee, Soobin Cho, Minjoon Kim, and Joongseek Lee_  
+  Extended Abstract - 24th Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2021)
+
 - **“I Might be Using His… But It is Also Mine!”: Ownership and Control in Accounts Designed for Sharing**  
   _Ji Eun Song, Jaeyoun You, Joongseek Lee_  
   Full Paper - 41th Annual CHI Conference on Human Factors in Computing Systems (CHI 2021)
@@ -118,7 +122,7 @@ comments: true
 
 - **Not Too Much, Nor Too Less: Investigating Which Information Should Be Shared for Awareness Between Remote Workers**  
   _Soobin Cho, Bongwon Suh, and Joongseek Lee_  
-  Extended Abstract - 23th Computer Supported Cooperative Work and Social Computing (CSCW 2020)
+  Extended Abstract - 23th Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2020)
 
 - **Utilizing Response Time to Find In-between Ratings within Likes and Dislikes**  
   _Minjoon Kim, Yoojung Kim, and Joong-seek Lee_  
