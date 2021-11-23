@@ -5,7 +5,7 @@ comment: true
 ---
 
 ## 2021
-
+- **<a href="https://ux.snu.ac.kr/project/2021/11/23/banky.html" target="_blank" style="text-decoration: underline">말로 하는 은행을 통한 금융 챗봇 발전 방향 탐구</a>**
 - **<a href="https://ux.snu.ac.kr/project/2021/05/13/etl.html" target="_blank" style="text-decoration: underline">포스트 코로나 시대 새로운 온라인 교육 플랫폼 구축</a>**
 
 ---
