@@ -4,7 +4,7 @@ description: Seoul National University UX LAB
 meta_description: "Seoul National Universtiy UXLAB."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
-paginate: 10
+paginate: 8
 baseurl:
 email: "snuxlab@gmail.com"
 google_analytics: "UA-115605548-1"
