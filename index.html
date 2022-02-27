@@ -92,7 +92,7 @@ title: Home
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">UX Lab 공지2</h5>
+        <h5 class="modal-title" id="exampleModalLabel">UX Lab 공지</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -200,6 +200,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
 
  <!-- Button trigger modal 2 -->
+ <!-- 얘가 첫번째 모달 창이 되어야 함 -->
 <button id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" style="display: none">
   Launch demo modal
 </button>
@@ -229,7 +230,22 @@ document.addEventListener("DOMContentLoaded", function(){
 </div>
 </div>
 </div>
-
+<div class="modal fade" id="modal2Email" tabindex="-1" role="dialog" aria-labelledby="Close" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modal2Email">랩미팅 참관 신청</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+        
+        </div>
+      </div>
+    </div>
+</div>
+  
 <script>
 document.addEventListener("DOMContentLoaded", function(){
     document.getElementById("modal2").click();
