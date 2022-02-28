@@ -175,7 +175,7 @@ title: Home
     $("#modal2Close").on("click", function() {
         $("#exampleModal2").modal("hide");
         $("#exampleModal2").on("hidden.bs.modal", function() {
-            $("#exampleModal").modal("show");
+            document.getElementById("modal1").click();
         });
     });
     </script>
