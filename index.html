@@ -153,8 +153,8 @@ title: Home
                         <div style="word-break: keep-all">
                             <p style="line-height: 180%;">
                                 저희는 1) 급증하는 1인가구의 삶을 데이터로 이해하고 ICT로 돕기 위한 리빙랩 연구, 2) 스마트 스피커 등 보이스인터랙션 연구, 3) 인공지능 인터랙션 연구에 집중하고 있습니다. <br>저희 랩은 기술, 디자인 보다 <a style="font-family: sans-serif; font-size: 17px; font-weight:bold;">‘로그 기반의 사용자 이해’</a>에 초점을 맞추고 있습니다. 대학원 지원하실 예정이라면 인턴 지원을 추천드립니다.
-                                <br><br>인턴은 1월-2월, 3월-4월, … 같이 두 달씩 진행되며, 시작 20일 전에 결과 알려드립니다. 인턴에게는 연구비가 지원되며 대학원생과 비슷한 업무를 나누어 합니다. 다음 팝업의 지원양식 사용해 주세요. <br><br>
-                                저희 랩미팅은 오픈랩미팅입니다. 매주 목요일 오전에 두 시간 가량 진행하며, 누구라도 참여하여 대학원 생활, UX연구를 엿보기 할 수 있습니다. 다음 팝업의 참관신청 부탁드립니다. <br>
+                                <br><br>인턴은 1월-2월, 3월-4월, … 같이 두 달씩 진행되며, 시작 20일 전에 결과 알려드립니다. 인턴에게는 연구비가 지원되며 대학원생과 비슷한 업무를 나누어 합니다. '더보기'를 통해 지원양식을 사용해 주세요. <br><br>
+                                저희 랩미팅은 오픈랩미팅입니다. 매주 목요일 오전에 두 시간 가량 진행하며, 누구라도 참여하여 대학원 생활, UX연구를 엿보기 할 수 있습니다. '더보기'를 통해 참관신청 부탁드립니다. <br>
                             </p>
                         </div>
                     </div>
@@ -168,18 +168,65 @@ title: Home
         </div>
     </div>
     <style>
-    #modal2Close {
-        background-color: #BDBDBD;
-        border: none; border-radius: 6px;
-        color: white;
-        padding: 8px 32px;
-        text-align: center;
-        display: block;
-        margin: 0 auto 30px auto;
-        cursor: pointer;
-        -webkit-transition-duration: 0.4s; /* Safari */
-        transition-duration: 1s;
-    }
+        #modal2Close {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+}
+
+#modal2Close:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+}
+
+#modal2Close:active {
+    color: #000
+}
+
+#modal2Close:active:after {
+    background: transparent;
+}
+
+#modal2Close:hover:before {
+    opacity: 1;
+}
+
+#modal2Close:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
     </style>
     <script>
     document.addEventListener("DOMContentLoaded", function() {
