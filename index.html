@@ -137,6 +137,10 @@ title: Home
                 </div>
             </div> -->
         </div>
+        <!-- Button trigger modal -->
+        <button id="modal2" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal2" style="display: none">
+            Launch demo modal
+        </button>
         <!-- Modal 2 -->
         <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
             <div class="modal-dialog" role="document">
@@ -144,7 +148,7 @@ title: Home
                     <!-- 팝업 제목  -->
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel2">UX Lab 소개</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <button type="button" id ="modal2Close" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
@@ -165,16 +169,11 @@ title: Home
     </div>
 </div>
 <script>
-var showModal2 = false;
-$('#exampleModal').on('hidden.bs.modal', function() {
-    if (showModal2) {
-        $('#exampleModal2').modal('show');
-        showModal2 = false;
-    }
-});
-$("#exampleModal2").click(function() {
-    $('#exampleModal').modal('hide');
-    showModal2 = true;
+$("#modal2Close").on("click", function() {
+    $("#exampleModal2").modal("hide");
+    $("#exampleModal2").on("hidden.bs.modal", function() {
+        $("#exampleModal").modal("show");
+    });
 });
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("modal1").click();
