@@ -214,5 +214,15 @@ title: Home
             document.getElementById("modal1").click();
         });
     });
+        
+    const btn = document.querySelector('#modal2Close');
+
+    btn.onmousemove = function (e) {
+        const x = e.pageX - btn.offsetLeft
+        const y = e.pageY - btn.offsetTop
+  
+        btn.style.setProperty('--x', x + 'px')
+        btn.style.setProperty('--y', y + 'px')
+    }
     </script>
 </div>
