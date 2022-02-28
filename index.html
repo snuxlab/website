@@ -54,7 +54,7 @@ title: Home
             Launch demo modal
         </button>
         <!-- Modal -->
-        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" style="display: none" aria-hidden="true">
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
@@ -170,7 +170,7 @@ title: Home
     <script>
     document.addEventListener("DOMContentLoaded", function() {
         document.getElementById("modal2").click();
-        document.getElementById("modal1").click();
+        // document.getElementById("modal1").click();
     })
     $("#modal2Close").on("click", function() {
         $("#exampleModal2").modal("hide");
