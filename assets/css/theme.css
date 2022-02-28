@@ -1016,4 +1016,8 @@ iframe {
   .form-group .col-md-6:first-child {
     margin-bottom: 1rem;
   }
+
+  .modal-title {
+    font-weight: bold;
+  }
 }
