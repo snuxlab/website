@@ -183,12 +183,11 @@ title: Home
         box-shadow: 0 14px 30px rgba(0,0,0,0.15);
         text-transform: uppercase;
         letter-spacing: 2px;
-        
-        span {
+    }
+        #modal2Close span {
             position: relative;
         }
-    
-        &::before {
+    #modal2Close::before {
             --size: 0;
             content: '';
             position: absolute;
@@ -200,11 +199,9 @@ title: Home
             transform: translate(-50%, -50%);
             transition: all .2s ease, left 0s, top 0s;
         }
-  
-        &:hover::before {
+        #modal2Close:hover::before {
             --size: 200px;
         }
-    }
     </style>
     <script>
     document.addEventListener("DOMContentLoaded", function() {
