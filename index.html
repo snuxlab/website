@@ -71,15 +71,16 @@ title: Home
                                 누구나 자유롭게
                                 <a href="https://forms.gle/43BypNmXWSicYwEu7" target="_blank" style="text-decoration: underline"> 참관 신청</a>
                                 하실 수 있습니다!
-                            </p>
+                            </p> <br>
                             <h5>인턴 신청!</h5>
                             <p style="line-height: 180%;">
                                 유엑스랩에서는 상시로 인턴을 모집하고 있습니다! 인턴 근무는 홀수 달의 1일부터 그 다음 달 31일까지, 총 두 달 동안 이루어집니다. <br>
                                 인턴 지원 및 문의 사항은 <a href="https://ux.snu.ac.kr/about" target="_blank" style="text-decoration: underline">ABOUT</a> 탭에서 확인해 주세요!
-                            </p>
+                            </p> <br>
                             <h5>유엑스랩의 관점!</h5>
                             <p style="line-height: 180%;">
                                 유엑스랩의 연구 방향성을 설명하는 <a href="https://tangible-slip-b0c.notion.site/afd76b6a76fc49d6bcf1a7c3b9dcfa59" target="_blank" style="text-decoration: underline">문서</a>를 공유합니다. <br>연구실에 관심 있는 분들은 한번 살펴 보세요.</p>
+                            <br>
                             <h5>HCI/UX 연구실 디렉토리!</h5>
                             <p style="line-height: 180%;">
                                 국내 73개 대학, 280개의 HCI 연구실을 연구 주제 별로 살펴볼 수 있는 디렉토리 사이트를 소개합니다.대학원 진학에 관심 있는 분들은 꼭 살펴봐 주세요.
@@ -209,14 +210,15 @@ title: Home
         document.getElementById("modal2Close").addEventListener("click", function() {
             document.getElementById("exampleModal2").classList.add('hidden', 'bs', 'modal');
             document.getElementById("modal1").click();
+            document.getElementById("exampleModal").css('overflow-y', 'auto');
         });
     });
         
     const btn = document.querySelector('#modal2Close');
 
     btn.onmousemove = function (e) {
-        const x = e.pageX - btn.offsetLeft
-        const y = e.pageY - btn.offsetTop
+        const x = e.pageX - btn.offset().left;
+        const y = e.pageY - btn.offset().top;
   
         btn.style.setProperty('--x', x + 'px')
         btn.style.setProperty('--y', y + 'px')
