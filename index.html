@@ -148,7 +148,7 @@ title: Home
                     <!-- 팝업 제목  -->
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel2">UX Lab 소개</h5>
-                        <button type="button" id ="modal2Close" class="close" data-dismiss="modal" aria-label="Close">
+                        <button type="button" id="modal2Close" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
@@ -167,16 +167,16 @@ title: Home
             </div>
         </div>
     </div>
-</div>
-<script>
-$("#modal2Close").on("click", function() {
-    $("#exampleModal2").modal("hide");
-    $("#exampleModal2").on("hidden.bs.modal", function() {
-        $("#exampleModal").modal("show");
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        document.getElementById("modal2").click();
+        document.getElementById("modal1").click();
+    })
+    $("#modal2Close").on("click", function() {
+        $("#exampleModal2").modal("hide");
+        $("#exampleModal2").on("hidden.bs.modal", function() {
+            $("#exampleModal").modal("show");
+        });
     });
-});
-document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById("modal2").click();
-    document.getElementById("modal1").click();
-})
-</script>
+    </script>
+</div>
