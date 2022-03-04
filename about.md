@@ -25,6 +25,6 @@ comments: true
 신림동의 리빙랩에서 이루어지고 있는 '1인가구 삶을 위한 UX 연구' 소식은 [인스타그램](https://www.instagram.com/livinglab_snu/)과 [브런치](https://brunch.co.kr/@lab-livingalone)에 업로드됩니다.
  
 #### 문의<br>
-그외 문의사항이 있으시다면 부담 없이 이메일(snuxlab@gmail.com)이나 디스코드(https://discord.gg/4VN8HAFYGz)를 통해 남겨 주세요! <br>
+그외 문의사항이 있으시다면 부담 없이 이메일(snuxlab@gmail.com)이나 [디스코드](https://discord.gg/4VN8HAFYGz)를 통해 남겨 주세요! <br>
 해당 계정들은 연구원이 관리한다는 점 참고 부탁드립니다.<br>
 
