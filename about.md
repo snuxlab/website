@@ -25,7 +25,7 @@ comments: true
 신림동의 리빙랩에서 이루어지고 있는 '1인가구 삶을 위한 UX 연구' 소식은 [인스타그램](https://www.instagram.com/livinglab_snu/)과 [브런치](https://brunch.co.kr/@lab-livingalone)에 업로드됩니다.
  
 #### 문의<br>
-아래 QnA 챗봇을 통해 궁금한 점을 물어봐주세요! ex. 인턴 지원시기가 어떻게 되나요? 진학 시 인턴 필수인가요?
+아래 <strong>QnA 챗봇</strong>을 통해 궁금한 점을 물어봐주세요! ex. 인턴 지원시기가 어떻게 되나요? 진학 시 인턴 필수인가요? <br>
 QnA 챗봇을 통해 해결되지 않는 문의사항이 있으시다면 부담 없이 이메일(snuxlab@gmail.com)를 통해 남겨 주세요! <br>
 해당 계정들은 연구원이 관리한다는 점 참고 부탁드립니다.<br>
 
