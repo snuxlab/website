@@ -170,10 +170,8 @@ title: Home
         </div>
         <div class="floating-chat">
             <i id="openchat" class="fa fa-comment fa-3x" aria-hidden="true"></i>
-            <div class="chat">
-                <div id="livechat" style="display: none">
-                    <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
-                </div>
+            <div id="livechat" style="display: none">
+                <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
             </div>
         </div>
     </div>
@@ -251,7 +249,7 @@ title: Home
         opacity: 100;
     }
         
-    .chat {
+    #livechat {
         display: flex;
         flex-direction: column;
         position: absolute;
