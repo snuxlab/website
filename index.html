@@ -168,14 +168,6 @@ title: Home
                 </div>
             </div>
         </div>
-        <div class="floating-chat">
-            <i id="openchat" class="fa fa-comment fa-3x" aria-hidden="true"></i>
-            <div class="chat">
-                <div id="livechat" style="display: none">
-                    <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
-                </div>
-            </div>
-        </div>
     </div>
     <style>
     #modal2Close {
@@ -234,31 +226,6 @@ title: Home
         transform: translate3d(0, 0, -1em);
     }
 
-    .floating-chat {
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: #b18597;
-        position: fixed;
-        bottom: 110px;
-        left: 50px;
-        width: 40px;
-        height: 40px;
-        transform: translateY(70px);
-        transition: all 250ms ease-out;
-        border-radius: 50%;
-    }
-        
-    .chat {
-        position: fixed;
-        bottom: 50px;
-        left: 0;
-        border-radius: 50%;
-        transition: all 250ms ease-out;
-        color: #382b22;
-    }
-
     </style>
     <script>
     document.addEventListener("DOMContentLoaded", function() {
@@ -270,11 +237,5 @@ title: Home
         });
     });
 
-    const button = document.getElementById("openchat");
-    const chat = document.getElementById("livechat");
-
-    button.addEventListener('click', () => {
-        chat.style.display === 'none' ? chat.style.display = 'block' : chat.style.display = 'none';
-    });
     </script>
 </div>
