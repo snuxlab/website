@@ -85,7 +85,7 @@ title: Home
                             <p style="line-height: 180%;">
                                 국내 73개 대학, 280개의 HCI 연구실을 연구 주제 별로 살펴볼 수 있는 디렉토리 사이트를 소개합니다.대학원 진학에 관심 있는 분들은 꼭 살펴봐 주세요.
                                 <a href="http://labs.hcikorea.org" target="_blank" style="text-decoration: underline">‘HCI 연구실 디렉토리’</a>
-                            </p> 
+                            </p>
                             <!-- <h5>리빙랩 오픈!</h5>
                             <p style="line-height: 180%;">
                                 유엑스랩은 2019년 ‘1인가구와 IoT’라는 주제로 신림동에 리빙랩, <a href="https://naver.me/F64hwzzQ" target="_blank">‘혼자잘살기 연구소’</a>를 열었습니다.
@@ -160,68 +160,97 @@ title: Home
                         </div>
                     </div>
                     <button type="button" id="modal2Close" data-dismiss="modal" aria-label="Close">
-                            <span>CLICK</span>
-                            <br>
-                        </button>
+                        <span>CLICK</span>
+                        <br>
+                    </button>
                     <div style="width:100%; height:60px;">
                     </div>
                 </div>
             </div>
         </div>
+        <div class="floating-chat">
+            <i id="openchat" class="fa-lg fa-comments" aria-hidden="true"></i>
+            <div class="chat">
+                <div id="livechat" style="display: none">
+                    <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+                </div>
+            </div>
+        </div>
     </div>
     <style>
-    @import url('https://fonts.googleapis.com/css?family=Rubik:700&display=swap');
+    #modal2Close {
+        position: relative;
+        display: inline-block;
+        width: 120px;
+        height: 40px;
+        margin: 0 auto 0 auto;
+        cursor: pointer;
+        outline: none;
+        border: 0;
+        vertical-align: middle;
+        font-weight: 600;
+        color: #382b22;
+        text-transform: uppercase;
+        background: #fff0f0;
+        border: 2px solid #b18597;
+        border-radius: 0.75em;
+        transform-style: preserve-3d;
+        transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
+    }
 
-#modal2Close {
-    position: relative;
-    display: inline-block;
-    width: 120px;
-    height: 40px;
-    margin: 0 auto 0 auto;
-    cursor: pointer;
-    outline: none;
-    border: 0;
-    vertical-align: middle;
-    font-weight: 600;
-    color: #382b22;
-    text-transform: uppercase;
-    background: #fff0f0;
-    border: 2px solid #b18597;
-    border-radius: 0.75em;
-    transform-style: preserve-3d;
-    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
-}
     #modal2Close::before {
-      position: absolute;
-      content: '';
-      width: 100%;
-      height: 100%;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background: #f9c4d2;
-      border-radius: inherit;
-      box-shadow: 0 0 0 2px #b18597, 0 0.625em 0 0 #ffe3e2;
-      transform: translate3d(0, 0.75em, -1em);
-      transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+        position: absolute;
+        content: '';
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: #f9c4d2;
+        border-radius: inherit;
+        box-shadow: 0 0 0 2px #b18597, 0 0.625em 0 0 #ffe3e2;
+        transform: translate3d(0, 0.75em, -1em);
+        transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
     }
+
     #modal2Close:hover {
-      background: #ffe9e9;
-      transform: translate(0, 0.25em);
+        background: #ffe9e9;
+        transform: translate(0, 0.25em);
     }
+
     #modal2Close:hover::before {
         box-shadow: 0 0 0 2px #b18597, 0 0.5em 0 0 #ffe3e2;
         transform: translate3d(0, 0.5em, -1em);
-      }
-    #modal2Close:active {
-      background: #ffe9e9;
-      transform: translate(0em, 0.75em);
     }
+
+    #modal2Close:active {
+        background: #ffe9e9;
+        transform: translate(0em, 0.75em);
+    }
+
     #modal2Close:active::before {
         box-shadow: 0 0 0 2px #b18597, 0 0 #ffe3e2;
         transform: translate3d(0, 0, -1em);
-      }
+    }
+
+    .floating-chat {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: blue;
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        width: 40px;
+        height: 40px;
+        transform: translateY(70px);
+        transition: all 250ms ease-out;
+        border-radius: 50%;
+        opacity: 0;
+    }
+
     </style>
     <script>
     document.addEventListener("DOMContentLoaded", function() {
@@ -231,6 +260,13 @@ title: Home
             document.getElementById("modal1").click();
             document.getElementById("exampleModal").css('overflow-y', 'auto');
         });
+    });
+
+    const button = document.getElementById("openchat");
+    const chat = document.getElementById("livechat");
+
+    button.addEventListener('click', () => {
+        chat.style.display === 'none' ? chat.style.display = 'block' : chat.style.display = 'none';
     });
     </script>
 </div>
