@@ -128,7 +128,14 @@
 
     </div><!-- /.container --> 
 
-
+    <div class="floating-chat">
+            <i id="openchat" class="fa fa-comment fa-3x" aria-hidden="true"></i>
+            <div class="chat">
+                <div id="livechat" style="display: none">
+                    <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+                </div>
+            </div>
+        </div>
 
 
     <!-- Begin Footer
@@ -156,7 +163,32 @@
 
 <!-- JavaScript
 ================================================== -->
-    
+<style>
+        .floating-chat {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #b18597;
+        position: fixed;
+        bottom: 110px;
+        left: 50px;
+        width: 40px;
+        height: 40px;
+        transform: translateY(70px);
+        transition: all 250ms ease-out;
+        border-radius: 50%;
+    }
+        
+    .chat {
+        position: fixed;
+        bottom: 50px;
+        left: 0;
+        border-radius: 50%;
+        transition: all 250ms ease-out;
+        color: #382b22;
+    }
+</style>
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
@@ -170,7 +202,14 @@
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6038abc27db9eac0"></script>    
+<script>
+    const button = document.getElementById("openchat");
+    const chat = document.getElementById("livechat");
 
+    button.addEventListener('click', () => {
+        chat.style.display === 'none' ? chat.style.display = 'block' : chat.style.display = 'none';
+    });
+    </script>
 </body>
     
 </html>
