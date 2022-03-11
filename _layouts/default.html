@@ -128,11 +128,25 @@
 
     </div><!-- /.container --> 
 
-    <div class="floating-chat">
-            <i id="openchat" class="fa fa-comment fa-3x" aria-hidden="true"></i>
-            <div class="chat">
-                <div id="livechat" style="display: none">
-                    <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+      <div class="floating-chat">
+            <button id="openchat" type="button" class="btn btn-primary" data-toggle="modal" data-target="#livechat" style="display: block">
+                유엑스랩 FAQ봇
+            </button>
+            <div class="modal fade" id="livechat" tabindex="-1" role="dialog" aria-labelledby="livechatLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <!-- 팝업 제목  -->
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="livechatLabel">유엑스랩 FAQ봇</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <!-- 팝업 본문  -->
+                        <div class="modal-body">
+                            <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='width: 100%;'></iframe>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -179,15 +193,7 @@
         transition: all 250ms ease-out;
         border-radius: 50%;
     }
-        
-    .chat {
-        position: fixed;
-        bottom: 50px;
-        left: 0;
-        border-radius: 50%;
-        transition: all 250ms ease-out;
-        color: #382b22;
-    }
+
 </style>
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     
