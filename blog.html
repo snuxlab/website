@@ -27,11 +27,11 @@ title: Lab stories
 
                     {% for post in site.posts %}
 
-                    {% unless post.featured == true %}
+                    {% if post.categories == "Blog" %}
     
                         {% include postbox.html %}
     
-                    {% endunless %}
+                    {% endif %}
     
                     {% endfor %}
 
