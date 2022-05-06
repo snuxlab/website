@@ -27,7 +27,7 @@ title: Lab stories
 
                     {% for post in site.posts %}
 
-                    {% if "Blog" in post.categories %}
+                    {% if post.categories contains "Blog" %}
     
                         {% include postbox.html %}
     
