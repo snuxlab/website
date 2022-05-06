@@ -2,7 +2,7 @@
 layout: post
 title: "외근 다녀올게요! IKEA 방문"
 author: UXLab
-categories:
+categories: [ Blog ]
 image: assets/images/news/interns/2020-11-01-VisitingIKEA-01.jpeg
 ---
 
