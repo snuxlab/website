@@ -2,7 +2,7 @@
 layout: post
 title: '1인가구 여가생활 인터뷰를 하며'
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/2020-06-29-03.jpg
 ---
 안녕하세요, 오늘은 제가 인턴 연구원으로 처음 시작했던 프로젝트에 대해 얘기해보려고 합니다.
