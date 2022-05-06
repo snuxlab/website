@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "겨울 인턴들의 첫 과제: 자연 경험"
-categories: 
+categories: [ Blog ]
 image: assets/images/news/yeeun/01/01.jpg
 author: JiHoon
 ---

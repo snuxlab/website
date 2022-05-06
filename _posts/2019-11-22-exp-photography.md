@@ -2,7 +2,7 @@
 layout: post
 title: 'UX Lab인데 사진찍기가 과제라고?'
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/2019-11-22-01.jpg
 ---
 안녕하세요! 오늘은 제가 인턴 기간 때 수행한 아주 흥미로웠던 과제 하나를 공유해 드리려고 합니다!

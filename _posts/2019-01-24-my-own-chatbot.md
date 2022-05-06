@@ -2,7 +2,7 @@
 layout: post
 title: 자기소개봇 만들기
 author: JiHoon 
-categories: 
+categories: [ Blog ]
 image: assets/images/news/soyoung/01/01.jpg
 ---
 요즘은 은행이든, 쇼핑몰이든, 심지어는 피자 가게까지 홈페이지에서 챗봇 서비스를 많이 제공하고 있는데요, 이런 챗봇을 개인도 만들어볼 수 있다는 것을 이번에 처음 알게 되었습니다. 

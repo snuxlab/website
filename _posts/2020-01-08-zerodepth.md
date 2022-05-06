@@ -2,7 +2,7 @@
 layout: post
 title: 제로뎁스(Zero-depth)로 스마트폰 사용하기
 author: UXLab
-categories: 
+categories: [ Blog ]
 image: assets/images/news/interns/2020-01-08-00.jpg
 ---
 

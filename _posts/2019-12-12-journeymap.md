@@ -2,7 +2,7 @@
 layout: post
 title: '리빙랩에서 집으로 가는 퇴근길 저니맵 그리기'
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/interns/2019-12-12-00.jpg
 ---
 <img src="{{site.baseurl}}/assets/images/news/interns/2019-12-12-00.jpg">

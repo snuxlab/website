@@ -2,7 +2,7 @@
 layout: post
 title: '리빙랩의 크리스마스'
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/2020-01-06-01.jpg
 ---
 제가 인턴으로 처음 출근한 날, UX랩 식구들은 다 같이 새로 지은 쉐어하우스 건물 1층의 혼자잘살기 연구소로 이사했습니다. 비어있던 서랍들을 채우고 어두운 골목을 밝히며 새 건물과 그 주변에 사람 사는 온기를 불어넣은 지도 어느덧 한 달, 오늘은 그중 온기가 가장 따듯했던 날에 대해 적어보려 합니다.

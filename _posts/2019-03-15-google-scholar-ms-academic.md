@@ -2,7 +2,7 @@
 layout: post
 title: “구글스콜라 vs. 마이크로소프트 아카데믹”
 author: soomin
-categories: 
+categories: [ Blog ]
 image: assets/images/news/soomin/02.jpg
 ---
 

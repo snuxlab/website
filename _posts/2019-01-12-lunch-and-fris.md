@@ -2,7 +2,7 @@
 layout: post
 title: 유우엑스 랩이 점심시간을 보내는 법
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/soomin/01/01.jpg
 ---
 목요일 10시, 늘 하는 랩미팅을 마치고 다 같이 모여 살짝 식은 피자를 먹었습니다. 든든히 배를 채우고나서 남은 점심시간에는 소화도 시킬 겸, 프리스비 국가대표라는 민준선배를 따라 모두 프리스비를 하러 나가기로 했습니다. 

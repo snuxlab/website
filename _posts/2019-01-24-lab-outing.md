@@ -2,7 +2,7 @@
 layout: post
 title: 유우엑스 랩의 외근하는 날
 author: JiHoon 
-categories: 
+categories: [ Blog ]
 image: assets/images/news/soomin/02/01.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: “3월의 마지막 랩미팅”
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/soomin/01.jpg
 ---
 <img src="{{site.baseurl}}/assets/images/news/soomin/01.jpg">
