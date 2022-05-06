@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[진행 중]꿈 정거장: 잠에서 깬 직후 꿈 내용을 기록하는 보이스 서비스"
+title: "[진행 중]꿈 정거장: 대화형으로 꿈을 기록하는 보이스 서비스"
 categories: [Project]
 image: assets/images/project/dreamStation.png
 author: snuxlab
