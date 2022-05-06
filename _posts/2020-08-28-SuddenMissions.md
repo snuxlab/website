@@ -2,7 +2,7 @@
 layout: post
 title: '따란! 깜짝 미션이 도착했습니다!'
 author: UXLab
-categories: 
+categories: [ Blog ]
 image: assets/images/news/interns/2020-08-28-01.png
 ---
 안녕하세요, 오늘은 인턴 연구원으로 일하며 뜨거운 여름을 보내던 중 수행했던 깜짝 미션들에 대해 소개해보고자 합니다. <br>
