@@ -44,7 +44,7 @@ title: Home
                     {% for post in paginator.posts %}
                     {% if post.category == Blog %}
                     {% include postbox.html %}
-                    {% endunless %}
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>
