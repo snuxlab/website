@@ -4,7 +4,8 @@ title: "[진행 중]로보틱아트: 공간지능형&대화지능형 로보틱 �
 categories: [Project]
 image: assets/images/project/roboticArt.png
 author: snuxlab
-featured: true
+featured: true #true이면 project, false이면 블로그포스트
+layout_fetarued: false #true이면 main page의 recent project에 등장
 ---
 
 <p>

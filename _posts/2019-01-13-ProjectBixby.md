@@ -6,6 +6,7 @@ categories: [ Project ]
 image: assets/images/project/2018/bixby/01.png
 company: 삼성전자 디자인경영센터
 featured: true
+layout_fetarued: false
 ---
 머신 러닝의 고도화와 스마트 스피커의 보급으로 IPA는 사람들의 일상 곳곳에서 나타나고 있다. 그러나, 단순히 흥미롭고 신기한 이유로 IPA를 사용하는 단계를 지나 지속적으로 이를 사용하기에는 아직 기술이 뒷받침해주지 못하는 실정이다.
 
