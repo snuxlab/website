@@ -2,7 +2,7 @@
 layout: post
 title: "닭장을 나온 랩"
 author: UXLab
-categories:
+categories: [ Blog ]
 image: assets/images/news/interns/2021-05-10_3.png
 ---
 
