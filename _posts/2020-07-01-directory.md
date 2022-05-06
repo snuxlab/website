@@ -2,7 +2,7 @@
 layout: post
 title: '유알못을 위한 HCI연구실 디렉토리 만들기'
 author: JiHoon
-categories: 
+categories: [ Blog ]
 image: assets/images/news/2020-07-01-02.jpg
 ---
 UX/HCI 학문이 아직 낯선 초심자들은 대학원 진학을 결정하고 지원할 연구실을 선택하는 과정에서 방황하곤 합니다. 수많은 학교와 전공에 분포되어 있는 연구실을 어떤 기준으로 선택해야 하는지부터 막막해하며 방대한 연구 분야 안에서 더욱 헤메곤 하죠.
