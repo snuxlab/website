@@ -42,7 +42,7 @@ title: Home
                 </div>
                 <div class="masonrygrid row listrecent">
                     {% for post in paginator.posts %}
-                    {% if post.categories == Blog %}
+                    {% if "Blog" in post.categories %}
                     {% include postbox.html %}
                     {% endif %}
                     {% endfor %}
