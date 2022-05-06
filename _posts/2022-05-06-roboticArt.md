@@ -5,7 +5,6 @@ categories: [Project]
 image: assets/images/project/roboticArt.png
 author: snuxlab
 featured: true #true이면 project, false이면 블로그포스트
-layout_fetarued: false #true이면 main page의 recent project에 등장
 ---
 
 <p>
