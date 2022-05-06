@@ -2,7 +2,7 @@
 layout: post
 title: "출근길에 어디서 일할지 정하는 연구실, 들어보셨나요?"
 author: UXLab
-categories:
+categories: [ Blog ]
 image: assets/images/news/interns/2021-02-28_3.JPG
 ---
 
