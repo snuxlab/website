@@ -9,7 +9,7 @@ featured: true
 
 <p>
 <br>
-<p align="center"><img src="{{site.baseurl}}/assets/images/project/dreamStation.png" sizes="(min-width: 700px) 600px, 50vw"></p>
+<p align="center"><img src="{{site.baseurl}}/assets/images/project/dreamStation.png" style="width: 35vw;"></p>
 <br>
 ‘꿈 정거장’은 보이스 서비스가 사적인 상황에서 많이 사용된다는 사실에서부터 착안하여, 꿈 기록이라는 도메인이 보이스 서비스의 여러 특징들에 잘 어울린다는 장점을 찾아나가고 있는 프로젝트이다. 현재 구글 어시스턴트에서 배포(https://assistant.google.com/services/a/uid/000000e67e29d6a7?hl=ko_kr)되어 실제 유저들이 서비스를 어떻게 사용하는지 현상 및 효과를 살펴보고자 한다.
 <br>
