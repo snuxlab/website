@@ -2,7 +2,7 @@
 layout: post
 title: "머신러닝의 오류를 디자인으로 커버할 수 있다고요?!"
 author: UXLab
-categories:
+categories: [ Blog ]
 image: assets/images/news/interns/2020-10-29-01-db.jpeg
 ---
 
