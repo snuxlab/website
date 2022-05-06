@@ -7,7 +7,7 @@ comment: true
 
 ## 2022(진행중)
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/naverShopping.html" target="_blank" style="text-decoration: underline">네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링</a>**
-- **<a href="https://ux.snu.ac.kr/project/2022/05/06/dreamStation.html" target="_blank" style="text-decoration: underline">꿈 정거장: 잠에서 깬 직후 꿈 내용을 기록하고 후에 다시 들을 수 있는 보이스 서비스</a>**
+- **<a href="https://ux.snu.ac.kr/project/2022/05/06/dreamStation.html" target="_blank" style="text-decoration: underline">꿈 정거장: 잠에서 깬 직후 꿈 내용을 기록하는 보이스 서비스</a>**
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/roboticArt.html" target="_blank" style="text-decoration: underline">로보틱아트: 공간 지능형&대화지능형 로보틱 아트 연구</a>**
 
 ---
