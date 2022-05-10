@@ -128,26 +128,26 @@
 
     </div><!-- /.container --> 
 
-        <button id="openchat" type="button" class="btn btn-primary" data-toggle="modal" data-target="#livechat">
+        <!-- <button id="openchat" type="button" class="btn btn-primary" data-toggle="modal" data-target="#livechat">
             유엑스랩 FAQ봇
         </button>
         <div class="modal fade" id="livechat" tabindex="-1" role="dialog" aria-labelledby="livechatLabel" aria-hidden="true">
             <div class="modal-dialog" role="document" style="height:80%;">
                 <div class="modal-content" style="height:100%;">
-                    <!-- 팝업 제목  -->
+
                     <div class="modal-header">
                         <h5 class="modal-title" id="livechatLabel">유엑스랩 FAQ봇</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
-                    <!-- 팝업 본문  -->
+
                     <div class="modal-body">
                         <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='width: 100%;height:100%;'></iframe>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     <!-- Begin Footer
     ================================================== -->
@@ -175,7 +175,7 @@
 <!-- JavaScript
 ================================================== -->
 <style>
-    #openchat {
+    /* #openchat {
         cursor: pointer;
         display: flex;
         align-items: center;
@@ -189,7 +189,7 @@
         transform: translateY(70px);
         transition: all 250ms ease-out;
         z-index: 999;
-    }
+    } */
 
 </style>
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
@@ -206,13 +206,13 @@
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6038abc27db9eac0"></script>    
 <script>
-    const button = document.getElementById("openchat");
-    const chat = document.getElementById("livechat");
+    // const button = document.getElementById("openchat");
+    // const chat = document.getElementById("livechat");
 
-    button.addEventListener('click', () => {
-        chat.style.display === 'none' ? chat.style.display = 'block' : chat.style.display = 'none';
-    });
-    </script>
+    // button.addEventListener('click', () => {
+    //     chat.style.display === 'none' ? chat.style.display = 'block' : chat.style.display = 'none';
+    // });
+    // </script>
 </body>
     
 </html>
