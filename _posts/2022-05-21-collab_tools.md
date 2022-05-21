@@ -7,7 +7,6 @@ image: assets/images/news/interns/collab_tools.png
 ---
 
 <img src="{{site.baseurl}}/assets/images/news/interns/collab_tools.png">
-
 인턴 근무 첫 주, 공지 채널을 슬랙에서 디스코드로 옮기는 디지털 이사가 시작 되었습니다.<br>
 디스코드는 처음 써 보는 툴이어서 이것 저것 알아가는 재미가 있었는데, 제가 코로나 확진이 되었을 때 디스코드의 인앱 화상회의로 업무를 진행한 적도 있어서 어쩌면 시의적절하게 이사간 셈이기도 하죠.<br>
 <br>
