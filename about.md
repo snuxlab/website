@@ -17,8 +17,11 @@ comments: true
 <h2 style="color: OliveDrab; font-style: italic;"><b>Communication</b></h2>
 
 #### 랩미팅 참관 및 인턴 지원 <br>
-매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다. 대학원 진학과 연구 진행 사항에 관심 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
-유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다. 자세한 사항은 [신청 양식](https://docs.google.com/forms/d/e/1FAIpQLSdMxVzdUsO0bE15rotOCqhMHMJpiVLIF7DcvPu-kvFg8rkUyg/viewform)을 참고해 주세요.
+매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다.<br>
+대학원 진학과 연구 진행 사항에 관심 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
+유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다.<br>
+동계 인턴(1-2월)과 하계 인턴(7-8월)은 [융합과학기술대학원 홈페이지](https://gscst.snu.ac.kr/bbs/board.php?bo_table=notice)를 통해 신청 바랍니다.<br>
+그 이외에 3-4월, 5-6월, 9-10월, 11-12월 인턴쉽을 지원하실 분께서는 [신청 양식](https://docs.google.com/forms/d/e/1FAIpQLSdMxVzdUsO0bE15rotOCqhMHMJpiVLIF7DcvPu-kvFg8rkUyg/viewform)을 참고해 주세요.
 
 #### SNS<br>
 랩미팅의 발표 자료는 [페이스북 페이지](https://www.facebook.com/userexperiencelab.pt)에서 확인 가능합니다. <br>
