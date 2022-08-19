@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[진행 중] 가전 구독서비스 전략 및 기회 발굴 조사"
+title: "[진행 중]가전 구독서비스 전략 및 기회 발굴 조사"
 categories: [Project]
 image: assets/images/project/samsung_subscription.png
 author: snuxlab

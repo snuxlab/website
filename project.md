@@ -9,6 +9,7 @@ comment: true
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/naverShopping.html" target="_blank" style="text-decoration: underline">네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링</a>**
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/dreamStation.html" target="_blank" style="text-decoration: underline">꿈 정거장: 대화형으로 꿈을 기록하는 보이스 서비스</a>**
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/roboticArt.html" target="_blank" style="text-decoration: underline">로보틱아트: 공간지능형&대화지능형 로보틱 아트 대화에이전트 연구</a>**
+- **<a href="https://ux.snu.ac.kr/project/2022/08/19/samsung_subscription.html" target="_blank" style="text-decoration: underline">가전 구독서비스 전략 및 기회 발굴 조사</a>**
 
 ---
 
