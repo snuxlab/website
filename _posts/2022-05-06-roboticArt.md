@@ -4,6 +4,7 @@ title: "[진행 중]로보틱아트: 공간지능형&대화지능형 로보틱 �
 categories: [Project]
 image: assets/images/project/roboticArt.png
 author: snuxlab
+company: 콘텐츠진흥원 / 아트센터 나비
 featured: true #true이면 project, false이면 블로그포스트
 ---
 
