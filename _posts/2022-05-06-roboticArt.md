@@ -17,6 +17,6 @@ featured: true #true이면 project, false이면 블로그포스트
 </p>
 
 <hr>
-참가자: 이기훈 <br>
+참가자: 이기훈,  <br>
 기간: 2022.05 ~ ing<br>
 협력 기관: 콘텐츠진흥원/ 아트센터 나비
