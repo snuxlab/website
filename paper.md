@@ -88,6 +88,16 @@ comments: true
 
 ## Conference Proceedings
 
+### 2022
+
+- **‘눈치’로 파악하는 우리 층만의 규칙: 코리빙 하우스 내 1인 가구의 암묵적 규칙을 통한 사용자 조사**  
+  _김민주, 김소담, 이중식_  
+  HCI KOREA 2022
+
+- **“대체가 아닌, 새로운 뱅킹”: 사용자-기계 대화를 통한 은행 서비스의 VUI 유즈 케이스 탐색**  
+  _류명균, 박상아, 유지수, 이중식_  
+  HCI KOREA 2022
+
 ### 2021
 
 - **“Knock Knock, Here Is an Answer from Next Door”: Designing a Knowledge Sharing Chatbot to Connect Residents**  
