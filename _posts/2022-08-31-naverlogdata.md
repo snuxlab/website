@@ -5,11 +5,11 @@ author: UXLab
 categories: [ Blog ]
 image: assets/images/news/interns/naverlogdata.png
 ---
-
+<br>
 <figure style = "margin-left: auto; margin-right: auto;  width: 70%;  text-align: center">
     <img src="{{site.baseurl}}/assets/images/news/interns/naverlogdata.png">
 </figure>
-<br><br>
+<br>
 Ux lab의 홈페이지를 입장하면 팝업창에 ‘로그 기반 사용자 이해’에 초점을 맞추고 있다고 내세우고 있는 만큼, 인턴을 지원할 시점에 가장 기대했던 부분이 있었습니다. 바로 실제 로그 데이터를 다룬다는 점 입니다. 저는 운이 좋게 인턴십이 시작되자마자 네이버 쇼핑 UX 개선 프로젝트에 배정받게 되었는데, 그 때 제 기대는 최고조에 이르렀습니다. 그러나 실제 로그 데이터를 맞닥뜨리게 된 순간, 제 동공은 갈 길을 잃었습니다.
 <br><br>
 제 눈을 의심했습니다. 정리가 안된 로그 데이터는 물론, 쌓이지 않고 버려지는 데이터들도 너무 많았으며 데이터가 어떻게 쌓이는지에 대한 것도 알 수 없었습니다. 일명 ‘네카라쿠배당토’라고 불리는 대한민국 최고의 IT기업 네이버인데! 정제되지 않은 데이터에다 어떠한 기준도 명확지 않아서 꽤 놀라웠습니다.
