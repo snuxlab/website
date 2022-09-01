@@ -6,7 +6,6 @@ categories: [ Blog ]
 image: assets/images/news/interns/naverlogdata.png
 ---
 
-<br><br><br>
 <figure style = "margin-left: auto; margin-right: auto;  width: 70%;  text-align: center">
     <img src="{{site.baseurl}}/assets/images/news/interns/naverlogdata.png">
 </figure>
