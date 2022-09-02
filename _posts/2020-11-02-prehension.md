@@ -4,7 +4,7 @@ title: "[종료] 센서 데이터를 이용한 공용 공간 혼잡도 예측"
 categories: [Project]
 image: assets/images/project/prehen.png
 author: snuxlab
-featured: true
+featured: false
 ---
 
 <p align="center">
