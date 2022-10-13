@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[진행 중]네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링"
+title: "[종료]네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링"
 categories: [Project]
 image: assets/images/project/naverShopping.png
 author: snuxlab
@@ -18,5 +18,5 @@ featured: true
 
 <hr>
 참가자: 김민주, 유지수, 이기훈<br>
-기간: 2022.03 ~ ing<br>
+기간: 2022.03 ~ 2022.10 <br>
 협력 기관: 네이버 쇼핑

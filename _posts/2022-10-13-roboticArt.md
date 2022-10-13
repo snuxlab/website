@@ -5,7 +5,7 @@ categories: [Project]
 image: assets/images/project/roboticArt.png
 author: snuxlab
 company: 콘텐츠진흥원 / 아트센터 나비
-featured: true #true이면 project, false이면 블로그포스트
+featured: true
 ---
 
 <p>
@@ -18,5 +18,5 @@ featured: true #true이면 project, false이면 블로그포스트
 
 <hr>
 참가자: 이기훈, 유지수 <br>
-기간: 2022.05 ~ ing<br>
+기간: 2022.05 ~ 2023.12 <br>
 협력 기관: 콘텐츠진흥원/ 아트센터 나비

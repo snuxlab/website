@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[진행 중]삼성전자 생활가전: 가전 구독서비스 전략 및 기회 발굴 조사"
+title: "[종료]삼성전자 생활가전: 가전 구독서비스 전략 및 기회 발굴 조사"
 categories: [Project]
 image: assets/images/project/samsung_subscription.png
 author: snuxlab
@@ -20,5 +20,5 @@ featured: true
 
 <hr>
 참가자: 유지수, 송지은 <br>
-기간: 2022.07 ~ ing<br>
+기간: 2022.07 ~ 2022.10<br>
 협력 기관: 삼성전자
