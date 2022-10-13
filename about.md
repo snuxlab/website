@@ -19,15 +19,13 @@ comments: true
 #### 랩미팅 참관 <br>
 매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다.<br>
 대학원 진학과 연구 진행 사항에 관심 혹은 궁금한 점이 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
+랩미팅의 발표 자료는 우상단의 'LAB METTING'에서 확인 가능합니다. [LAB METTING](https://chatter-humidity-e14.notion.site/SNU-UXLAB-c6d1ba67501446dbaa1f8684ff31dd4e)에서 확인 가능합니다. <br>
 
 #### 인턴쉽 지원 <br>
 유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다.<br>
 인턴쉽을 지원하시는 분들께서는 인턴쉽 시작을 희망하시는 기간 20일 전에는 신청 부탁드립니다. (e.g. 3-4월 인턴 지원시, 2월 10일까지 신청)<br> 
 3-4월, 5-6월, 9-10월, 11-12월 인턴쉽을 지원하실 분께서는 [신청 양식](https://docs.google.com/forms/d/e/1FAIpQLSdMxVzdUsO0bE15rotOCqhMHMJpiVLIF7DcvPu-kvFg8rkUyg/viewform)을 참고해 주세요.
 이 외에, 동계 인턴쉽(1-2월)과 하계 인턴쉽(7-8월)은 [융합과학기술대학원 홈페이지](https://gscst.snu.ac.kr/bbs/board.php?bo_table=notice)를 통해 신청 바랍니다.<br>
-
-#### 랩미팅<br>
-랩미팅의 발표 자료는 우상단의 'LAB METTING'에서 확인 가능합니다. [LAB METTING](https://chatter-humidity-e14.notion.site/SNU-UXLAB-c6d1ba67501446dbaa1f8684ff31dd4e)에서 확인 가능합니다. <br>
 
 #### SNS<br>
 신림동의 리빙랩에서 이루어지고 있는 '1인가구 삶을 위한 UX 연구' 소식은 [인스타그램](https://www.instagram.com/livinglab_snu/)과 [브런치](https://brunch.co.kr/@lab-livingalone)에 업로드됩니다.
