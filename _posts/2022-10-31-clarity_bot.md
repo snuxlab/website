@@ -7,7 +7,7 @@ image: assets/images/news/interns/Clarity_bot.png
 ---
 <br>
 <figure style = "margin-left: auto; margin-right: auto;  width: 70%;  text-align: center">
-    <img src="{{site.baseurl}}/assets/images/news/interns/qooker.png">
+    <img src="{{site.baseurl}}/assets/images/news/interns/Clarity_bot.png">
 </figure>
 <br>
 보통 보이스 에이전트를 떠올리면, 시리나 빅스비처럼 똑똑하게 답해주는 아이들이 생각날 거에요. 하지만 저희가 만든 보이스 에이전트는 조금 다릅니다. 오히려 말을 못 알아먹는, 고집불통 금쪽이를 만들어야했거든요! 
