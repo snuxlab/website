@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "말 안 드는 금쪽이를 만들다."
+title: "말 안 듣는 금쪽이를 만들다."
 author: UXLab
 categories: [ Blog ]
 image: assets/images/news/interns/Clarity_bot.png
