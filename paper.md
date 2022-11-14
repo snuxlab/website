@@ -90,6 +90,10 @@ comments: true
 
 ### 2022
 
+- **“Hide Your Video, Show Your Action!” Investigating a New Video Conferencing Interface for Virtual Studying**  
+  _Soobin Cho, Bongwon Suh, Joongseek Lee_  
+  Extended Abstract - 2022 Conference on Computer Supported Cooperative Work and Social Computing (CSCW 2022)
+
 - **‘눈치’로 파악하는 우리 층만의 규칙: 코리빙 하우스 내 1인 가구의 암묵적 규칙을 통한 사용자 조사**  
   _김민주, 김소담, 이중식_  
   HCI KOREA 2022
