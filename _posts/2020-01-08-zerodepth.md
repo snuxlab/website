@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 제로뎁스(Zero-depth)로 스마트폰 사용하기
-author: UXLab
+author: 유채라, 박상아, 김선지
 categories: [ Blog ]
 image: assets/images/news/interns/2020-01-08-00.jpg
 ---
@@ -105,3 +105,7 @@ image: assets/images/news/interns/2020-01-08-00.jpg
 [인턴 2] 실험적인 이틀이, 노티와 대시보드에 집중하기 위해 잠금을 풀지 못했던 인위적인 상황이었기에 마냥 편하다고는 할 수 없었다. 그래도 휴대폰 사용 변화의 시작점이 된 경험!
 
 [인턴 3] 필요성은 분명하나 현재로선 기능활용에 한계가 너무나 뚜렷한 상황으로 판단된다.
+
+<br><br>
+<hr>
+작성자: 유채라, 박상아, 김선지 <br>

@@ -3,7 +3,7 @@ layout: post
 title: "겨울 인턴들의 첫 과제: 자연 경험"
 categories: [ Blog ]
 image: assets/images/news/yeeun/01/01.jpg
-author: JiHoon
+author: 이수민
 ---
 안녕하세요! 오늘의 포스팅에서는 인턴들의 과제를 소개하려고 해요. 유우엑스랩의 인턴들은 매주 교수님께서 주시는 과제를 하고, 랩미팅에서 발표하는 시간을 가집니다. 올겨울 인턴들의 첫 과제는 바로바로 '자연 경험'이었습니다!
 
@@ -27,3 +27,7 @@ author: JiHoon
 <br><br>
 재미있게 보셨나요? 유우엑스랩의 일기는 계속됩니다! 
 다음에 또 만나요~!
+
+<br><br>
+<hr>
+작성자: 이수민 <br>

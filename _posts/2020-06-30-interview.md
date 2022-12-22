@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1인가구 여가생활 인터뷰를 하며'
-author: JiHoon
+author: 이윤영
 categories: [ Blog ]
 image: assets/images/news/2020-06-29-03.jpg
 ---
@@ -16,3 +16,7 @@ image: assets/images/news/2020-06-29-03.jpg
 사실 사람들의 여가생활에 대해 알아가는 인터뷰 시간 자체가 저에게는 너무 흥미롭고 재미있는 시간이었는데요, 이런 저의 생각이 전달되었는지 “제가 너무 즐거웠고, 힐링 되는 시간이었다”라고 마지막 소감을 말씀해 주신 한 인터뷰이가 생각이 납니다. 하하호호 즐기며 진행하다 보니 라포르가 자연스럽게 형성되었나 봅니다. 인터뷰 후, 분석을 위해 프린트해서 자르고 분류했던 사진으로 글을 마무리하겠습니다!
 
 <img src="{{site.baseurl}}/assets/images/news/2020-06-29-03.jpg">
+
+<br><br>
+<hr>
+작성자: 이윤영 <br>

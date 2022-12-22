@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '따란! 깜짝 미션이 도착했습니다!'
-author: UXLab
+author: 김민주
 categories: [ Blog ]
 image: assets/images/news/interns/2020-08-28-01.png
 ---
@@ -35,5 +35,7 @@ image: assets/images/news/interns/2020-08-28-01.png
 >  훌륭한 전문가가 되기 위해서는 다양한 방법을 몸에 익히는 게 중요.
 >  코크리에이티브 워크샵, 디자인씽킹, 콘텍스추얼 인콰이러이리 등은 UXer들이 갖춰야 될 기본 근육!<br><br>
 
-
+<br><br>
+<hr>
+작성자: 김민주 <br>
 

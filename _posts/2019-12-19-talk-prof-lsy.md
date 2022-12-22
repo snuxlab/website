@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UT Austin에서 오신 이수영 교수님과의 만남 “이제는 ㅋ형 교육의 시대!”
-author: Yoojung
+author: 김유정
 categories: [ Blog ]
 image: assets/images/news/yoojung/01.jpg
 ---
@@ -26,3 +26,6 @@ image: assets/images/news/yoojung/01.jpg
 
 이야기가 끝난 후에는 피자를 먹으며 자유롭게 질의응답을 하는 시간이 이어졌습니다. 학생들의 삶과 연구에 대한 고민을 진지하게 들어주시며, 진솔하게 조언을 해주신 덕에 훈훈하게 이날의 랩미팅이 마무리되었습니다. 
 
+<br><br>
+<hr>
+작성자: 김유정 <br>

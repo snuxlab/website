@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UX Lab인데 사진찍기가 과제라고?'
-author: JiHoon
+author: 김초이
 categories: [ Blog ]
 image: assets/images/news/2019-11-22-01.jpg
 ---
@@ -24,3 +24,7 @@ image: assets/images/news/2019-11-22-01.jpg
 나중에 과제를 Slack에 올리려고 보니, 채널명이 'Logical Thinking’이었습니다. 과제의 의의가 명확해지는 순간이었어요.ㅎㅎ 마지막으로 당시 인턴들이 제출했던 사진 중 가장 인상 깊었던 사진 2개를 공유하며 이 글을 마무리하겠습니다!
 
 <img src="{{site.baseurl}}/assets/images/news/2019-11-22-01.jpg">
+
+<br><br>
+<hr>
+작성자: 김초이 <br>
