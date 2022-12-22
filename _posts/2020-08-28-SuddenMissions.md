@@ -36,6 +36,6 @@ image: assets/images/news/interns/2020-08-28-01.png
 >  코크리에이티브 워크샵, 디자인씽킹, 콘텍스추얼 인콰이러이리 등은 UXer들이 갖춰야 될 기본 근육!<br><br>
 
 <br><br>
-<hr>
+
 작성자: 김민주 <br>
 

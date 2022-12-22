@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "선생님 방에서 회의하실게요~!"
-author: 이정민
+author: Jungmin
 categories: [ Blog ]
 image: assets/images/news/interns/RobotAtrs_meeting.png
 ---
@@ -29,5 +29,5 @@ image: assets/images/news/interns/RobotAtrs_meeting.png
 <br><br>
 ps. 아! 그리고 교수님 방에 가시면 무중력 체어와 15분마다 종치는 소리를 경험할 수 있으실 겁니다!
 <br><br>
-<hr>
+
 작성자: 이정민 <br>

@@ -18,5 +18,5 @@ image: assets/images/news/2020-06-29-03.jpg
 <img src="{{site.baseurl}}/assets/images/news/2020-06-29-03.jpg">
 
 <br><br>
-<hr>
+
 작성자: 이윤영 <br>
