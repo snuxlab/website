@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '리빙랩의 크리스마스'
-author: JiHoon
+author: UXLAB
 categories: [ Blog ]
 image: assets/images/news/2020-01-06-01.jpg
 ---

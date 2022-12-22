@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “3월의 마지막 랩미팅”
-author: JiHoon
+author: UXLAB
 categories: [ Blog ]
 image: assets/images/news/soomin/01.jpg
 ---

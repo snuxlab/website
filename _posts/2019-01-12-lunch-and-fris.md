@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 유우엑스 랩이 점심시간을 보내는 법
-author: JiHoon
+author: UXLAB
 categories: [ Blog ]
 image: assets/images/news/soomin/01/01.jpg
 ---

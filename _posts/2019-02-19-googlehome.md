@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “얼떨결에, 구글홈”
-author: JiHoon
+author: UXLAB
 categories: [Blog]
 image: assets/images/news/soomin/03/01.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "선생님 방에서 회의하실게요~!"
-author: Jungmin
+author: 이정민
 categories: [ Blog ]
 image: assets/images/news/interns/RobotAtrs_meeting.png
 ---

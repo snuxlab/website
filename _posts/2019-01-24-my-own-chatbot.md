@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 자기소개봇 만들기
-author: JiHoon 
+author: UXLAB 
 categories: [ Blog ]
 image: assets/images/news/soyoung/01/01.jpg
 ---
