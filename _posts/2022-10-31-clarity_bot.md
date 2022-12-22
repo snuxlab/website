@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "말 안 듣는 금쪽이를 만들다."
-author: UXLab
+author: 노자영
 categories: [ Blog ]
 image: assets/images/news/interns/Clarity_bot.png
 ---
@@ -26,3 +26,5 @@ image: assets/images/news/interns/Clarity_bot.png
 <br><br>
 많은 사람들이 이 친구와 대화하며, 얘 좀 이상한데? 왜 자기 말만 맞는다고 하지? 고집쟁이네! 라는 느낌이 들면 좋겠습니다. 그게 오히려 저희에게는 성공이니까요!
 <br><br>
+<hr>
+작성자: 노자영 <br>
