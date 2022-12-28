@@ -140,12 +140,11 @@
         </div><!-- /.container -->
 
         <button id="openchat" type="button" class="btn btn-primary" data-toggle="modal" data-target="#livechat">
-            교수의 독백
         </button>
         <div class="modal fade" id="livechat" tabindex="-1" role="dialog" aria-labelledby="livechatLabel"
             aria-hidden="true">
-            <div class="modal-dialog" role="document" style="height:80%;">
-                <div class="modal-content" style="height:100%;">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
 
                     <div class="modal-header">
                         <h5 class="modal-title" id="livechatLabel">교수의 독백</h5>
@@ -155,6 +154,7 @@
                     </div>
 
                     <div class="modal-body">
+                        <p style="line-height: 180%;">
                         이중식 교수님은 한때 열심히 연구를 했는지 모르지만 요즘은 다른 일들로 바쁘다. 2020~21년에는 HCI학회장, 22~23은 문화예술원장 보직 때문이다.<br>
                         나이가 들어 연구실에서 보내는 시간도 줄었든 것 같다. 예전에는 야간에도 오피스에 계셨던 것 같은데, 지금은 데이 타임에만 학교에 있고 그나마도 오피스외의 다른
                         공간에 머무는 시간이 많다.<br>
@@ -162,10 +162,9 @@
                         연구실의 장점이었는데 그 에너지가 줄어든 셈이다.<br>
                         리빙랩은 2020년 초에 야심차게 깃발 들었지만 연구가 활발히 진행 되지는 않는다.<br>
                         <a style="font-family: sans-serif; font-size: 17px; font-weight:bold;">연구실 기조는 바뀌지 않았다. 기술보다는
-                            기술을 사용하는
-                            인간에 관심이 많고, 단순한 시스템 개선 보다는 활동의 동기 등을 찾아 본다. 데이터 기반으로 유저를
-                            이해하려는 접근 방법도 비슷하다.</a><br>
+                            기술을 사용하는 인간에 관심이 많고, 단순한 시스템 개선 보다는 활동의 동기 등을 찾아 본다. 데이터 기반으로 유저를 이해하려는 접근 방법도 비슷하다.</a><br>
                         이 교수는 표현이 모호하다. 그래서 학생들이 고생한다
+                        </p>
                         <!-- <iframe src='https://webchat.botframework.com/embed/uxlabfaq2-bot?s=qlICCA25w5Y.f0UCb1WQdYdsHadoUMpKGN-TxNacr4Sw6IvHHing4DA' style='width: 100%;height:100%;'></iframe> -->
                     </div>
                 </div>
@@ -203,15 +202,19 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            color: #fff;
+            /* color: #fff; */
             position: fixed;
             bottom: 12%;
             left: 3%;
-            width: 120px;
-            height: 40px;
+            /* width: 120px;
+            height: 40px; */
             transform: translateY(70px);
             transition: all 250ms ease-out;
             z-index: 999;
+
+            background-image: url({{site.baseurl}}/assets/images/people/teacher.jpg) !important;
+            background-size: 55px !important;
+            background-color: transparent !important;
         }
     </style>
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
