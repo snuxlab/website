@@ -57,7 +57,7 @@ title: Home
         <!-- Modal -->
         <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
             aria-hidden="true">
-            <div class="modal-dialog" role="document">
+            <div class="modal-dialog" role="document" style="overflow-y: initial !important">
                 <div class="modal-content">
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">UX Lab 공지</h5>
@@ -65,7 +65,7 @@ title: Home
                             <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
-                    <div class="modal-body">
+                    <div class="modal-body" style="height: 80vh; overflow-y: auto;">
                         <div style="word-break: keep-all">
                             <!-- <h5>교수의 독백</h5>
                             <p style="line-height: 180%;">
@@ -162,7 +162,7 @@ title: Home
                 <div class="modal-content">
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel2">교수의 독백</h5>
-                        <button type="button" id="modal2Close" class="close" data-dismiss="modal" aria-label="Close">
+                        <button type="button" class="close modal2Close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
                     </div>
@@ -178,6 +178,9 @@ title: Home
                                 <a style="font-family: sans-serif; font-size: 17px; font-weight:bold;">연구실 기조는 바뀌지 않았다. 기술보다는 기술을 사용하는 인간에 관심이 많고, 단순한 시스템 개선 보다는 활동의 동기 등을 찾아 본다. 데이터 기반으로 유저를
                                 이해하려는 접근 방법도 비슷하다.</a><br>
                                 이 교수는 표현이 모호하다. 그래서 학생들이 고생한다.
+                                <br>
+                                <span class="modal2Close" style="text-decoration: underline">>>공지 확인</span>
+                                <br>
                             </p>
                         </div>
                     </div>
@@ -186,19 +189,10 @@ title: Home
         </div>
     </div>
 </div>
-<style>
-.modal-dialog{
-    overflow-y: initial !important
-}
-.modal-body{
-    height: 80vh;
-    overflow-y: auto;
-}
-</style>
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("modal2").click();
-        document.getElementById("modal2Close").addEventListener("click", function () {
+        document.getElementsByClassName("modal2Close").addEventListener("click", function () {
             document.getElementById("exampleModal2").classList.add('hidden', 'bs', 'modal');
             document.getElementById("modal1").click();
         });
