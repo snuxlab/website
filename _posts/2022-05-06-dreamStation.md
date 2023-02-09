@@ -4,7 +4,7 @@ title: "[종료]꿈 정거장: 대화형으로 꿈을 기록하는 보이스 서
 categories: [Project]
 image: assets/images/project/dreamStation.png
 author: snuxlab
-featured: true
+featured: false
 ---
 
 <p>
