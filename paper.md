@@ -90,7 +90,7 @@ comments: true
 
 ### 2023
 
-- **Actually, Clustering is Not Everything! How UXer analyzes behavior types with page log data: UXer 가 페이지 로그 데이터로 행동 유형을 분석하는 방**  
+- **Actually, Clustering is Not Everything! How UXer analyzes behavior types with page log data: UXer가 페이지 로그 데이터로 행동 유형을 분석하는 방법**  
   _김민주, 유지수, 이기훈, 이중식_  
   HCI KOREA 2023
 
