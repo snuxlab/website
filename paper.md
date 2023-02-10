@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paper
+title: Publications
 comments: true
 ---
 
@@ -65,21 +65,27 @@ comments: true
 - **인포모빌리티(Info-mobility): 새로운 이동성에 대해**  
   _이중식_  
   공간 Space Vol.559 2014
+
 - **병원 UX 프로젝트의 경험**  
   _이중식_  
   2013 HCI Trends Vol.2 2013
+
 - **한국의 공연문화 소비 지형의 기술: 개인의 온라인 티켓 구매 기록 분석 (Landscape of Performing Arts Consumption in Korea – Analysis of Online Ticket Transaction Data)**  
   _지숙영, 이중식, 김은미, 백영민_  
   2011 예술경영연구 제20집
+
 - **IPTV 방송 프로그램의 효율적 검색방법 연구: 온톨로지 검색기반 구축에 대한 시론적 연구 (Research on Program Search for IPTV: Based on Ontological Search Methods)**  
   _이중식_  
   2011
+
 - **웹검색 행태 연구 – 사용자가 스스로 쿼리를 뭉치는 방법으로 (Web Search Behavior Analysis Based on the Self-bundling Query Method)**  
   _이중식_  
   2011
+
 - **트위터 국내 헤비 유저 분석: 사용자 맥락을 중심으로 (Analysis of Korean Heavy User of Twitter: Focusing on User Context)**  
   _정혜란, 지숙영, 이중식_  
   2010
+
 - **사회적 과학기술 발전을 위한 새로운 시민참여모형: 온라인과학상점 (Online Science Shop: An Improved Participatory Model for Social Science and Technology)**  
   _박대민, 이중식_  
   2010
@@ -168,8 +174,6 @@ comments: true
   _이수민, 이중식_  
   HCI KOREA 2020
 
----
-
 ### 2019
 
 - **ANALYZING EXPERIENCES IN PERFORMING ARTS USING ONLINE DATA**  
@@ -203,8 +207,6 @@ comments: true
 - **“여권 사진이 어디 있더라?” 객체 인식을 활용한 사진 검색 행동에 대한 탐색적 연구**  
   _강슬기, 이중식_  
   HCI KOREA 2019
-
----
 
 ### 2018
 
@@ -240,8 +242,6 @@ comments: true
   _강슬기, 김유정, 이중식_  
   HCI KOREA 2018
 
----
-
 ### 2017
 
 - **Prescribing 10,000 Steps like Aspirin: Designing a Novel Interface for Data-Driven Medical Consultation**  
@@ -251,6 +251,7 @@ comments: true
 - **Re-intermediation in the Fashion Industry: A Qualitative Study on Brokers in the Dongdae-mun Fashion District**  
   _Minjoon Kim, Nuri Na, Joongseek Lee_  
   Full Paper - iConference 2017
+
 - **A Design Implication Proposal for Patient-Generated Data Integrated EMR Screen: The Case of Post-Surgery Rehabilitation**  
   _Jieun Song, Joongseek Lee_  
   2017 Asia-Pacific Forum of Information Schools (APIS 2017)
@@ -258,21 +259,27 @@ comments: true
 - **Development of Bengali Alphabet Self-Learning Device for Hearing-impaired Children based on Teaching Method in India**  
   _Youngin Koh, Youngchan Jeong_  
   대한인간공학회 2017
+
 - **인용문 나열을 통한 Echo Chamber 현상의 완화: 신문 기사를 중심으로**  
   _김민준, 윤종묵, 맹욱재, 이중식_  
   HCI KOREA 2017
+
 - **링크드 데이터의 시각화: 뉴스 도메인을 중심으로**  
   _김민준, 윤종묵, 맹욱재, 이중식_  
   HCI KOREA 2017
+
 - **이미지 기반 SNS에서의 #해시태그 검색 전략**  
   _나누리, 이중식_  
   HCI KOREA 2017
+
 - **Human-AI bot 인터랙션 분석 : AI bot에게 해결을 바라는 사용자의 희망사항(wish) 수집 및 분석**  
   _안아주, 이현정, 이중식_  
   HCI KOREA 2017
+
 - **4차 산업혁명 시대에서 HCI의 역할: 미래예측기법을 활용한 HCI-기술 로드맵 작성을 기반으로**  
   _한상규, 한수교, 나누리, 이중식_  
   HCI KOREA 2017
+
 - **오프라인 진료실 경험 확장을 위한 온라인 인터랙션 제안**  
   _최주은, 김유정, 이중식_  
   HCI KOREA 2017
@@ -280,23 +287,26 @@ comments: true
 - **협업 노티피케이션의 정보 전달 연구**  
   _유혜수, 송지은, 이중식_  
   HCI KOREA 2017
+
 - **실시간 정보 전달에 적합한 모바일 알림 구성 방식 연구**  
   _지현수, 이중식_  
   HCI KOREA 2017
+
 - **Off-the-shelf Artificial Intelligence and Qualitative Research – integrating IBM Alchemy Language in HCI research methodology**  
   _이현정, 이중식_  
   HCI KOREA 2017
+
 - **Exploring Knowlegde Landscape in User Experiences Using Author Keyword Analysis**  
   _테크루, 맹욱재, 송지은, 이중식_  
   HCI KOREA 2017
+
 - **일정의 유동성을 반영한 모바일 일정관리 도구에 대한 연구**  
   _윤정원, 이중식_  
   HCI KOREA 2017
+
 - **웨어러블 디바이스를 활용한 탄력밴드 운동 지속 시간 가이드 연구**  
   _맹욱재, 윤수경, 이중식_  
   HCI KOREA 2017
-
----
 
 ### 2016
 
@@ -344,8 +354,6 @@ comments: true
   _지현수, 이중식_  
   HCI KOREA 2016
 
----
-
 ### 2015
 
 - **웨어러블 디바이스를 통한 건강에 대한 주관적 인식 척도 변화**  
@@ -367,8 +375,6 @@ comments: true
 - **Travel Q: Questifying Micro Activities Using Travel Photos to Enhance Travel Experience**  
   _Yoojung Kim, Changhoon Oh, Taeyoung Lee, Donghoon Lee, Joongseek Lee, Bongwon Seo_  
   Extended Abstract - 33rd Annual CHI Conference on Human Factors in Computing Systems (CHI 2015)
-
----
 
 ### 2014
 
@@ -440,8 +446,6 @@ comments: true
   _Changhoon Oh, Jungsoo Park, Bongwon Seo_  
   ACM International Conference on Human-Computer Interaction with Mobile Devices and Service (MobileHCI 2014)
 
----
-
 ### 2013
 
 - **공간적 한계를 뛰어 넘는 화이트보드 인터페이스 디자인 연구**  
@@ -479,8 +483,6 @@ comments: true
 - **서울대 ICT4D 포럼을 통해 본 한국 ICT4D 활동자 간 소통의 필요성**  
   _정영찬, 이중식_  
   HCI KOREA 2013
-
----
 
 ### 2012
 
@@ -520,8 +522,6 @@ comments: true
   _정영찬, 이중식_  
   HCI KOREA 2012
 
----
-
 ### 2011
 
 - **트위터 기분 상태 청각화 인터페이스 (An Interface for Sonification of Mood State in Twitter)**  
@@ -544,8 +544,6 @@ comments: true
   _Hyungyu Park, Mina Im, Jaeseok Kim, Joongseek Lee_  
   International Conference on Internet (ICONI 2011)
 
----
-
 ### 2010
 
 - **양방향 TV를 통한 사진 공유에서의 사용자 인터페이스 연구 (A Study of User Interface of Photo Sharing in Interactive Television)**  
@@ -555,3 +553,10 @@ comments: true
 - **트위터 국내 헤비 유저 분석: 사용자 맥락을 중심으로 (Preliminary Research for Korean Twitter User Analysis Focusing on Extreme Heavy User’s Twitter Log)**  
   _정혜란, 지숙영, 이중식_  
   HCI KOREA 2010
+
+---
+
+## Book
+
+- **1인가구와 기술: 혼삶의 시대, 기술이 만드는 이웃감**  
+  _이중식, 김민주, 유지수, 이기훈 저 | 스리체어스(threechairs) | 2023년 01월 30일_
