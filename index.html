@@ -171,15 +171,15 @@ title: Home
                             <p style="line-height: 180%;">
                                 <img src="https://image.aladin.co.kr/product/30994/87/cover500/k572831500_1.jpg"
                                     class="center">
-                                혼자 잘살기 연구소에서 3년간의 회고를 담은 '1인 가구와 기술'을 발매했습니다. 
+                                혼자 잘살기 연구소에서 3년간의 회고를 담은 '1인 가구와 기술'을 발매했습니다.
                                 <br><br>
                                 서점과 <a href="https://www.bookjournalism.com/books/58754/category/131062">온라인</a>에서
                                 만나보세요!
-                                <br><br>
-                                <button id="modal2Close" data-dismiss="modal" data-hover="궁금하시다면"
-                                    style="display: block; margin: 0 auto;">
-                                    <div>유엑스랩이</div>
-                                </button>
+                                <br>
+                                <div style="text-align: center;">
+                                    <a href="" id="modal2Close" data-dismiss="modal">UXLAB 공지 확인</a>
+                                </div>
+                                <br>
                             </p>
                         </div>
                     </div>
@@ -196,53 +196,29 @@ title: Home
         width: 50%;
     }
 
-    #modal2Close:hover {
-        cursor: pointer
-    }
-
     #modal2Close {
-        background: transparent;
-        outline: none;
+        color: #18272F;
         position: relative;
-        border: 2px solid #111;
-        padding: 15px 50px;
-        overflow: hidden;
-        border-radius: 12px;
+        text-decoration: none;
     }
 
-    /*button:before (attr data-hover)*/
-    #modal2Close:hover:before {
-        opacity: 1;
-        transform: translate(0, 0);
-    }
-
-    #modal2Close:before {
-        content: attr(data-hover);
+    #modal2Close::before {
+        content: '';
         position: absolute;
-        top: 1.1em;
-        left: 0;
         width: 100%;
-        text-transform: uppercase;
-        /* letter-spacing: 3px; */
-        /* font-weight: 800; */
-        /* font-size: .8em; */
-        opacity: 0;
-        transform: translate(-100%, 0);
-        transition: all .3s ease-in-out;
+        height: 4px;
+        border-radius: 4px;
+        background-color: #18272F;
+        bottom: 0;
+        left: 0;
+        transform-origin: right;
+        transform: scaleX(0);
+        transition: transform .3s ease-in-out;
     }
 
-    /*button div (button text before hover)*/
-    #modal2Close:hover div {
-        opacity: 0;
-        transform: translate(100%, 0)
-    }
-
-    #modal2Close div {
-        text-transform: uppercase;
-        /* letter-spacing: 3px; */
-        /* font-weight: 800; */
-        /* font-size: .8em; */
-        transition: all .3s ease-in-out;
+    #modal2Close:hover::before {
+        transform-origin: left;
+        transform: scaleX(1);
     }
 </style>
 <script>
