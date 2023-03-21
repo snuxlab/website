@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[진행]2단계 로보틱아트: 공간지능형&대화반응형 로보틱 아트 대화에이전트 연구"
+title: "[진행] 2단계 로보틱아트: 공간지능형&대화반응형 로보틱 아트 대화에이전트 연구"
 categories: [Project]
 image: assets/images/project/roboticArt2.png
 author: snuxlab
