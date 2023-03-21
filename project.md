@@ -7,12 +7,12 @@ comment: true
 
 ## 2023
 - **<a href="https://ux.snu.ac.kr/project/2023/01/02/HAAS.html" target="_blank" style="text-decoration: underline">공유주거 Clothing Care Pilot 개발 과제</a>**
-- **<a href="https://ux.snu.ac.kr/project/2022/10/13/roboticArt2.html" target="_blank" style="text-decoration: underline">2단계 로보틱아트: 공간지능형&대화반응형 로보틱 아트 대화에이전트 연구</a>**
+- **<a href="https://ux.snu.ac.kr/project/2022/10/13/roboticArt2.html" target="_blank" style="text-decoration: underline">(2단계) 로보틱아트: 공간지능형&대화반응형 로보틱 아트 대화에이전트 연구</a>**
 
 ## 2022
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/naverShopping.html" target="_blank" style="text-decoration: underline">네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링</a>**
 - **<a href="https://ux.snu.ac.kr/project/2022/05/06/dreamStation.html" target="_blank" style="text-decoration: underline">꿈 정거장: 대화형으로 꿈을 기록하는 보이스 서비스</a>**
-- **<a href="https://ux.snu.ac.kr/project/2022/10/13/roboticArt.html" target="_blank" style="text-decoration: underline">1단계 로보틱아트: 공간지능형&대화반응형 로보틱 아트 대화에이전트 연구</a>**
+- **<a href="https://ux.snu.ac.kr/project/2022/10/13/roboticArt.html" target="_blank" style="text-decoration: underline">(1단계) 로보틱아트: 공간지능형&대화반응형 로보틱 아트 대화에이전트 연구</a>**
 - **<a href="https://ux.snu.ac.kr/project/2022/08/19/samsung_subscription.html" target="_blank" style="text-decoration: underline">가전 구독서비스 전략 및 기회 발굴 조사</a>**
 
 ---
