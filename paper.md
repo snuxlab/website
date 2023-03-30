@@ -96,6 +96,10 @@ comments: true
 
 ### 2023
 
+- **"You Said Da Da…": A Short Echoing Tweak for Journaling with VA**
+  _Jisu Ryou, Kihun Lee, Joongseek Lee_ 
+  Extended Abstract - 2023 CHI Conference on Human Factors in Computing Systems (CHI EA ’23)
+
 - **Actually, Clustering is Not Everything! How UXer analyzes behavior types with page log data: UXer가 페이지 로그 데이터로 행동 유형을 분석하는 방법**  
   _김민주, 유지수, 이기훈, 이중식_  
   HCI KOREA 2023

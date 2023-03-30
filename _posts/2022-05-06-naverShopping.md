@@ -5,7 +5,7 @@ categories: [Project]
 image: assets/images/project/naverShopping.png
 author: snuxlab
 company: 네이버 쇼핑
-featured: true
+featured: false
 ---
 
 <p>
