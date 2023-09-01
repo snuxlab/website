@@ -8,7 +8,7 @@ comments: true
 
 - **컨스트럭션빌딩 방식의 마인드업로드 연구 - 음성 기반 대화형 로봇 전시 사례를 중심으로 -**  
   _이기훈, 유지수, 이중식_  
-  디자인융복합학회 논문지, 22(4) 2023.
+  디자인융복합연구, 22(4) 2023.
   
 - **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**  
   _Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_  
