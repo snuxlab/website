@@ -6,17 +6,21 @@ comments: true
 
 ## Journal Articles
 
+- **컨스트럭션빌딩 방식의 마인드업로드 연구 - 음성 기반 대화형 로봇 전시 사례를 중심으로 - **  
+  _이기훈, 유지수, 이중식_  
+  디자인융복합학회 논문지, 22(4) 2023.
+  
 - **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**  
   _Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_  
   ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 3(4), article 138, 2019.
 
 - **카카오톡 대화에 나타난 업무 대화와 개인 대화 간 뒤섞임 : 대화 요소 간 상관관계 및 대화 내 전환 유형 분석**  
   _정영찬, 정혜란, 윤수경, 이중식_  
-  한국HCI학회 논문지, 14(4) 2019
+  한국HCI학회 논문지, 14(4) 2019.
 
 - **소비자의 공연 경험에 다가가기: 온라인 게시글 분석을 통한 공연 경험의 구성요소 탐구**  
   _고예나, 이수민, 김은미, 이중식_  
-  예술경영연구 제52집 2019
+  예술경영연구, 제52집 2019.
 
 - **Cyberslacking or Smart Work: Smartphone Usage Log-Analysis Focused on App-Switching Behavior in Work and Leisure Conditions**  
   _Youngchan Jeong, Hyelan Jung, Joongseek Lee_  
