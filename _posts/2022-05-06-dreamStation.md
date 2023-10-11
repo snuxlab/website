@@ -9,7 +9,9 @@ featured: false
 
 <p>
 <br>
-<p align="center"><img src="{{site.baseurl}}/assets/images/project/dreamStation.png"></p>
+<figure style = "margin-left: auto; margin-right: auto;  width: 50%;  text-align: center">
+    <img src="{{site.baseurl}}/assets/images/project/dreamStation.png">
+</figure>
 <br>
 ‘꿈 정거장’은 오늘날 보이스 인터랙션이 실생활에서 가장 잘 활용될 수 있는 도메인이 무엇인가에 대한 고민에서 시작된 프로젝트이다. 정보를 기록하는 다양한 툴들이 존재하지만, 그중에서도 보이스 서비스는 주로 개인의 사적 공간에서 활용되는 특징이 있다. 따라서 개인적, 사적이며 은밀한 정보를 보이스를 통해 기록하는 것이 더 효과적이라는 가설이 제시되었다.<br>
 <br>
