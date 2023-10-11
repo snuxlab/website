@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[종료]1단계 로보틱아트: 공간지능형&대화지능형 로보틱 아트 대화에이전트 연구"
+title: "[종료] 로보틱아트: 공간지능형&대화지능형 로보틱 아트 대화에이전트 연구(1)"
 categories: [Project]
 image: assets/images/project/roboticArt.png
 author: snuxlab
