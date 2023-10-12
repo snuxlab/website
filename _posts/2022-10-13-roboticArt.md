@@ -10,10 +10,8 @@ featured: true
 
 <p>
 <br>
-<figure style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="{{site.baseurl}}/assets/images/project/roboticArt.png" style="flex: 1 1 48%; max-width: 48%; height: auto;">
-    <img src="{{site.baseurl}}/assets/images/project/roboticArt_agents.png" style="flex: 1 1 48%; max-width: 48%; height: auto;">
-</figure>
+<img src="{{site.baseurl}}/assets/images/project/roboticArt.jpg" style="width: 500px; max-width: 100%; height: auto;">
+<img src="{{site.baseurl}}/assets/images/project/roboticArt_agents.jpg" style="width: 500px; max-width: 100%; height: auto;">
 <br>
 인공지능으로 대변되는 이시대에 기술은 아티스트에게 창의성과 예술성에 대한 새로운 고민을 제안한다. 하지만 로보틱아트는 공학적 난이도가 높아 융・복합(예술・공학) 관점에서의 접근이 필요하다. 본 프로젝트에서는 로보아츠(Robot-Arts)의 공간지능형/대화반응형 대화에이전트를 제공하여 예술분야의 또다른 방향을 제시하고자 한다.<br>
 <br>
