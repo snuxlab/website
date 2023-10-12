@@ -10,9 +10,9 @@ featured: true
 
 <p>
 <br>
-<img src="{{site.baseurl}}/assets/images/project/roboticArt.png" style="width: 500px; max-width: 100%; height: auto;">
-<img src="{{site.baseurl}}/assets/images/project/roboticArt_agents.png" style="width: 500px; max-width: 100%; height: auto;">
-<br>
+<img src="{{site.baseurl}}/assets/images/project/roboticArt.png" style="width: 565px; max-width: 100%; height: auto;">
+<img src="{{site.baseurl}}/assets/images/project/roboticArt_agents.png" style="width: 530px; max-width: 100%; height: auto;">
+<br><br>
 인공지능으로 대변되는 이시대에 기술은 아티스트에게 창의성과 예술성에 대한 새로운 고민을 제안한다. 하지만 로보틱아트는 공학적 난이도가 높아 융・복합(예술・공학) 관점에서의 접근이 필요하다. 본 프로젝트에서는 로보아츠(Robot-Arts)의 공간지능형/대화반응형 대화에이전트를 제공하여 예술분야의 또다른 방향을 제시하고자 한다.<br>
 <br>
 로보아츠에 접근하는 유엑스랩의 관점에서 볼 때, 로보아츠의 중심에는 사용자, 즉 인간의 이해가 있다. 기술 자체가 중요한 것이 아니라, 그 기술이 어떻게 인간과 상호작용하는지, 인간의 감각과 어떻게 연결되는지가 핵심이다. 최근에는 AI와 인간 간의 상호작용 연구가 활발히 진행되고 있으며, 특히 보이스 인터액션에 대한 연구가 주목을 받고 있다. 그럼에도 불구하고 이번 과제에서는 단순히 기능적인 보이스 인터액션에만 집중하는 것이 아니라, 미디어아츠 적 접근을 통한 실험적인 보이스 인터액션을 탐구하였다.<br>
