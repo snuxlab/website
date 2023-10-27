@@ -6,6 +6,10 @@ comments: true
 
 ## Journal Articles
 
+- **“I Want to Reveal, but I Also Want to Hide” Understanding the Conflict of Revealing and Hiding Needs in Virtual Study Rooms**
+  _Soobin Cho, Joongseek Lee, Bongwon Suh_  
+  Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-27
+
 - **컨스트럭션빌딩 방식의 마인드업로드 연구 - 음성 기반 대화형 로봇 전시 사례를 중심으로 -**  
   _이기훈, 유지수, 이중식_  
   디자인융복합연구, 22(4) 2023.
