@@ -6,7 +6,7 @@ comments: true
 
 ## Journal Articles
 
-- **“I Want to Reveal, but I Also Want to Hide” Understanding the Conflict of Revealing and Hiding Needs in Virtual Study Rooms**
+- **“I Want to Reveal, but I Also Want to Hide” Understanding the Conflict of Revealing and Hiding Needs in Virtual Study Rooms**  
   _Soobin Cho, Joongseek Lee, Bongwon Suh_  
   Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-27
 
