@@ -8,7 +8,11 @@ comments: true
 
 - **컨스트럭션빌딩 방식의 마인드업로드 연구 - 음성 기반 대화형 로봇 전시 사례를 중심으로 -**  
   _이기훈, 유지수, 이중식_  
-  디자인융복합연구, 22(4) 2023.
+  디자인융복합연구, 22(4), 37-58. 2023.
+
+- **Cyberslacking or Smart Work: Smartphone Usage Log-Analysis Focused on App-Switching Behavior in Work and Leisure Conditions**  
+  _Youngchan Jeong, Hyelan Jung, Joongseek Lee_  
+  International Journal of Human–Computer Interaction, 36(1), 15-30. 2020.
   
 - **Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal Motor Function in Stroke Survivors**  
   _Yoojung Kim, Hee-Tae Jung, Joonwoo Park, Yangsoo Kim, Ramasarma Nathan, Bonato Paolo, Eun Kyoung Choe, Sunghoon Ivan Lee_  
@@ -21,10 +25,6 @@ comments: true
 - **소비자의 공연 경험에 다가가기: 온라인 게시글 분석을 통한 공연 경험의 구성요소 탐구**  
   _고예나, 이수민, 김은미, 이중식_  
   예술경영연구, 제52집 2019.
-
-- **Cyberslacking or Smart Work: Smartphone Usage Log-Analysis Focused on App-Switching Behavior in Work and Leisure Conditions**  
-  _Youngchan Jeong, Hyelan Jung, Joongseek Lee_  
-  International Journal of Human–Computer Interaction (2019): 1-16.
 
 - **태스크 디자인 방식이 크라우드소싱 기반의 학습데이터 수집결과에 미치는 영향 연구 - 대화형 에이전트 개발을 위한 자연어 학습데이터 수집을 중심으로 -**  
   _김병준, 이중식_  
@@ -97,6 +97,15 @@ comments: true
 ---
 
 ## Conference Proceedings
+
+### 2024
+
+- **“My vision tells me nothing!": 청각 큐 중심의 공간 탐색에서 사용자 행동 분석 연구**  
+  _이기훈, 유선경, 이중식_  
+  HCI KOREA 2024
+- **허공에서의 속삭임: 방향 탐색을 위한 청각 비콘 사운드 연구**  
+  _유선경, 이기훈, 이중식_  
+  HCI KOREA 2024
 
 ### 2023
 
