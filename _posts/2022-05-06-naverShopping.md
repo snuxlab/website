@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[종료]네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링"
+title: "[종료] 네이버 쇼핑 UX 개선: 로그 데이터 기반 행동 유형 모델링"
 categories: [Project]
 image: assets/images/project/naverShopping.png
 author: snuxlab

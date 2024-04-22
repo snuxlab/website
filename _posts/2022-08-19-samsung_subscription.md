@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "[종료]삼성전자 생활가전: 가전 구독서비스 전략 및 기회 발굴 조사"
+title: "[종료] 삼성전자 생활가전: 가전 구독서비스 전략 및 기회 발굴 조사"
 categories: [Project]
 image: assets/images/project/ss_1.png
 author: snuxlab
 company: 삼성전자
-featured: true
+featured: false
 ---
 
 <p>
