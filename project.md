@@ -4,6 +4,8 @@ title: Project
 comment: true
 
 ---
+## 2024
+- **<a href="https://ux.snu.ac.kr/project/2024/04/22/hiux.html" target="_blank" style="text-decoration: underline">금융 도메인에서의 초개인화를 위한 방법론 연구</a>**
 
 ## 2023
 - **<a href="https://ux.snu.ac.kr/project/2023/01/02/HAAS.html" target="_blank" style="text-decoration: underline">공유주거 Clothing Care Pilot 개발 과제</a>**
