@@ -6,6 +6,7 @@ comment: true
 ---
 ## 2024
 
+- **<a href="https://ux.snu.ac.kr/project/2024/10/25/cxq.html" target="_blank" style="text-decoration: underline">Text 중심 대화 경험의 UX 평가 요소와 검증 방법 연구</a>**
 - **<a href="https://ux.snu.ac.kr/project/2024/04/22/hiux.html" target="_blank" style="text-decoration: underline">금융 도메인에서의 초개인화를 위한 방법론 연구</a>**
 
 ---

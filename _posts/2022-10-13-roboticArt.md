@@ -5,7 +5,7 @@ categories: [Project]
 image: assets/images/project/roboticArt.png
 author: snuxlab
 company: 콘텐츠진흥원 / 아트센터 나비
-featured: true
+featured: false
 ---
 
 <p>
