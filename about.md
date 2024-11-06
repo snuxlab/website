@@ -19,7 +19,7 @@ comments: true
 #### 랩미팅 참관 <br>
 매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다.<br>
 대학원 진학과 연구 진행 사항에 관심 혹은 궁금한 점이 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
-랩미팅의 발표 자료는 [LAB METTING](https://eight-balaur-490.notion.site/SNU-UXLAB-1367a3cdceb880a28b21cc05c6cd056f?pvs=4)에서 확인 가능합니다. <br>
+랩미팅의 발표 자료는 [LAB METTING](https://eight-balaur-490.notion.site/SNU-UXLAB-1367a3cdceb880a08867e946c3af1be3?pvs=4)에서 확인 가능합니다. <br>
 
 #### 인턴쉽 지원 <br>
 유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다.<br>
