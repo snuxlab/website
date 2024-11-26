@@ -187,7 +187,64 @@ title: Home
                     </div>
                 </div>
             </div>
-        </div><!-- 11261040 테스트-->
+        </div>
+        
+        <style>
+            /* Modal Body 스타일 */
+            .modal-body {
+                font-family: Arial, sans-serif;
+                padding: 20px;
+            }
+        
+            /* Book List 스타일 */
+            .book-list {
+                display: flex;
+                flex-direction: column; /* 여러 책을 세로로 나열 */
+                gap: 20px;
+            }
+        
+            /* Book Item 스타일 */
+            .book-item {
+                display: flex; /* 이미지와 텍스트를 가로로 배치 */
+                align-items: flex-start; /* 이미지와 텍스트 상단 정렬 */
+                gap: 15px; /* 이미지와 텍스트 사이 간격 */
+                border: 1px solid #ddd; /* 테두리 추가 */
+                padding: 10px; /* 내부 여백 */
+                border-radius: 8px; /* 테두리 모서리 둥글게 */
+            }
+        
+            /* 이미지 스타일 */
+            .book-item img {
+                max-width: 120px; /* 이미지 너비 제한 */
+                height: auto; /* 이미지 비율 유지 */
+                border-radius: 5px; /* 이미지 모서리 둥글게 */
+            }
+        
+            /* 텍스트 스타일 */
+            .book-info {
+                text-align: left;
+            }
+        
+            .book-info h3 {
+                font-size: 16px;
+                margin: 0 0 8px 0; /* 제목 아래 간격 */
+            }
+        
+            .book-info p {
+                font-size: 14px;
+                margin: 0;
+                line-height: 1.5;
+            }
+        
+            .book-info a {
+                color: #007bff; /* 링크 색상 */
+                text-decoration: none; /* 링크 밑줄 제거 */
+            }
+        
+            .book-info a:hover {
+                text-decoration: underline; /* 마우스 올릴 때 밑줄 표시 */
+            }
+        </style><!-- 11261040 테스트-->
         <!-- Modal 2 origin-
         <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2"
             aria-hidden="true">
