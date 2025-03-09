@@ -4,6 +4,12 @@ title: Project
 comment: true
 
 ---
+## 2025
+
+- **<a href="https://ux.snu.ac.kr/project/2025/03/09/xqOn.html" target="_blank" style="text-decoration: underline">Voice 중심 대화 경험의 UX 평가 요소와 검증 방법 연구</a>**
+
+---
+
 ## 2024
 
 - **<a href="https://ux.snu.ac.kr/project/2024/10/25/cxq.html" target="_blank" style="text-decoration: underline">Text 중심 대화 경험의 UX 평가 요소와 검증 방법 연구</a>**
