@@ -25,7 +25,7 @@ comments: true
 유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다.<br>
 인턴쉽을 지원하시는 분들께서는 인턴쉽 시작을 희망하시는 기간 20일 전에는 신청 부탁드립니다. (e.g. 3-4월 인턴 지원시, 2월 10일까지 신청)<br> 
 3-4월, 5-6월, 9-10월, 11-12월 인턴쉽을 지원하실 분께서는 [신청 양식](https://docs.google.com/forms/d/e/1FAIpQLSdMxVzdUsO0bE15rotOCqhMHMJpiVLIF7DcvPu-kvFg8rkUyg/viewform)을 참고해 주세요.<br>
-이 외에, 동계 인턴쉽(1-2월)과 하계 인턴쉽(7-8월)은 [융합과학기술대학원 홈페이지](https://convergence.snu.ac.kr/)를 공지사항을 참고하여 신청 바랍니다.<br>
+이 외에, 동계 인턴쉽(1-2월)과 하계 인턴쉽(7-8월)은 [융합과학기술대학원 홈페이지](https://convergence.snu.ac.kr/category/convergence_research_notice/)를 공지사항을 참고하여 신청 바랍니다.<br>
 
 <!--
 #### SNS<br>
