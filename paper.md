@@ -6,6 +6,10 @@ comments: true
 
 ## Journal Articles
 
+- **Listening with the Eyes: Understanding User Gaze Influence in Counseling Dialogues with GC-Speaker**  
+  _Kihun Lee, Sunkyeong Yoo, Joongseek Lee_  
+  International Journal of Human–Computer Interaction, 1-17, 2025ƒ.
+  
 - **“I Want to Reveal, but I Also Want to Hide” Understanding the Conflict of Revealing and Hiding Needs in Virtual Study Rooms**  
   _Soobin Cho, Joongseek Lee, Bongwon Suh_  
   Proceedings of the ACM on Human-Computer Interaction 7 (CSCW2), 1-27, 2023.
