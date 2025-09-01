@@ -6,9 +6,13 @@ comments: true
 
 ## Journal Articles
 
+- **Trapped in the Prompt Loop: Reprompt Behavior in Writing with ChatGPT**  
+  _Hyelan Jung, Youngchan Jeong, Joongseek Lee_  
+  International Journal of Human–Computer Interaction, Published online, 1-29, 2025.
+
 - **Listening with the Eyes: Understanding User Gaze Influence in Counseling Dialogues with GC-Speaker**  
   _Kihun Lee, Sunkyeong Yoo, Joongseek Lee_  
-  International Journal of Human–Computer Interaction, 1-17, 2025.
+  International Journal of Human–Computer Interaction, Published online, 1-17, 2025.
   
 - **“I Want to Reveal, but I Also Want to Hide” Understanding the Conflict of Revealing and Hiding Needs in Virtual Study Rooms**  
   _Soobin Cho, Joongseek Lee, Bongwon Suh_  
