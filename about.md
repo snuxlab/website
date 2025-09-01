@@ -21,9 +21,9 @@ comments: true
 대학원 진학과 연구 진행 사항에 관심 혹은 궁금한 점이 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
 랩미팅의 발표 자료는 [LAB METTING](https://www.notion.so/SNU-UXLAB-1367a3cdceb880a08867e946c3af1be3?pvs=4)에서 확인 가능합니다. <br>
 
-<br><i class="fas fa-thumbtack" style="margin-right: 10px;"></i><strong>공지</strong>
+<!-- <br><i class="fas fa-thumbtack" style="margin-right: 10px;"></i><strong>공지</strong>
 2025년 8월에는 랩미팅을 쉬어갑니다.<br>
-랩미팅 참관을 원하시는 분께서는 9월 일정에 맞추어 신청 부탁드립니다.<br>
+랩미팅 참관을 원하시는 분께서는 9월 일정에 맞추어 신청 부탁드립니다.<br> -->
 
 #### 인턴쉽 지원 <br>
 유엑스랩에서는 2개월 단위로 인턴을 상시 모집하고 있습니다.<br>
