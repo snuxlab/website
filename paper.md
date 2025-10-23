@@ -6,6 +6,10 @@ comments: true
 
 ## Journal Articles
 
+- **GazeSpeaker: Gaze-driven Response Depth Adaptation in Exploratory Information-Seeking Dialogues with Smart Speaker**  
+  _Kihun Lee, Sunkyeong Yoo, Joongseek Lee_  
+  Human-centric Computing and Information Sciences, Published online, 1-21, 2025.
+  
 - **Trapped in the Prompt Loop: Reprompt Behavior in Writing with ChatGPT**  
   _Hyelan Jung, Youngchan Jeong, Joongseek Lee_  
   International Journal of Human–Computer Interaction, Published online, 1-29, 2025.
