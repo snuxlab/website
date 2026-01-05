@@ -17,7 +17,7 @@ comments: true
 <h2 style="color: OliveDrab; font-style: italic;"><b>Communication</b></h2>
 
 #### 랩미팅 참관 <br>
-매주 목요일 오전 11시에 연구실 랩미팅을 진행합니다.<br>
+매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다.<br>
 대학원 진학과 연구 진행 사항에 관심 혹은 궁금한 점이 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
 랩미팅의 발표 자료는 [LAB METTING](https://www.notion.so/SNU-UXLAB-1367a3cdceb880a08867e946c3af1be3?pvs=4)에서 확인 가능합니다. <br>
 
