@@ -114,6 +114,15 @@ comments: true
 
 ## Conference Proceedings
 
+### 2026
+
+- **“Don’t Look, But I Know You Do”: Norms and Observer Effects in Shared LLM Accounts**  
+  _Ji Eun Song, Eunchae Lee, Juhee Im, Hyunsoo Jang, Eunji Kim, Joongseek Lee_  
+  Full Paper - 46th Annual CHI Conference on Human Factors in Computing Systems (CHI 2026)
+- **Don't Mess Up My Algorithm": Phatic Communication and Algorithmic Contagion in Meme Sharing**  
+  _Jieun Song, Hyunsoo Jang, Juhee Im, Joongseek Lee_  
+  Extended Abstract - 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26)
+
 ### 2025
 
 - **선글라스 쓰고 앱 찾기 : 틴트 모드가 앱 탐색에 미치는 영향에 대한 탐색적 연구**  
