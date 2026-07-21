@@ -6,10 +6,6 @@ logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 paginate: 8
 baseurl:
-email: "snuxlab@gmail.com"
-google_analytics: "UA-115605548-1"
-disqus: "demowebsite"
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
@@ -74,6 +70,11 @@ authors:
 plugins:
   - jekyll-paginate
   - jekyll-archives
+
+# Local compliance artifacts are not part of the public website.
+exclude:
+  - docs
+  - scripts
 
 # Archives
 jekyll-archives:

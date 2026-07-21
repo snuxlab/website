@@ -1,0 +1,16 @@
+/* Nanum Gothic, Google Fonts asset revision v26, SIL Open Font License 1.1. */
+@font-face {
+  font-family: "Nanum Gothic";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/nanum-gothic-400.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nanum Gothic";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/nanum-gothic-700.ttf") format("truetype");
+}
