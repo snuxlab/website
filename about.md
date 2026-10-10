@@ -12,6 +12,7 @@ comments: true
 
 기술철학은 연구의 질문과 기준을 세우는 토대입니다. AI에게 일을 맡긴다는 것은 무엇인지, 사용자의 자율성과 책임은 어떻게 달라지는지 탐구합니다. 개념을 읽고 토론하는 일, 데이터를 분석하는 일, 프로토타입을 만들고 사용자와 검증하는 일을 함께 수행합니다.
 
+<hr>
 <h2 style="color: OliveDrab; font-style: italic;"><b>Research Area</b></h2>
 
 #### 기술철학
@@ -37,17 +38,7 @@ comments: true
 
 
 <hr>
-<h2 style="color: OliveDrab; font-style: italic;"><b>Communication</b></h2>
-
-#### 랩미팅 참관 <br>
-매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다.<br>
-대학원 진학과 연구 진행 사항에 관심 혹은 궁금한 점이 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
-랩미팅의 발표 자료는 [LAB MEETING](https://www.notion.so/SNU-UXLAB-1367a3cdceb880a08867e946c3af1be3?pvs=4)에서 확인 가능합니다. <br>
-
-<!-- <br><i class="fas fa-thumbtack" style="margin-right: 10px;"></i><strong>공지</strong>
-2025년 8월에는 랩미팅을 쉬어갑니다.<br>
-랩미팅 참관을 원하시는 분께서는 9월 일정에 맞추어 신청 부탁드립니다.<br> -->
-
+<h2 style="color: OliveDrab; font-style: italic;"><b>Join Our Lab</b></h2>
 #### 인턴쉽 지원 <br>
 현재 교수님 안식년(2026년 하반기 ~ 2027년 상반기)으로 인해 당분간 인턴쉽을 운영하지 않고 있습니다.
 인턴쉽 운영 재개 시, 연구실 홈페이지 팝업을 통해 다시 안내드리도록 하겠습니다. 참고 부탁드립니다.
@@ -72,6 +63,18 @@ comments: true
 석사·석박사통합과정은 1단계 서류심사와 2단계 면접 및 구술고사를 거칩니다. 구술고사는 알고리즘의 기초·선형대수·머신러닝의 기초 중 한 과목을 선택합니다. 심층 구술 면접 대상자는 정해진 기간에 관심 있는 교수에게 개별 연락해야 합니다. 박사과정은 구술고사 없이 면접을 진행합니다.
 
 이번 전기모집 원서접수는 2026년 10월 2일 마감되었습니다. 1단계 합격자 발표는 10월 23일, 면접·구술고사는 10월 30일, 석사·석박사통합 심층 구술 면접은 10월 31일부터 11월 5일까지입니다. 세부사항은 [공식 입학 안내](https://snuai.snu.ac.kr/입학/) 를 확인해 주세요.
+
+<hr>
+<h2 style="color: OliveDrab; font-style: italic;"><b>Communication</b></h2>
+
+#### 랩미팅 참관 <br>
+매주 목요일 오전 10시에 연구실 랩미팅을 진행합니다.<br>
+대학원 진학과 연구 진행 사항에 관심 혹은 궁금한 점이 있으신 분들은 [참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfPyFlmYPDzyc-erq9WM6zVkeiOxz_ylvtriEzMriWdKZ9OEA/viewform)해 주세요. <br>
+랩미팅의 발표 자료는 [LAB MEETING](https://www.notion.so/SNU-UXLAB-1367a3cdceb880a08867e946c3af1be3?pvs=4)에서 확인 가능합니다. <br>
+
+<!-- <br><i class="fas fa-thumbtack" style="margin-right: 10px;"></i><strong>공지</strong>
+2025년 8월에는 랩미팅을 쉬어갑니다.<br>
+랩미팅 참관을 원하시는 분께서는 9월 일정에 맞추어 신청 부탁드립니다.<br> -->
 
 #### 문의<br>
 문의사항이 있으시다면 부담 없이 이메일(snuxlab@gmail.com)를 통해 남겨 주세요! <br>
